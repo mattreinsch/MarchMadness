@@ -1,0 +1,3786 @@
+Team,Opponent,Date,Win,OffAdjusted,DefAdjusted,OffAdjusted2,DefAdjusted2
+Virginia,Duke,2019,,123.6,88.1,120.1,88.2
+Brown,Yale,2018,0,98.7,96.9,111.7,103.2
+Yale,Brown,2018,1,111.7,103.2,98.7,96.9
+Houston Baptist,McNeese State,2018,0,102.9,112.6,98.1,114.6
+McNeese State,Houston Baptist,2018,1,98.1,114.6,102.9,112.6
+Fordham,George Washington,2018,0,96.5,104.4,95.2,106
+George Washington,Fordham,2018,1,95.2,106,96.5,104.4
+Cal Baptist,Utah Valley,2018,0,106.7,109.3,108.9,102.1
+Utah Valley,Cal Baptist,2018,1,108.9,102.1,106.7,109.3
+Oklahoma,West Virginia,2018,0,109.5,94,109.1,101.9
+West Virginia,Oklahoma,2018,1,109.1,101.9,109.5,94
+Tulsa,Wichita State,2018,0,104.7,100.5,106,98.5
+Wichita State,Tulsa,2018,1,106,98.5,104.7,100.5
+Texas Tech,Kansas,2018,0,112.8,86,112.8,92.1
+Kansas,Texas Tech,2018,1,112.8,92.1,112.8,86
+George Mason,VCU,2018,0,104.4,103.8,104.3,88.7
+VCU,George Mason,2018,1,104.3,88.7,104.4,103.8
+Michigan State,Illinois,2018,0,121.8,90.5,109.1,100.7
+Illinois,Michigan State,2018,1,109.1,100.7,121.8,90.5
+Niagara,Marist,2018,0,101.6,115.2,100.1,109.6
+Marist,Niagara,2018,1,100.1,109.6,101.6,115.2
+Minnesota,Michigan State,2018,0,110.7,96.3,121.8,90.5
+Michigan State,Minnesota,2018,1,121.8,90.5,110.7,96.3
+California,Oregon State,2018,0,103,110.2,111.2,103.3
+Oregon State,California,2018,1,111.2,103.3,103,110.2
+Oakland,Northern Ky.,2018,0,107.4,109.5,109.4,102.7
+Northern Ky.,Oakland,2018,1,109.4,102.7,107.4,109.5
+Niagara,Iona,2018,0,101.6,115.2,106.5,109.7
+Iona,Niagara,2018,1,106.5,109.7,101.6,115.2
+Arkansas,Missouri,2018,0,110.3,97.3,106.8,97
+Missouri,Arkansas,2018,1,106.8,97,110.3,97.3
+USC,Stanford,2018,0,109.3,101.6,103.4,98.2
+Stanford,USC,2018,1,103.4,98.2,109.3,101.6
+Army,Navy,2018,0,96.2,103,97.2,107.1
+Navy,Army,2018,1,97.2,107.1,96.2,103
+Memphis,UCF,2018,0,109,97.7,110.5,95.8
+UCF,Memphis,2018,1,110.5,95.8,109,97.7
+Ole Miss,South Carolina,2018,0,112.9,97.7,108,98.3
+South Carolina,Ole Miss,2018,1,108,98.3,112.9,97.7
+Arkansas,Auburn,2018,0,110.3,97.3,119.7,96.3
+Auburn,Arkansas,2018,1,119.7,96.3,110.3,97.3
+Butler,Marquette,2018,0,110.8,101.1,114.1,95.9
+Marquette,Butler,2018,1,114.1,95.9,110.8,101.1
+Columbia,Princeton,2018,0,101.8,106.3,98.7,99.7
+Princeton,Columbia,2018,1,98.7,99.7,101.8,106.3
+UMKC,Utah Valley,2018,0,101,107.2,108.9,102.1
+Utah Valley,UMKC,2018,1,108.9,102.1,101,107.2
+Green Bay,IUPUI,2018,0,103,106.5,103.4,105.8
+IUPUI,Green Bay,2018,1,103.4,105.8,103,106.5
+Holy Cross,Colgate,2018,0,101,107.8,110.1,105.8
+Colgate,Holy Cross,2018,1,110.1,105.8,101,107.8
+Davidson,La Salle,2018,0,108,100.2,99.9,105.1
+La Salle,Davidson,2018,1,99.9,105.1,108,100.2
+Arizona State,Oregon,2018,0,109.9,98.6,107.8,92.6
+Oregon,Arizona State,2018,1,107.8,92.6,109.9,98.6
+Villanova,Seton Hall,2018,0,116.9,98.4,109.3,96.6
+Seton Hall,Villanova,2018,1,109.3,96.6,116.9,98.4
+Duke,UNC,2018,0,120.1,88.2,119.9,90.8
+UNC,Duke,2018,1,119.9,90.8,120.1,88.2
+North Florida,Dayton,2018,0,103.8,104.6,111.9,100.6
+Dayton,North Florida,2018,1,111.9,100.6,103.8,104.6
+Utah,Minnesota,2018,0,114.3,108.9,110.7,96.3
+Minnesota,Utah,2018,1,110.7,96.3,114.3,108.9
+Marist,Lehigh,2018,0,100.1,109.6,108.7,109.5
+Lehigh,Marist,2018,1,108.7,109.5,100.1,109.6
+USC Upstate,VMI,2018,0,92.9,111.4,102.3,112.3
+VMI,USC Upstate,2018,1,102.3,112.3,92.9,111.4
+IUPUI,Richmond,2018,0,103.4,105.8,106.8,110.1
+Richmond,IUPUI,2018,1,106.8,110.1,103.4,105.8
+Northeastern,Davidson,2018,0,111.5,102.8,108,100.2
+Davidson,Northeastern,2018,1,108,100.2,111.5,102.8
+Sacred Heart,Binghamton,2018,0,104.2,110.7,95.9,112.7
+Binghamton,Sacred Heart,2018,1,95.9,112.7,104.2,110.7
+Murray State,Alabama,2018,0,112.2,98.7,108.2,96.7
+Alabama,Murray State,2018,1,108.2,96.7,112.2,98.7
+Santa Clara,California,2018,0,101.8,103.8,103,110.2
+California,Santa Clara,2018,1,103,110.2,101.8,103.8
+UMBC,Northern Ky.,2018,0,96,101.8,109.4,102.7
+Northern Ky.,UMBC,2018,1,109.4,102.7,96,101.8
+UNC Greensboro,Kentucky,2018,0,106.6,97.9,118.3,90.9
+Kentucky,UNC Greensboro,2018,1,118.3,90.9,106.6,97.9
+Norfolk State,Kent State,2018,0,97.6,106,109.7,106.8
+Kent State,Norfolk State,2018,1,109.7,106.8,97.6,106
+Georgia State,Liberty,2018,0,108,102.4,110.6,99.6
+Liberty,Georgia State,2018,1,110.6,99.6,108,102.4
+Northern Ky.,Cincinnati,2018,0,109.4,102.7,111.7,94.6
+Cincinnati,Northern Ky.,2018,1,111.7,94.6,109.4,102.7
+Maine,Dartmouth,2018,0,93.1,111.8,103.3,108
+Dartmouth,Maine,2018,1,103.3,108,93.1,111.8
+Rutgers,Fordham,2018,0,105.6,96.3,96.5,104.4
+Fordham,Rutgers,2018,1,96.5,104.4,105.6,96.3
+Radford,Ohio,2018,0,108.7,104.3,98.7,100.2
+Ohio,Radford,2018,1,98.7,100.2,108.7,104.3
+Villanova,Penn,2018,0,116.9,98.4,104,99.8
+Penn,Villanova,2018,1,104,99.8,116.9,98.4
+Pepperdine,Southern Utah,2018,0,106.7,105.4,96.5,106.5
+Southern Utah,Pepperdine,2018,1,96.5,106.5,106.7,105.4
+Morehead State,Wright State,2018,0,102.4,109.9,106.7,102
+Wright State,Morehead State,2018,1,106.7,102,102.4,109.9
+San Jose State,Stanford,2018,0,91.8,113.7,103.4,98.2
+Stanford,San Jose State,2018,1,103.4,98.2,91.8,113.7
+Radford,Maryland,2018,0,108.7,104.3,113.9,94
+Maryland,Radford,2018,1,113.9,94,108.7,104.3
+Lehigh,West Virginia,2018,0,108.7,109.5,109.1,101.9
+West Virginia,Lehigh,2018,1,109.1,101.9,108.7,109.5
+Temple,UCF,2018,0,108.6,99.6,110.5,95.8
+UCF,Temple,2018,1,110.5,95.8,108.6,99.6
+Colorado State,UNLV,2018,0,107.5,108.7,105.9,106.1
+UNLV,Colorado State,2018,1,105.9,106.1,107.5,108.7
+Louisiana Tech,Rice,2018,0,104.8,101.8,103,110.4
+Rice,Louisiana Tech,2018,1,103,110.4,104.8,101.8
+South Florida,Tulsa,2018,0,102.4,97.3,104.7,100.5
+Tulsa,South Florida,2018,1,104.7,100.5,102.4,97.3
+Mercer,Wofford,2018,0,103.6,106.2,118.5,97.7
+Wofford,Mercer,2018,1,118.5,97.7,103.6,106.2
+Colorado State,Fresno State,2018,0,107.5,108.7,108.3,98.6
+Fresno State,Colorado State,2018,1,108.3,98.6,107.5,108.7
+Manhattan,Marist,2018,0,89.4,104.6,100.1,109.6
+Marist,Manhattan,2018,1,100.1,109.6,89.4,104.6
+Stephen F. Austin,Nicholls State,2018,0,95.4,108.2,98.7,111.4
+Nicholls State,Stephen F. Austin,2018,1,98.7,111.4,95.4,108.2
+SIU Edwardsville,Tennessee Tech,2018,0,96.6,113,89.6,104.6
+Tennessee Tech,SIU Edwardsville,2018,1,89.6,104.6,96.6,113
+East Carolina,Memphis,2018,0,98,107,109,97.7
+Memphis,East Carolina,2018,1,109,97.7,98,107
+Indiana,Maryland,2018,0,110.2,95.1,113.9,94
+Maryland,Indiana,2018,1,113.9,94,110.2,95.1
+Binghamton,Vermont,2018,0,95.9,112.7,108,99.3
+Vermont,Binghamton,2018,1,108,99.3,95.9,112.7
+Southern Miss,Old Dominion,2018,0,106.6,100.2,102,96.4
+Old Dominion,Southern Miss,2018,1,102,96.4,106.6,100.2
+Oregon,Arizona State,2018,0,107.8,92.6,109.9,98.6
+Arizona State,Oregon,2018,1,109.9,98.6,107.8,92.6
+UMKC,Grand Canyon,2018,0,101,107.2,108.1,102
+Grand Canyon,UMKC,2018,1,108.1,102,101,107.2
+Colorado,Utah,2018,0,107,96.5,114.3,108.9
+Utah,Colorado,2018,1,114.3,108.9,107,96.5
+Evansville,Drake,2018,0,99.4,104.7,107.1,102.7
+Drake,Evansville,2018,1,107.1,102.7,99.4,104.7
+Maine,Binghamton,2018,0,93.1,111.8,95.9,112.7
+Binghamton,Maine,2018,1,95.9,112.7,93.1,111.8
+Ball State,Ohio,2018,0,102.4,98.3,98.7,100.2
+Ohio,Ball State,2018,1,98.7,100.2,102.4,98.3
+Syracuse,Virginia Tech,2018,0,110.2,94,118.5,94.1
+Virginia Tech,Syracuse,2018,1,118.5,94.1,110.2,94
+Canisius,Niagara,2018,0,101.5,111.4,101.6,115.2
+Niagara,Canisius,2018,1,101.6,115.2,101.5,111.4
+Cleveland State,Detroit,2018,0,101.6,111.6,106.2,112.6
+Detroit,Cleveland State,2018,1,106.2,112.6,101.6,111.6
+Iona,Marist,2018,0,106.5,109.7,100.1,109.6
+Marist,Iona,2018,1,100.1,109.6,106.5,109.7
+Marshall,North Texas,2018,0,107.4,107.6,99.6,99.1
+North Texas,Marshall,2018,1,99.6,99.1,107.4,107.6
+Denver,Oral Roberts,2018,0,99.8,112.9,103.4,114.1
+Oral Roberts,Denver,2018,1,103.4,114.1,99.8,112.9
+Pacific,Saint Mary's,2018,0,99.8,104.3,114.7,97.1
+Saint Mary's,Pacific,2018,1,114.7,97.1,99.8,104.3
+Milwaukee,Cleveland State,2018,0,98.3,109.5,101.6,111.6
+Cleveland State,Milwaukee,2018,1,101.6,111.6,98.3,109.5
+Idaho State,Southern Utah,2018,0,101.9,118.2,96.5,106.5
+Southern Utah,Idaho State,2018,1,96.5,106.5,101.9,118.2
+Princeton,Brown,2018,0,98.7,99.7,98.7,96.9
+Brown,Princeton,2018,1,98.7,96.9,98.7,99.7
+Penn,Yale,2018,0,104,99.8,111.7,103.2
+Yale,Penn,2018,1,111.7,103.2,104,99.8
+Santa Clara,San Francisco,2018,0,101.8,103.8,111.8,101.9
+San Francisco,Santa Clara,2018,1,111.8,101.9,101.8,103.8
+South Florida,UCF,2018,0,102.4,97.3,110.5,95.8
+UCF,South Florida,2018,1,110.5,95.8,102.4,97.3
+UTSA,Southern Miss,2018,0,105.8,104.1,106.6,100.2
+Southern Miss,UTSA,2018,1,106.6,100.2,105.8,104.1
+West Virginia,Kansas,2018,0,109.1,101.9,112.8,92.1
+Kansas,West Virginia,2018,1,112.8,92.1,109.1,101.9
+Southern Utah,Portland State,2018,0,96.5,106.5,101.6,112
+Portland State,Southern Utah,2018,1,101.6,112,96.5,106.5
+Fairfield,Niagara,2018,0,95.8,107.3,101.6,115.2
+Niagara,Fairfield,2018,1,101.6,115.2,95.8,107.3
+Oklahoma,Iowa State,2018,0,109.5,94,119.1,97.3
+Iowa State,Oklahoma,2018,1,119.1,97.3,109.5,94
+Ohio,Kent State,2018,0,98.7,100.2,109.7,106.8
+Kent State,Ohio,2018,1,109.7,106.8,98.7,100.2
+Maryland,Penn State,2018,0,113.9,94,109.5,94.2
+Penn State,Maryland,2018,1,109.5,94.2,113.9,94
+Presbyterian,Gardner-Webb,2018,0,109.1,111.1,107.6,108.3
+Gardner-Webb,Presbyterian,2018,1,107.6,108.3,109.1,111.1
+UMBC,Stony Brook,2018,0,96,101.8,99.2,99.9
+Stony Brook,UMBC,2018,1,99.2,99.9,96,101.8
+South Carolina,Missouri,2018,0,108,98.3,106.8,97
+Missouri,South Carolina,2018,1,106.8,97,108,98.3
+North Dakota,South Dakota,2018,0,97.4,106.2,100.4,106.1
+South Dakota,North Dakota,2018,1,100.4,106.1,97.4,106.2
+Weber State,Idaho State,2018,0,101.4,106.5,101.9,118.2
+Idaho State,Weber State,2018,1,101.9,118.2,101.4,106.5
+NJIT,Lipscomb,2018,0,102.2,103.1,111,97.2
+Lipscomb,NJIT,2018,1,111,97.2,102.2,103.1
+Baylor,Kansas,2018,0,113.6,98.3,112.8,92.1
+Kansas,Baylor,2018,1,112.8,92.1,113.6,98.3
+USC,Colorado,2018,0,109.3,101.6,107,96.5
+Colorado,USC,2018,1,107,96.5,109.3,101.6
+IUPUI,Marshall,2018,0,103.4,105.8,107.4,107.6
+Marshall,IUPUI,2018,1,107.4,107.6,103.4,105.8
+Dayton,Colorado,2018,0,111.9,100.6,107,96.5
+Colorado,Dayton,2018,1,107,96.5,111.9,100.6
+Siena,Providence,2018,0,100.5,109,105,95.8
+Providence,Siena,2018,1,105,95.8,100.5,109
+UMKC,Iowa,2018,0,101,107.2,117.2,101.3
+Iowa,UMKC,2018,1,117.2,101.3,101,107.2
+Hartford,Mississippi St.,2018,0,108.4,110.6,117.5,96.7
+Mississippi St.,Hartford,2018,1,117.5,96.7,108.4,110.6
+Coppin State,Navy,2018,0,88.6,109.1,97.2,107.1
+Navy,Coppin State,2018,1,97.2,107.1,88.6,109.1
+Fresno State,TCU,2018,0,108.3,98.6,110.4,96.3
+TCU,Fresno State,2018,1,110.4,96.3,108.3,98.6
+UNC Asheville,Northern Ky.,2018,0,92.9,117,109.4,102.7
+Northern Ky.,UNC Asheville,2018,1,109.4,102.7,92.9,117
+Colgate,Syracuse,2018,0,110.1,105.8,110.2,94
+Syracuse,Colgate,2018,1,110.2,94,110.1,105.8
+Tennessee State,Kentucky,2018,0,98.6,109.5,118.3,90.9
+Kentucky,Tennessee State,2018,1,118.3,90.9,98.6,109.5
+North Alabama,Troy,2018,0,95.1,105.1,102.9,110.3
+Troy,North Alabama,2018,1,102.9,110.3,95.1,105.1
+Lehigh,Kansas State,2018,0,108.7,109.5,108,87.8
+Kansas State,Lehigh,2018,1,108,87.8,108.7,109.5
+Missouri State,Murray State,2018,0,103,103.9,112.2,98.7
+Murray State,Missouri State,2018,1,112.2,98.7,103,103.9
+Alabama A&M,Fordham,2018,0,86.5,109.3,96.5,104.4
+Fordham,Alabama A&M,2018,1,96.5,104.4,86.5,109.3
+Abilene Christ.,Pepperdine,2018,0,103.7,101.6,106.7,105.4
+Pepperdine,Abilene Christ.,2018,1,106.7,105.4,103.7,101.6
+New Hampshire,Seton Hall,2018,0,84.2,107.3,109.3,96.6
+Seton Hall,New Hampshire,2018,1,109.3,96.6,84.2,107.3
+Army,NJIT,2018,0,96.2,103,102.2,103.1
+NJIT,Army,2018,1,102.2,103.1,96.2,103
+UNLV,Illinois,2018,0,105.9,106.1,109.1,100.7
+Illinois,UNLV,2018,1,109.1,100.7,105.9,106.1
+Coppin State,UNC Greensboro,2018,0,88.6,109.1,106.6,97.9
+UNC Greensboro,Coppin State,2018,1,106.6,97.9,88.6,109.1
+Morehead State,Samford,2018,0,102.4,109.9,106.7,104.4
+Samford,Morehead State,2018,1,106.7,104.4,102.4,109.9
+Fairfield,Boston College,2018,0,95.8,107.3,107.6,102.4
+Boston College,Fairfield,2018,1,107.6,102.4,95.8,107.3
+Cornell,Niagara,2018,0,99.8,104.8,101.6,115.2
+Niagara,Cornell,2018,1,101.6,115.2,99.8,104.8
+Texas Southern,Tulane,2018,0,104,108.6,96.6,107.4
+Tulane,Texas Southern,2018,1,96.6,107.4,104,108.6
+Illinois State,UCF,2018,0,101.2,104.6,110.5,95.8
+UCF,Illinois State,2018,1,110.5,95.8,101.2,104.6
+Stetson,Longwood,2018,0,97.6,113.3,96.3,106.6
+Longwood,Stetson,2018,1,96.3,106.6,97.6,113.3
+UNC Wilmington,Mercer,2018,0,105.4,114.4,103.6,106.2
+Mercer,UNC Wilmington,2018,1,103.6,106.2,105.4,114.4
+Idaho,Santa Clara,2018,0,94.9,118.8,101.8,103.8
+Santa Clara,Idaho,2018,1,101.8,103.8,94.9,118.8
+Hartford,Wagner,2018,0,108.4,110.6,93.9,107.1
+Wagner,Hartford,2018,1,93.9,107.1,108.4,110.6
+Penn,Toledo,2018,0,104,99.8,110.1,98.1
+Toledo,Penn,2018,1,110.1,98.1,104,99.8
+Butler,Florida,2018,0,110.8,101.1,110.3,91.9
+Florida,Butler,2018,1,110.3,91.9,110.8,101.1
+Harvard,UNC,2018,0,104.8,100.4,119.9,90.8
+UNC,Harvard,2018,1,119.9,90.8,104.8,100.4
+Loyola Marymount,Pepperdine,2018,0,103.6,100.3,106.7,105.4
+Pepperdine,Loyola Marymount,2018,1,106.7,105.4,103.6,100.3
+Boston College,Virginia Tech,2018,0,107.6,102.4,118.5,94.1
+Virginia Tech,Boston College,2018,1,118.5,94.1,107.6,102.4
+Kentucky,Alabama,2018,0,118.3,90.9,108.2,96.7
+Alabama,Kentucky,2018,1,108.2,96.7,118.3,90.9
+Lafayette,Army,2018,0,101.4,112.7,96.2,103
+Army,Lafayette,2018,1,96.2,103,101.4,112.7
+Kansas,Iowa State,2018,0,112.8,92.1,119.1,97.3
+Iowa State,Kansas,2018,1,119.1,97.3,112.8,92.1
+Delaware State,Norfolk State,2018,0,84.3,113.9,97.6,106
+Norfolk State,Delaware State,2018,1,97.6,106,84.3,113.9
+Elon,Delaware,2018,0,99,111.1,104.8,112.9
+Delaware,Elon,2018,1,104.8,112.9,99,111.1
+Niagara,Fairfield,2018,0,101.6,115.2,95.8,107.3
+Fairfield,Niagara,2018,1,95.8,107.3,101.6,115.2
+Purdue,Michigan State,2018,0,121.1,95.1,121.8,90.5
+Michigan State,Purdue,2018,1,121.8,90.5,121.1,95.1
+TCU,Kansas,2018,0,110.4,96.3,112.8,92.1
+Kansas,TCU,2018,1,112.8,92.1,110.4,96.3
+Morehead State,Belmont,2018,0,102.4,109.9,115,101.3
+Belmont,Morehead State,2018,1,115,101.3,102.4,109.9
+Grand Canyon,New Mexico St.,2018,0,108.1,102,112.7,99.1
+New Mexico St.,Grand Canyon,2018,1,112.7,99.1,108.1,102
+Lafayette,Holy Cross,2018,0,101.4,112.7,101,107.8
+Holy Cross,Lafayette,2018,1,101,107.8,101.4,112.7
+Houston Baptist,Nicholls State,2018,0,102.9,112.6,98.7,111.4
+Nicholls State,Houston Baptist,2018,1,98.7,111.4,102.9,112.6
+Tulsa,SMU,2018,0,104.7,100.5,112,106.8
+SMU,Tulsa,2018,1,112,106.8,104.7,100.5
+South Dakota,Oral Roberts,2018,0,100.4,106.1,103.4,114.1
+Oral Roberts,South Dakota,2018,1,103.4,114.1,100.4,106.1
+Georgia State,Troy,2018,0,108,102.4,102.9,110.3
+Troy,Georgia State,2018,1,102.9,110.3,108,102.4
+Jacksonville,NJIT,2018,0,98.8,106.2,102.2,103.1
+NJIT,Jacksonville,2018,1,102.2,103.1,98.8,106.2
+Arkansas State,Texas State,2018,0,102.3,110,102.1,97.7
+Texas State,Arkansas State,2018,1,102.1,97.7,102.3,110
+Clemson,Florida State,2018,0,109,91.5,113,90.5
+Florida State,Clemson,2018,1,113,90.5,109,91.5
+Saint Louis,Duquesne,2018,0,102.5,96.4,104.4,105.3
+Duquesne,Saint Louis,2018,1,104.4,105.3,102.5,96.4
+Presbyterian,Campbell,2018,0,109.1,111.1,107.8,109.9
+Campbell,Presbyterian,2018,1,107.8,109.9,109.1,111.1
+Rider,Iona,2018,0,101.3,105.8,106.5,109.7
+Iona,Rider,2018,1,106.5,109.7,101.3,105.8
+Wyoming,Boise State,2018,0,95,108.7,107.2,104
+Boise State,Wyoming,2018,1,107.2,104,95,108.7
+UCF,Memphis,2018,0,110.5,95.8,109,97.7
+Memphis,UCF,2018,1,109,97.7,110.5,95.8
+NJIT,Liberty,2018,0,102.2,103.1,110.6,99.6
+Liberty,NJIT,2018,1,110.6,99.6,102.2,103.1
+Vanderbilt,Missouri,2018,0,102.1,101.2,106.8,97
+Missouri,Vanderbilt,2018,1,106.8,97,102.1,101.2
+Georgetown,Villanova,2018,0,109.2,101.9,116.9,98.4
+Villanova,Georgetown,2018,1,116.9,98.4,109.2,101.9
+American,Navy,2018,0,101.9,105,97.2,107.1
+Navy,American,2018,1,97.2,107.1,101.9,105
+Arkansas,South Carolina,2018,0,110.3,97.3,108,98.3
+South Carolina,Arkansas,2018,1,108,98.3,110.3,97.3
+Air Force,UNLV,2018,0,100.5,107.4,105.9,106.1
+UNLV,Air Force,2018,1,105.9,106.1,100.5,107.4
+Troy,Georgia State,2018,0,102.9,110.3,108,102.4
+Georgia State,Troy,2018,1,108,102.4,102.9,110.3
+Illinois State,Northern Iowa,2018,0,101.2,104.6,101.2,102.4
+Northern Iowa,Illinois State,2018,1,101.2,102.4,101.2,104.6
+Arizona State,Colorado,2018,0,109.9,98.6,107,96.5
+Colorado,Arizona State,2018,1,107,96.5,109.9,98.6
+UTEP,Southern Miss,2018,0,89.9,101.2,106.6,100.2
+Southern Miss,UTEP,2018,1,106.6,100.2,89.9,101.2
+Bradley,Drake,2018,0,101,101.4,107.1,102.7
+Drake,Bradley,2018,1,107.1,102.7,101,101.4
+Dartmouth,Yale,2018,0,103.3,108,111.7,103.2
+Yale,Dartmouth,2018,1,111.7,103.2,103.3,108
+Florida State,UNC,2018,0,113,90.5,119.9,90.8
+UNC,Florida State,2018,1,119.9,90.8,113,90.5
+Chicago State,Seattle,2018,0,90.3,118.3,100.8,102.3
+Seattle,Chicago State,2018,1,100.8,102.3,90.3,118.3
+Akron,Buffalo,2018,0,99.9,93.8,115,94.6
+Buffalo,Akron,2018,1,115,94.6,99.9,93.8
+Stetson,North Florida,2018,0,97.6,113.3,103.8,104.6
+North Florida,Stetson,2018,1,103.8,104.6,97.6,113.3
+Duke,Virginia Tech,2018,0,120.1,88.2,118.5,94.1
+Virginia Tech,Duke,2018,1,118.5,94.1,120.1,88.2
+Richmond,George Mason,2018,0,106.8,110.1,104.4,103.8
+George Mason,Richmond,2018,1,104.4,103.8,106.8,110.1
+Kent State,Bowling Green,2018,0,109.7,106.8,108.3,102.1
+Bowling Green,Kent State,2018,1,108.3,102.1,109.7,106.8
+Fordham,Davidson,2018,0,96.5,104.4,108,100.2
+Davidson,Fordham,2018,1,108,100.2,96.5,104.4
+Seton Hall,Georgetown,2018,0,109.3,96.6,109.2,101.9
+Georgetown,Seton Hall,2018,1,109.2,101.9,109.3,96.6
+Texas State,South Alabama,2018,0,102.1,97.7,103.1,107.5
+South Alabama,Texas State,2018,1,103.1,107.5,102.1,97.7
+Colorado State,New Mexico,2018,0,107.5,108.7,104,105.6
+New Mexico,Colorado State,2018,1,104,105.6,107.5,108.7
+Longwood,Hampton,2018,0,96.3,106.6,107.5,110.1
+Hampton,Longwood,2018,1,107.5,110.1,96.3,106.6
+Holy Cross,Bucknell,2018,0,101,107.8,105.5,103.7
+Bucknell,Holy Cross,2018,1,105.5,103.7,101,107.8
+Yale,Penn,2018,0,111.7,103.2,104,99.8
+Penn,Yale,2018,1,104,99.8,111.7,103.2
+Tennessee Tech,Memphis,2018,0,89.6,104.6,109,97.7
+Memphis,Tennessee Tech,2018,1,109,97.7,89.6,104.6
+Coppin State,Dayton,2018,0,88.6,109.1,111.9,100.6
+Dayton,Coppin State,2018,1,111.9,100.6,88.6,109.1
+Hofstra,Marshall,2018,0,116.3,108.7,107.4,107.6
+Marshall,Hofstra,2018,1,107.4,107.6,116.3,108.7
+George Washington,Virginia,2018,0,95.2,106,123.6,88.1
+Virginia,George Washington,2018,1,123.6,88.1,95.2,106
+Jacksonville,Grand Canyon,2018,0,98.8,106.2,108.1,102
+Grand Canyon,Jacksonville,2018,1,108.1,102,98.8,106.2
+Harvard,Rhode Island,2018,0,104.8,100.4,103.7,101.2
+Rhode Island,Harvard,2018,1,103.7,101.2,104.8,100.4
+Binghamton,Colgate,2018,0,95.9,112.7,110.1,105.8
+Colgate,Binghamton,2018,1,110.1,105.8,95.9,112.7
+Alcorn State,Liberty,2018,0,88.8,113.5,110.6,99.6
+Liberty,Alcorn State,2018,1,110.6,99.6,88.8,113.5
+Southern Utah,UNLV,2018,0,96.5,106.5,105.9,106.1
+UNLV,Southern Utah,2018,1,105.9,106.1,96.5,106.5
+Marist,Buffalo,2018,0,100.1,109.6,115,94.6
+Buffalo,Marist,2018,1,115,94.6,100.1,109.6
+Jackson State,San Diego,2018,0,89.8,104.7,105.5,98.1
+San Diego,Jackson State,2018,1,105.5,98.1,89.8,104.7
+Charlotte,Davidson,2018,0,95.5,106.6,108,100.2
+Davidson,Charlotte,2018,1,108,100.2,95.5,106.6
+Illinois,Notre Dame,2018,0,109.1,100.7,108.3,100.8
+Notre Dame,Illinois,2018,1,108.3,100.8,109.1,100.7
+Bowling Green,Hartford,2018,0,108.3,102.1,108.4,110.6
+Hartford,Bowling Green,2018,1,108.4,110.6,108.3,102.1
+Cal Poly,Fresno State,2018,0,96.9,114.6,108.3,98.6
+Fresno State,Cal Poly,2018,1,108.3,98.6,96.9,114.6
+Purdue,Michigan,2018,0,121.1,95.1,115.6,86.2
+Michigan,Purdue,2018,1,115.6,86.2,121.1,95.1
+Lipscomb,Belmont,2018,0,111,97.2,115,101.3
+Belmont,Lipscomb,2018,1,115,101.3,111,97.2
+UTEP,Marquette,2018,0,89.9,101.2,114.1,95.9
+Marquette,UTEP,2018,1,114.1,95.9,89.9,101.2
+Colgate,Penn State,2018,0,110.1,105.8,109.5,94.2
+Penn State,Colgate,2018,1,109.5,94.2,110.1,105.8
+Arizona,Alabama,2018,0,105,98.2,108.2,96.7
+Alabama,Arizona,2018,1,108.2,96.7,105,98.2
+Morehead State,Marshall,2018,0,102.4,109.9,107.4,107.6
+Marshall,Morehead State,2018,1,107.4,107.6,102.4,109.9
+Alcorn State,UAB,2018,0,88.8,113.5,106.5,104.6
+UAB,Alcorn State,2018,1,106.5,104.6,88.8,113.5
+Presbyterian,Butler,2018,0,109.1,111.1,110.8,101.1
+Butler,Presbyterian,2018,1,110.8,101.1,109.1,111.1
+Montana State,Denver,2018,0,107.5,115.2,99.8,112.9
+Denver,Montana State,2018,1,99.8,112.9,107.5,115.2
+Rider,Drake,2018,0,101.3,105.8,107.1,102.7
+Drake,Rider,2018,1,107.1,102.7,101.3,105.8
+Morgan State,Old Dominion,2018,0,92.6,110.6,102,96.4
+Old Dominion,Morgan State,2018,1,102,96.4,92.6,110.6
+Wyoming,UTEP,2018,0,95,108.7,89.9,101.2
+UTEP,Wyoming,2018,1,89.9,101.2,95,108.7
+Austin Peay,Arkansas,2018,0,110.8,106.7,110.3,97.3
+Arkansas,Austin Peay,2018,1,110.3,97.3,110.8,106.7
+New Hampshire,Dartmouth,2018,0,84.2,107.3,103.3,108
+Dartmouth,New Hampshire,2018,1,103.3,108,84.2,107.3
+Northern Ky.,Oakland,2018,0,109.4,102.7,107.4,109.5
+Oakland,Northern Ky.,2018,1,107.4,109.5,109.4,102.7
+Saint Mary's,San Francisco,2018,0,114.7,97.1,111.8,101.9
+San Francisco,Saint Mary's,2018,1,111.8,101.9,114.7,97.1
+Portland,Loyola Marymount,2018,0,94.3,110,103.6,100.3
+Loyola Marymount,Portland,2018,1,103.6,100.3,94.3,110
+Butler,Seton Hall,2018,0,110.8,101.1,109.3,96.6
+Seton Hall,Butler,2018,1,109.3,96.6,110.8,101.1
+Sacred Heart,Wagner,2018,0,104.2,110.7,93.9,107.1
+Wagner,Sacred Heart,2018,1,93.9,107.1,104.2,110.7
+TCU,Oklahoma,2018,0,110.4,96.3,109.5,94
+Oklahoma,TCU,2018,1,109.5,94,110.4,96.3
+North Texas,UTSA,2018,0,99.6,99.1,105.8,104.1
+UTSA,North Texas,2018,1,105.8,104.1,99.6,99.1
+East Carolina,UCF,2018,0,98,107,110.5,95.8
+UCF,East Carolina,2018,1,110.5,95.8,98,107
+Dayton,VCU,2018,0,111.9,100.6,104.3,88.7
+VCU,Dayton,2018,1,104.3,88.7,111.9,100.6
+James Madison,Delaware,2018,0,101,110.8,104.8,112.9
+Delaware,James Madison,2018,1,104.8,112.9,101,110.8
+UTEP,UAB,2018,0,89.9,101.2,106.5,104.6
+UAB,UTEP,2018,1,106.5,104.6,89.9,101.2
+Idaho State,Weber State,2018,0,101.9,118.2,101.4,106.5
+Weber State,Idaho State,2018,1,101.4,106.5,101.9,118.2
+Rice,North Texas,2018,0,103,110.4,99.6,99.1
+North Texas,Rice,2018,1,99.6,99.1,103,110.4
+San Diego,Saint Mary's,2018,0,105.5,98.1,114.7,97.1
+Saint Mary's,San Diego,2018,1,114.7,97.1,105.5,98.1
+Nebraska,Rutgers,2018,0,112.6,97.2,105.6,96.3
+Rutgers,Nebraska,2018,1,105.6,96.3,112.6,97.2
+Holy Cross,Army,2018,0,101,107.8,96.2,103
+Army,Holy Cross,2018,1,96.2,103,101,107.8
+Kennesaw State,North Alabama,2018,0,91.8,110.7,95.1,105.1
+North Alabama,Kennesaw State,2018,1,95.1,105.1,91.8,110.7
+Bucknell,American,2018,0,105.5,103.7,101.9,105
+American,Bucknell,2018,1,101.9,105,105.5,103.7
+Indiana State,Illinois State,2018,0,101.1,105.2,101.2,104.6
+Illinois State,Indiana State,2018,1,101.2,104.6,101.1,105.2
+North Alabama,NJIT,2018,0,95.1,105.1,102.2,103.1
+NJIT,North Alabama,2018,1,102.2,103.1,95.1,105.1
+Army,Colgate,2018,0,96.2,103,110.1,105.8
+Colgate,Army,2018,1,110.1,105.8,96.2,103
+Rutgers,Ohio State,2018,0,105.6,96.3,109.3,94.3
+Ohio State,Rutgers,2018,1,109.3,94.3,105.6,96.3
+Southern,Alcorn State,2018,0,93.7,112.2,88.8,113.5
+Alcorn State,Southern,2018,1,88.8,113.5,93.7,112.2
+Xavier,Creighton,2018,0,110.9,100.6,112.9,99.6
+Creighton,Xavier,2018,1,112.9,99.6,110.9,100.6
+South Carolina,Kentucky,2018,0,108,98.3,118.3,90.9
+Kentucky,South Carolina,2018,1,118.3,90.9,108,98.3
+Florida,Auburn,2018,0,110.3,91.9,119.7,96.3
+Auburn,Florida,2018,1,119.7,96.3,110.3,91.9
+Oakland,Wright State,2018,0,107.4,109.5,106.7,102
+Wright State,Oakland,2018,1,106.7,102,107.4,109.5
+Georgia State,Louisiana,2018,0,108,102.4,106.6,107.8
+Louisiana,Georgia State,2018,1,106.6,107.8,108,102.4
+Temple,Tulsa,2018,0,108.6,99.6,104.7,100.5
+Tulsa,Temple,2018,1,104.7,100.5,108.6,99.6
+Jackson State,Southern,2018,0,89.8,104.7,93.7,112.2
+Southern,Jackson State,2018,1,93.7,112.2,89.8,104.7
+Georgia Tech,Virginia Tech,2018,0,101.8,96,118.5,94.1
+Virginia Tech,Georgia Tech,2018,1,118.5,94.1,101.8,96
+Wyoming,Utah State,2018,0,95,108.7,113,96.4
+Utah State,Wyoming,2018,1,113,96.4,95,108.7
+Campbell,Presbyterian,2018,0,107.8,109.9,109.1,111.1
+Presbyterian,Campbell,2018,1,109.1,111.1,107.8,109.9
+Penn State,Purdue,2018,0,109.5,94.2,121.1,95.1
+Purdue,Penn State,2018,1,121.1,95.1,109.5,94.2
+Rhode Island,VCU,2018,0,103.7,101.2,104.3,88.7
+VCU,Rhode Island,2018,1,104.3,88.7,103.7,101.2
+James Madison,Northeastern,2018,0,101,110.8,111.5,102.8
+Northeastern,James Madison,2018,1,111.5,102.8,101,110.8
+California,Arizona,2018,0,103,110.2,105,98.2
+Arizona,California,2018,1,105,98.2,103,110.2
+Indiana,Iowa,2018,0,110.2,95.1,117.2,101.3
+Iowa,Indiana,2018,1,117.2,101.3,110.2,95.1
+Boston College,Clemson,2018,0,107.6,102.4,109,91.5
+Clemson,Boston College,2018,1,109,91.5,107.6,102.4
+South Carolina,Mississippi St.,2018,0,108,98.3,117.5,96.7
+Mississippi St.,South Carolina,2018,1,117.5,96.7,108,98.3
+Kennesaw State,Liberty,2018,0,91.8,110.7,110.6,99.6
+Liberty,Kennesaw State,2018,1,110.6,99.6,91.8,110.7
+Arkansas State,Georgia State,2018,0,102.3,110,108,102.4
+Georgia State,Arkansas State,2018,1,108,102.4,102.3,110
+Tennessee Tech,SIU Edwardsville,2018,0,89.6,104.6,96.6,113
+SIU Edwardsville,Tennessee Tech,2018,1,96.6,113,89.6,104.6
+Washington,California,2018,0,107,93.7,103,110.2
+California,Washington,2018,1,103,110.2,107,93.7
+UAB,UTSA,2018,0,106.5,104.6,105.8,104.1
+UTSA,UAB,2018,1,105.8,104.1,106.5,104.6
+North Alabama,North Florida,2018,0,95.1,105.1,103.8,104.6
+North Florida,North Alabama,2018,1,103.8,104.6,95.1,105.1
+Providence,Creighton,2018,0,105,95.8,112.9,99.6
+Creighton,Providence,2018,1,112.9,99.6,105,95.8
+La Salle,Temple,2018,0,99.9,105.1,108.6,99.6
+Temple,La Salle,2018,1,108.6,99.6,99.9,105.1
+Mercer,UAB,2018,0,103.6,106.2,106.5,104.6
+UAB,Mercer,2018,1,106.5,104.6,103.6,106.2
+Maine,Utah,2018,0,93.1,111.8,114.3,108.9
+Utah,Maine,2018,1,114.3,108.9,93.1,111.8
+Utah Valley,BYU,2018,0,108.9,102.1,111.7,104.1
+BYU,Utah Valley,2018,1,111.7,104.1,108.9,102.1
+Fordham,Houston Baptist,2018,0,96.5,104.4,102.9,112.6
+Houston Baptist,Fordham,2018,1,102.9,112.6,96.5,104.4
+Manhattan,UMBC,2018,0,89.4,104.6,96,101.8
+UMBC,Manhattan,2018,1,96,101.8,89.4,104.6
+Chicago State,Illinois State,2018,0,90.3,118.3,101.2,104.6
+Illinois State,Chicago State,2018,1,101.2,104.6,90.3,118.3
+New Orleans,UAB,2018,0,97,104.7,106.5,104.6
+UAB,New Orleans,2018,1,106.5,104.6,97,104.7
+Texas State,Drake,2018,0,102.1,97.7,107.1,102.7
+Drake,Texas State,2018,1,107.1,102.7,102.1,97.7
+Wofford,Oklahoma,2018,0,118.5,97.7,109.5,94
+Oklahoma,Wofford,2018,1,109.5,94,118.5,97.7
+Nicholls State,Ole Miss,2018,0,98.7,111.4,112.9,97.7
+Ole Miss,Nicholls State,2018,1,112.9,97.7,98.7,111.4
+Navy,Morgan State,2018,0,97.2,107.1,92.6,110.6
+Morgan State,Navy,2018,1,92.6,110.6,97.2,107.1
+SIU Edwardsville,Valparaiso,2018,0,96.6,113,98.1,102.9
+Valparaiso,SIU Edwardsville,2018,1,98.1,102.9,96.6,113
+Stetson,South Florida,2018,0,97.6,113.3,102.4,97.3
+South Florida,Stetson,2018,1,102.4,97.3,97.6,113.3
+New Hampshire,Bryant,2018,0,84.2,107.3,99.4,114.8
+Bryant,New Hampshire,2018,1,99.4,114.8,84.2,107.3
+Illinois,Nebraska,2018,0,109.1,100.7,112.6,97.2
+Nebraska,Illinois,2018,1,112.6,97.2,109.1,100.7
+Fordham,Maine,2018,0,96.5,104.4,93.1,111.8
+Maine,Fordham,2018,1,93.1,111.8,96.5,104.4
+Monmouth,Hofstra,2018,0,93,103.9,116.3,108.7
+Hofstra,Monmouth,2018,1,116.3,108.7,93,103.9
+DePaul,Northwestern,2018,0,110.7,104.5,103,93.5
+Northwestern,DePaul,2018,1,103,93.5,110.7,104.5
+Northeastern,Vermont,2018,0,111.5,102.8,108,99.3
+Vermont,Northeastern,2018,1,108,99.3,111.5,102.8
+James Madison,Fordham,2018,0,101,110.8,96.5,104.4
+Fordham,James Madison,2018,1,96.5,104.4,101,110.8
+Furman,LSU,2018,0,109,96.3,118.6,97.5
+LSU,Furman,2018,1,118.6,97.5,109,96.3
+George Washington,Harvard,2018,0,95.2,106,104.8,100.4
+Harvard,George Washington,2018,1,104.8,100.4,95.2,106
+Coppin State,Houston,2018,0,88.6,109.1,114.2,91.8
+Houston,Coppin State,2018,1,114.2,91.8,88.6,109.1
+Morehead State,Missouri,2018,0,102.4,109.9,106.8,97
+Missouri,Morehead State,2018,1,106.8,97,102.4,109.9
+Cal Poly,Siena,2018,0,96.9,114.6,100.5,109
+Siena,Cal Poly,2018,1,100.5,109,96.9,114.6
+San Jose State,Saint Mary's,2018,0,91.8,113.7,114.7,97.1
+Saint Mary's,San Jose State,2018,1,114.7,97.1,91.8,113.7
+Columbia,Northwestern,2018,0,101.8,106.3,103,93.5
+Northwestern,Columbia,2018,1,103,93.5,101.8,106.3
+Maine,Brown,2018,0,93.1,111.8,98.7,96.9
+Brown,Maine,2018,1,98.7,96.9,93.1,111.8
+UTEP,UTSA,2018,0,89.9,101.2,105.8,104.1
+UTSA,UTEP,2018,1,105.8,104.1,89.9,101.2
+Northeastern,Hofstra,2018,0,111.5,102.8,116.3,108.7
+Hofstra,Northeastern,2018,1,116.3,108.7,111.5,102.8
+Little Rock,Louisiana,2018,0,99.8,104.8,106.6,107.8
+Louisiana,Little Rock,2018,1,106.6,107.8,99.8,104.8
+Seton Hall,DePaul,2018,0,109.3,96.6,110.7,104.5
+DePaul,Seton Hall,2018,1,110.7,104.5,109.3,96.6
+Notre Dame,UNC,2018,0,108.3,100.8,119.9,90.8
+UNC,Notre Dame,2018,1,119.9,90.8,108.3,100.8
+Houston Baptist,Abilene Christ.,2018,0,102.9,112.6,103.7,101.6
+Abilene Christ.,Houston Baptist,2018,1,103.7,101.6,102.9,112.6
+UCF,Wichita State,2018,0,110.5,95.8,106,98.5
+Wichita State,UCF,2018,1,106,98.5,110.5,95.8
+Gardner-Webb,Radford,2018,0,107.6,108.3,108.7,104.3
+Radford,Gardner-Webb,2018,1,108.7,104.3,107.6,108.3
+Santa Clara,Saint Mary's,2018,0,101.8,103.8,114.7,97.1
+Saint Mary's,Santa Clara,2018,1,114.7,97.1,101.8,103.8
+Ohio,Toledo,2018,0,98.7,100.2,110.1,98.1
+Toledo,Ohio,2018,1,110.1,98.1,98.7,100.2
+Richmond,Davidson,2018,0,106.8,110.1,108,100.2
+Davidson,Richmond,2018,1,108,100.2,106.8,110.1
+Northern Iowa,Valparaiso,2018,0,101.2,102.4,98.1,102.9
+Valparaiso,Northern Iowa,2018,1,98.1,102.9,101.2,102.4
+Oklahoma,Texas,2018,0,109.5,94,114.1,96.5
+Texas,Oklahoma,2018,1,114.1,96.5,109.5,94
+Jackson State,Texas Southern,2018,0,89.8,104.7,104,108.6
+Texas Southern,Jackson State,2018,1,104,108.6,89.8,104.7
+Northeastern,Towson,2018,0,111.5,102.8,100.1,110.6
+Towson,Northeastern,2018,1,100.1,110.6,111.5,102.8
+Butler,Creighton,2018,0,110.8,101.1,112.9,99.6
+Creighton,Butler,2018,1,112.9,99.6,110.8,101.1
+Monmouth,Niagara,2018,0,93,103.9,101.6,115.2
+Niagara,Monmouth,2018,1,101.6,115.2,93,103.9
+Colorado,Stanford,2018,0,107,96.5,103.4,98.2
+Stanford,Colorado,2018,1,103.4,98.2,107,96.5
+Weber State,Montana,2018,0,101.4,106.5,107.5,103.9
+Montana,Weber State,2018,1,107.5,103.9,101.4,106.5
+Rhode Island,Duquesne,2018,0,103.7,101.2,104.4,105.3
+Duquesne,Rhode Island,2018,1,104.4,105.3,103.7,101.2
+USC,Washington,2018,0,109.3,101.6,107,93.7
+Washington,USC,2018,1,107,93.7,109.3,101.6
+Drexel,William & Mary,2018,0,105.5,112.9,103.4,108.1
+William & Mary,Drexel,2018,1,103.4,108.1,105.5,112.9
+Quinnipiac,Canisius,2018,0,105.3,111.5,101.5,111.4
+Canisius,Quinnipiac,2018,1,101.5,111.4,105.3,111.5
+Rider,Monmouth,2018,0,101.3,105.8,93,103.9
+Monmouth,Rider,2018,1,93,103.9,101.3,105.8
+Hofstra,Northeastern,2018,0,116.3,108.7,111.5,102.8
+Northeastern,Hofstra,2018,1,111.5,102.8,116.3,108.7
+Louisiana Tech,FIU,2018,0,104.8,101.8,102,105.2
+FIU,Louisiana Tech,2018,1,102,105.2,104.8,101.8
+Texas A&M,Ole Miss,2018,0,107,99.5,112.9,97.7
+Ole Miss,Texas A&M,2018,1,112.9,97.7,107,99.5
+Samford,UNC Greensboro,2018,0,106.7,104.4,106.6,97.9
+UNC Greensboro,Samford,2018,1,106.6,97.9,106.7,104.4
+Washington,Arizona State,2018,0,107,93.7,109.9,98.6
+Arizona State,Washington,2018,1,109.9,98.6,107,93.7
+Michigan,Penn State,2018,0,115.6,86.2,109.5,94.2
+Penn State,Michigan,2018,1,109.5,94.2,115.6,86.2
+Cal Poly,Hawaii,2018,0,96.9,114.6,103.6,106.6
+Hawaii,Cal Poly,2018,1,103.6,106.6,96.9,114.6
+Missouri,Ole Miss,2018,0,106.8,97,112.9,97.7
+Ole Miss,Missouri,2018,1,112.9,97.7,106.8,97
+Bucknell,Colgate,2018,0,105.5,103.7,110.1,105.8
+Colgate,Bucknell,2018,1,110.1,105.8,105.5,103.7
+Iowa State,TCU,2018,0,119.1,97.3,110.4,96.3
+TCU,Iowa State,2018,1,110.4,96.3,119.1,97.3
+Liberty,North Florida,2018,0,110.6,99.6,103.8,104.6
+North Florida,Liberty,2018,1,103.8,104.6,110.6,99.6
+Wisconsin,Indiana,2018,0,110.9,87.3,110.2,95.1
+Indiana,Wisconsin,2018,1,110.2,95.1,110.9,87.3
+North Dakota St.,South Dakota,2018,0,106.7,109.8,100.4,106.1
+South Dakota,North Dakota St.,2018,1,100.4,106.1,106.7,109.8
+Butler,Villanova,2018,0,110.8,101.1,116.9,98.4
+Villanova,Butler,2018,1,116.9,98.4,110.8,101.1
+Cornell,Brown,2018,0,99.8,104.8,98.7,96.9
+Brown,Cornell,2018,1,98.7,96.9,99.8,104.8
+Notre Dame,Louisville,2018,0,108.3,100.8,113.4,92.5
+Louisville,Notre Dame,2018,1,113.4,92.5,108.3,100.8
+Army,Lehigh,2018,0,96.2,103,108.7,109.5
+Lehigh,Army,2018,1,108.7,109.5,96.2,103
+Michigan,Michigan State,2018,0,115.6,86.2,121.8,90.5
+Michigan State,Michigan,2018,1,121.8,90.5,115.6,86.2
+Cal Baptist,New Mexico St.,2018,0,106.7,109.3,112.7,99.1
+New Mexico St.,Cal Baptist,2018,1,112.7,99.1,106.7,109.3
+Arkansas State,South Alabama,2018,0,102.3,110,103.1,107.5
+South Alabama,Arkansas State,2018,1,103.1,107.5,102.3,110
+Wright State,Clemson,2018,0,106.7,102,109,91.5
+Clemson,Wright State,2018,1,109,91.5,106.7,102
+Robert Morris,Missouri State,2018,0,95.9,104.2,103,103.9
+Missouri State,Robert Morris,2018,1,103,103.9,95.9,104.2
+Kennesaw State,Samford,2018,0,91.8,110.7,106.7,104.4
+Samford,Kennesaw State,2018,1,106.7,104.4,91.8,110.7
+Austin Peay,South Florida,2018,0,110.8,106.7,102.4,97.3
+South Florida,Austin Peay,2018,1,102.4,97.3,110.8,106.7
+Milwaukee,Cincinnati,2018,0,98.3,109.5,111.7,94.6
+Cincinnati,Milwaukee,2018,1,111.7,94.6,98.3,109.5
+Louisiana Tech,LSU,2018,0,104.8,101.8,118.6,97.5
+LSU,Louisiana Tech,2018,1,118.6,97.5,104.8,101.8
+Oakland,UNLV,2018,0,107.4,109.5,105.9,106.1
+UNLV,Oakland,2018,1,105.9,106.1,107.4,109.5
+Presbyterian,Marquette,2018,0,109.1,111.1,114.1,95.9
+Marquette,Presbyterian,2018,1,114.1,95.9,109.1,111.1
+Maine,North Texas,2018,0,93.1,111.8,99.6,99.1
+North Texas,Maine,2018,1,99.6,99.1,93.1,111.8
+South Alabama,Texas A&M,2018,0,103.1,107.5,107,99.5
+Texas A&M,South Alabama,2018,1,107,99.5,103.1,107.5
+North Dakota,Utah Valley,2018,0,97.4,106.2,108.9,102.1
+Utah Valley,North Dakota,2018,1,108.9,102.1,97.4,106.2
+Rice,Texas State,2018,0,103,110.4,102.1,97.7
+Texas State,Rice,2018,1,102.1,97.7,103,110.4
+Binghamton,Morgan State,2018,0,95.9,112.7,92.6,110.6
+Morgan State,Binghamton,2018,1,92.6,110.6,95.9,112.7
+Oklahoma State,Tulsa,2018,0,108.9,101.4,104.7,100.5
+Tulsa,Oklahoma State,2018,1,104.7,100.5,108.9,101.4
+Wisconsin,Marquette,2018,0,110.9,87.3,114.1,95.9
+Marquette,Wisconsin,2018,1,114.1,95.9,110.9,87.3
+Villanova,Kansas,2018,0,116.9,98.4,112.8,92.1
+Kansas,Villanova,2018,1,112.8,92.1,116.9,98.4
+Radford,Clemson,2018,0,108.7,104.3,109,91.5
+Clemson,Radford,2018,1,109,91.5,108.7,104.3
+Jackson State,Murray State,2018,0,89.8,104.7,112.2,98.7
+Murray State,Jackson State,2018,1,112.2,98.7,89.8,104.7
+Missouri State,North Dakota St.,2018,0,103,103.9,106.7,109.8
+North Dakota St.,Missouri State,2018,1,106.7,109.8,103,103.9
+Howard,Fordham,2018,0,101.9,114.3,96.5,104.4
+Fordham,Howard,2018,1,96.5,104.4,101.9,114.3
+Delaware,Stony Brook,2018,0,104.8,112.9,99.2,99.9
+Stony Brook,Delaware,2018,1,99.2,99.9,104.8,112.9
+IUPUI,Morehead State,2018,0,103.4,105.8,102.4,109.9
+Morehead State,IUPUI,2018,1,102.4,109.9,103.4,105.8
+Stanford,San Francisco,2018,0,103.4,98.2,111.8,101.9
+San Francisco,Stanford,2018,1,111.8,101.9,103.4,98.2
+UMBC,Penn State,2018,0,96,101.8,109.5,94.2
+Penn State,UMBC,2018,1,109.5,94.2,96,101.8
+Binghamton,Michigan,2018,0,95.9,112.7,115.6,86.2
+Michigan,Binghamton,2018,1,115.6,86.2,95.9,112.7
+Nebraska,Maryland,2018,0,112.6,97.2,113.9,94
+Maryland,Nebraska,2018,1,113.9,94,112.6,97.2
+Tulsa,Houston,2018,0,104.7,100.5,114.2,91.8
+Houston,Tulsa,2018,1,114.2,91.8,104.7,100.5
+Oklahoma State,Oklahoma,2018,0,108.9,101.4,109.5,94
+Oklahoma,Oklahoma State,2018,1,109.5,94,108.9,101.4
+Indiana,Michigan,2018,0,110.2,95.1,115.6,86.2
+Michigan,Indiana,2018,1,115.6,86.2,110.2,95.1
+Presbyterian,High Point,2018,0,109.1,111.1,99.2,104.7
+High Point,Presbyterian,2018,1,99.2,104.7,109.1,111.1
+Towson,James Madison,2018,0,100.1,110.6,101,110.8
+James Madison,Towson,2018,1,101,110.8,100.1,110.6
+Fairfield,Monmouth,2018,0,95.8,107.3,93,103.9
+Monmouth,Fairfield,2018,1,93,103.9,95.8,107.3
+Pepperdine,Loyola Marymount,2018,0,106.7,105.4,103.6,100.3
+Loyola Marymount,Pepperdine,2018,1,103.6,100.3,106.7,105.4
+Missouri State,Drake,2018,0,103,103.9,107.1,102.7
+Drake,Missouri State,2018,1,107.1,102.7,103,103.9
+Oral Roberts,Denver,2018,0,103.4,114.1,99.8,112.9
+Denver,Oral Roberts,2018,1,99.8,112.9,103.4,114.1
+Boise State,Air Force,2018,0,107.2,104,100.5,107.4
+Air Force,Boise State,2018,1,100.5,107.4,107.2,104
+Ole Miss,Alabama,2018,0,112.9,97.7,108.2,96.7
+Alabama,Ole Miss,2018,1,108.2,96.7,112.9,97.7
+New Mexico,UNLV,2018,0,104,105.6,105.9,106.1
+UNLV,New Mexico,2018,1,105.9,106.1,104,105.6
+New Hampshire,Hartford,2018,0,84.2,107.3,108.4,110.6
+Hartford,New Hampshire,2018,1,108.4,110.6,84.2,107.3
+South Carolina,Oklahoma State,2018,0,108,98.3,108.9,101.4
+Oklahoma State,South Carolina,2018,1,108.9,101.4,108,98.3
+William & Mary,Charleston,2018,0,103.4,108.1,108.5,103.4
+Charleston,William & Mary,2018,1,108.5,103.4,103.4,108.1
+Fresno State,Colorado State,2018,0,108.3,98.6,107.5,108.7
+Colorado State,Fresno State,2018,1,107.5,108.7,108.3,98.6
+Portland,Pacific,2018,0,94.3,110,99.8,104.3
+Pacific,Portland,2018,1,99.8,104.3,94.3,110
+Old Dominion,UTSA,2018,0,102,96.4,105.8,104.1
+UTSA,Old Dominion,2018,1,105.8,104.1,102,96.4
+Alcorn State,Alabama State,2018,0,88.8,113.5,94.6,111.1
+Alabama State,Alcorn State,2018,1,94.6,111.1,88.8,113.5
+Michigan,Iowa,2018,0,115.6,86.2,117.2,101.3
+Iowa,Michigan,2018,1,117.2,101.3,115.6,86.2
+Kansas,Kansas State,2018,0,112.8,92.1,108,87.8
+Kansas State,Kansas,2018,1,108,87.8,112.8,92.1
+Penn State,Ohio State,2018,0,109.5,94.2,109.3,94.3
+Ohio State,Penn State,2018,1,109.3,94.3,109.5,94.2
+Princeton,Yale,2018,0,98.7,99.7,111.7,103.2
+Yale,Princeton,2018,1,111.7,103.2,98.7,99.7
+Colorado State,Wyoming,2018,0,107.5,108.7,95,108.7
+Wyoming,Colorado State,2018,1,95,108.7,107.5,108.7
+Marshall,Rice,2018,0,107.4,107.6,103,110.4
+Rice,Marshall,2018,1,103,110.4,107.4,107.6
+Cal Poly,UC-Irvine,2018,0,96.9,114.6,106.7,97.2
+UC-Irvine,Cal Poly,2018,1,106.7,97.2,96.9,114.6
+Wagner,Fairl. Dickinson,2018,0,93.9,107.1,106.7,110.5
+Fairl. Dickinson,Wagner,2018,1,106.7,110.5,93.9,107.1
+Alabama State,Alcorn State,2018,0,94.6,111.1,88.8,113.5
+Alcorn State,Alabama State,2018,1,88.8,113.5,94.6,111.1
+Fresno State,Nevada,2018,0,108.3,98.6,114.1,95.2
+Nevada,Fresno State,2018,1,114.1,95.2,108.3,98.6
+Ole Miss,Arkansas,2018,0,112.9,97.7,110.3,97.3
+Arkansas,Ole Miss,2018,1,110.3,97.3,112.9,97.7
+IUPUI,Oakland,2018,0,103.4,105.8,107.4,109.5
+Oakland,IUPUI,2018,1,107.4,109.5,103.4,105.8
+San Diego,Memphis,2018,0,105.5,98.1,109,97.7
+Memphis,San Diego,2018,1,109,97.7,105.5,98.1
+Marist,Army,2018,0,100.1,109.6,96.2,103
+Army,Marist,2018,1,96.2,103,100.1,109.6
+Milwaukee,Boston College,2018,0,98.3,109.5,107.6,102.4
+Boston College,Milwaukee,2018,1,107.6,102.4,98.3,109.5
+Delaware,Maryland,2018,0,104.8,112.9,113.9,94
+Maryland,Delaware,2018,1,113.9,94,104.8,112.9
+Towson,Virginia,2018,0,100.1,110.6,123.6,88.1
+Virginia,Towson,2018,1,123.6,88.1,100.1,110.6
+Alcorn State,Tulsa,2018,0,88.8,113.5,104.7,100.5
+Tulsa,Alcorn State,2018,1,104.7,100.5,88.8,113.5
+North Dakota St.,New Mexico St.,2018,0,106.7,109.8,112.7,99.1
+New Mexico St.,North Dakota St.,2018,1,112.7,99.1,106.7,109.8
+Wright State,Murray State,2018,0,106.7,102,112.2,98.7
+Murray State,Wright State,2018,1,112.2,98.7,106.7,102
+Alabama A&M,Rice,2018,0,86.5,109.3,103,110.4
+Rice,Alabama A&M,2018,1,103,110.4,86.5,109.3
+Chattanooga,South Alabama,2018,0,101.6,109.4,103.1,107.5
+South Alabama,Chattanooga,2018,1,103.1,107.5,101.6,109.4
+William & Mary,Notre Dame,2018,0,103.4,108.1,108.3,100.8
+Notre Dame,William & Mary,2018,1,108.3,100.8,103.4,108.1
+Indiana,Arkansas,2018,0,110.2,95.1,110.3,97.3
+Arkansas,Indiana,2018,1,110.3,97.3,110.2,95.1
+USC Upstate,Portland,2018,0,92.9,111.4,94.3,110
+Portland,USC Upstate,2018,1,94.3,110,92.9,111.4
+North Texas,Oklahoma,2018,0,99.6,99.1,109.5,94
+Oklahoma,North Texas,2018,1,109.5,94,99.6,99.1
+Holy Cross,Harvard,2018,0,101,107.8,104.8,100.4
+Harvard,Holy Cross,2018,1,104.8,100.4,101,107.8
+Purdue,Florida State,2018,0,121.1,95.1,113,90.5
+Florida State,Purdue,2018,1,113,90.5,121.1,95.1
+Colgate,South Florida,2018,0,110.1,105.8,102.4,97.3
+South Florida,Colgate,2018,1,102.4,97.3,110.1,105.8
+Oakland,Xavier,2018,0,107.4,109.5,110.9,100.6
+Xavier,Oakland,2018,1,110.9,100.6,107.4,109.5
+George Washington,Princeton,2018,0,95.2,106,98.7,99.7
+Princeton,George Washington,2018,1,98.7,99.7,95.2,106
+Radford,James Madison,2018,0,108.7,104.3,101,110.8
+James Madison,Radford,2018,1,101,110.8,108.7,104.3
+North Alabama,UAB,2018,0,95.1,105.1,106.5,104.6
+UAB,North Alabama,2018,1,106.5,104.6,95.1,105.1
+Denver,Air Force,2018,0,99.8,112.9,100.5,107.4
+Air Force,Denver,2018,1,100.5,107.4,99.8,112.9
+South Carolina,Wyoming,2018,0,108,98.3,95,108.7
+Wyoming,South Carolina,2018,1,95,108.7,108,98.3
+Florida A&M,Georgia Tech,2018,0,89,103.3,101.8,96
+Georgia Tech,Florida A&M,2018,1,101.8,96,89,103.3
+Bucknell,Ohio State,2018,0,105.5,103.7,109.3,94.3
+Ohio State,Bucknell,2018,1,109.3,94.3,105.5,103.7
+Tennessee Tech,Kennesaw State,2018,0,89.6,104.6,91.8,110.7
+Kennesaw State,Tennessee Tech,2018,1,91.8,110.7,89.6,104.6
+Robert Morris,Louisville,2018,0,95.9,104.2,113.4,92.5
+Louisville,Robert Morris,2018,1,113.4,92.5,95.9,104.2
+Penn State,Alabama,2018,0,109.5,94.2,108.2,96.7
+Alabama,Penn State,2018,1,108.2,96.7,109.5,94.2
+Texas State,Arkansas,2018,0,102.1,97.7,110.3,97.3
+Arkansas,Texas State,2018,1,110.3,97.3,102.1,97.7
+Belmont,Purdue,2018,0,115,101.3,121.1,95.1
+Purdue,Belmont,2018,1,121.1,95.1,115,101.3
+Dartmouth,Vermont,2018,0,103.3,108,108,99.3
+Vermont,Dartmouth,2018,1,108,99.3,103.3,108
+DePaul,Villanova,2018,0,110.7,104.5,116.9,98.4
+Villanova,DePaul,2018,1,116.9,98.4,110.7,104.5
+Southern Miss,Rice,2018,0,106.6,100.2,103,110.4
+Rice,Southern Miss,2018,1,103,110.4,106.6,100.2
+Illinois,Indiana,2018,0,109.1,100.7,110.2,95.1
+Indiana,Illinois,2018,1,110.2,95.1,109.1,100.7
+Cincinnati,East Carolina,2018,0,111.7,94.6,98,107
+East Carolina,Cincinnati,2018,1,98,107,111.7,94.6
+Savannah State,Coppin State,2018,0,96.3,116,88.6,109.1
+Coppin State,Savannah State,2018,1,88.6,109.1,96.3,116
+Pacific,San Diego,2018,0,99.8,104.3,105.5,98.1
+San Diego,Pacific,2018,1,105.5,98.1,99.8,104.3
+American,Colgate,2018,0,101.9,105,110.1,105.8
+Colgate,American,2018,1,110.1,105.8,101.9,105
+Iowa State,Baylor,2018,0,119.1,97.3,113.6,98.3
+Baylor,Iowa State,2018,1,113.6,98.3,119.1,97.3
+Houston,Temple,2018,0,114.2,91.8,108.6,99.6
+Temple,Houston,2018,1,108.6,99.6,114.2,91.8
+Troy,Little Rock,2018,0,102.9,110.3,99.8,104.8
+Little Rock,Troy,2018,1,99.8,104.8,102.9,110.3
+UAB,Southern Miss,2018,0,106.5,104.6,106.6,100.2
+Southern Miss,UAB,2018,1,106.6,100.2,106.5,104.6
+Mercer,Chattanooga,2018,0,103.6,106.2,101.6,109.4
+Chattanooga,Mercer,2018,1,101.6,109.4,103.6,106.2
+Loyola Marymount,Gonzaga,2018,0,103.6,100.3,125.2,92.5
+Gonzaga,Loyola Marymount,2018,1,125.2,92.5,103.6,100.3
+James Madison,Drexel,2018,0,101,110.8,105.5,112.9
+Drexel,James Madison,2018,1,105.5,112.9,101,110.8
+Texas Tech,Baylor,2018,0,112.8,86,113.6,98.3
+Baylor,Texas Tech,2018,1,113.6,98.3,112.8,86
+Indiana,Northwestern,2018,0,110.2,95.1,103,93.5
+Northwestern,Indiana,2018,1,103,93.5,110.2,95.1
+George Washington,Davidson,2018,0,95.2,106,108,100.2
+Davidson,George Washington,2018,1,108,100.2,95.2,106
+Oakland,IUPUI,2018,0,107.4,109.5,103.4,105.8
+IUPUI,Oakland,2018,1,103.4,105.8,107.4,109.5
+Chattanooga,Furman,2018,0,101.6,109.4,109,96.3
+Furman,Chattanooga,2018,1,109,96.3,101.6,109.4
+Alabama,Baylor,2018,0,108.2,96.7,113.6,98.3
+Baylor,Alabama,2018,1,113.6,98.3,108.2,96.7
+Cornell,Columbia,2018,0,99.8,104.8,101.8,106.3
+Columbia,Cornell,2018,1,101.8,106.3,99.8,104.8
+Milwaukee,Northern Ky.,2018,0,98.3,109.5,109.4,102.7
+Northern Ky.,Milwaukee,2018,1,109.4,102.7,98.3,109.5
+Kansas,Texas,2018,0,112.8,92.1,114.1,96.5
+Texas,Kansas,2018,1,114.1,96.5,112.8,92.1
+Temple,Houston,2018,0,108.6,99.6,114.2,91.8
+Houston,Temple,2018,1,114.2,91.8,108.6,99.6
+Morgan State,Coppin State,2018,0,92.6,110.6,88.6,109.1
+Coppin State,Morgan State,2018,1,88.6,109.1,92.6,110.6
+SMU,Cincinnati,2018,0,112,106.8,111.7,94.6
+Cincinnati,SMU,2018,1,111.7,94.6,112,106.8
+Oregon,Colorado,2018,0,107.8,92.6,107,96.5
+Colorado,Oregon,2018,1,107,96.5,107.8,92.6
+Minnesota,Purdue,2018,0,110.7,96.3,121.1,95.1
+Purdue,Minnesota,2018,1,121.1,95.1,110.7,96.3
+Rider,Manhattan,2018,0,101.3,105.8,89.4,104.6
+Manhattan,Rider,2018,1,89.4,104.6,101.3,105.8
+Dayton,Saint Louis,2018,0,111.9,100.6,102.5,96.4
+Saint Louis,Dayton,2018,1,102.5,96.4,111.9,100.6
+California,Oregon,2018,0,103,110.2,107.8,92.6
+Oregon,California,2018,1,107.8,92.6,103,110.2
+Florida,Tennessee,2018,0,110.3,91.9,122.6,95.6
+Tennessee,Florida,2018,1,122.6,95.6,110.3,91.9
+Louisiana Tech,Southern Miss,2018,0,104.8,101.8,106.6,100.2
+Southern Miss,Louisiana Tech,2018,1,106.6,100.2,104.8,101.8
+Georgia,Texas A&M,2018,0,105.9,101.7,107,99.5
+Texas A&M,Georgia,2018,1,107,99.5,105.9,101.7
+Duquesne,La Salle,2018,0,104.4,105.3,99.9,105.1
+La Salle,Duquesne,2018,1,99.9,105.1,104.4,105.3
+New Hampshire,Vermont,2018,0,84.2,107.3,108,99.3
+Vermont,New Hampshire,2018,1,108,99.3,84.2,107.3
+Charlotte,Old Dominion,2018,0,95.5,106.6,102,96.4
+Old Dominion,Charlotte,2018,1,102,96.4,95.5,106.6
+Akron,Bowling Green,2018,0,99.9,93.8,108.3,102.1
+Bowling Green,Akron,2018,1,108.3,102.1,99.9,93.8
+Illinois State,Indiana State,2018,0,101.2,104.6,101.1,105.2
+Indiana State,Illinois State,2018,1,101.1,105.2,101.2,104.6
+Towson,Northeastern,2018,0,100.1,110.6,111.5,102.8
+Northeastern,Towson,2018,1,111.5,102.8,100.1,110.6
+Illinois,Purdue,2018,0,109.1,100.7,121.1,95.1
+Purdue,Illinois,2018,1,121.1,95.1,109.1,100.7
+Arizona,Oregon,2018,0,105,98.2,107.8,92.6
+Oregon,Arizona,2018,1,107.8,92.6,105,98.2
+Virginia Tech,Florida State,2018,0,118.5,94.1,113,90.5
+Florida State,Virginia Tech,2018,1,113,90.5,118.5,94.1
+Purdue,Minnesota,2018,0,121.1,95.1,110.7,96.3
+Minnesota,Purdue,2018,1,110.7,96.3,121.1,95.1
+Marquette,Seton Hall,2018,0,114.1,95.9,109.3,96.6
+Seton Hall,Marquette,2018,1,109.3,96.6,114.1,95.9
+Boise State,New Mexico,2018,0,107.2,104,104,105.6
+New Mexico,Boise State,2018,1,104,105.6,107.2,104
+Louisville,Virginia,2018,0,113.4,92.5,123.6,88.1
+Virginia,Louisville,2018,1,123.6,88.1,113.4,92.5
+North Texas,FIU,2018,0,99.6,99.1,102,105.2
+FIU,North Texas,2018,1,102,105.2,99.6,99.1
+Maine,Vermont,2018,0,93.1,111.8,108,99.3
+Vermont,Maine,2018,1,108,99.3,93.1,111.8
+Bowling Green,VCU,2018,0,108.3,102.1,104.3,88.7
+VCU,Bowling Green,2018,1,104.3,88.7,108.3,102.1
+Penn State,DePaul,2018,0,109.5,94.2,110.7,104.5
+DePaul,Penn State,2018,1,110.7,104.5,109.5,94.2
+Princeton,Lehigh,2018,0,98.7,99.7,108.7,109.5
+Lehigh,Princeton,2018,1,108.7,109.5,98.7,99.7
+Northern Iowa,Old Dominion,2018,0,101.2,102.4,102,96.4
+Old Dominion,Northern Iowa,2018,1,102,96.4,101.2,102.4
+Cal Poly,Portland,2018,0,96.9,114.6,94.3,110
+Portland,Cal Poly,2018,1,94.3,110,96.9,114.6
+Charlotte,Charleston,2018,0,95.5,106.6,108.5,103.4
+Charleston,Charlotte,2018,1,108.5,103.4,95.5,106.6
+Northeastern,Syracuse,2018,0,111.5,102.8,110.2,94
+Syracuse,Northeastern,2018,1,110.2,94,111.5,102.8
+Wofford,Kansas,2018,0,118.5,97.7,112.8,92.1
+Kansas,Wofford,2018,1,112.8,92.1,118.5,97.7
+Georgetown,Syracuse,2018,0,109.2,101.9,110.2,94
+Syracuse,Georgetown,2018,1,110.2,94,109.2,101.9
+Arkansas State,Minnesota,2018,0,102.3,110,110.7,96.3
+Minnesota,Arkansas State,2018,1,110.7,96.3,102.3,110
+Purdue,Texas,2018,0,121.1,95.1,114.1,96.5
+Texas,Purdue,2018,1,114.1,96.5,121.1,95.1
+Lipscomb,Louisville,2018,0,111,97.2,113.4,92.5
+Louisville,Lipscomb,2018,1,113.4,92.5,111,97.2
+Rutgers,Seton Hall,2018,0,105.6,96.3,109.3,96.6
+Seton Hall,Rutgers,2018,1,109.3,96.6,105.6,96.3
+Maine,Duquesne,2018,0,93.1,111.8,104.4,105.3
+Duquesne,Maine,2018,1,104.4,105.3,93.1,111.8
+William & Mary,Virginia,2018,0,103.4,108.1,123.6,88.1
+Virginia,William & Mary,2018,1,123.6,88.1,103.4,108.1
+Bryant,Iowa,2018,0,99.4,114.8,117.2,101.3
+Iowa,Bryant,2018,1,117.2,101.3,99.4,114.8
+IUPUI,Wright State,2018,0,103.4,105.8,106.7,102
+Wright State,IUPUI,2018,1,106.7,102,103.4,105.8
+Utah State,Nevada,2018,0,113,96.4,114.1,95.2
+Nevada,Utah State,2018,1,114.1,95.2,113,96.4
+Colgate,Navy,2018,0,110.1,105.8,97.2,107.1
+Navy,Colgate,2018,1,97.2,107.1,110.1,105.8
+Gardner-Webb,Campbell,2018,0,107.6,108.3,107.8,109.9
+Campbell,Gardner-Webb,2018,1,107.8,109.9,107.6,108.3
+Kennesaw State,NJIT,2018,0,91.8,110.7,102.2,103.1
+NJIT,Kennesaw State,2018,1,102.2,103.1,91.8,110.7
+Quinnipiac,Rider,2018,0,105.3,111.5,101.3,105.8
+Rider,Quinnipiac,2018,1,101.3,105.8,105.3,111.5
+Richmond,Dayton,2018,0,106.8,110.1,111.9,100.6
+Dayton,Richmond,2018,1,111.9,100.6,106.8,110.1
+Florida A&M,Norfolk State,2018,0,89,103.3,97.6,106
+Norfolk State,Florida A&M,2018,1,97.6,106,89,103.3
+Ohio State,Iowa,2018,0,109.3,94.3,117.2,101.3
+Iowa,Ohio State,2018,1,117.2,101.3,109.3,94.3
+Seton Hall,Providence,2018,0,109.3,96.6,105,95.8
+Providence,Seton Hall,2018,1,105,95.8,109.3,96.6
+Georgia Tech,Clemson,2018,0,101.8,96,109,91.5
+Clemson,Georgia Tech,2018,1,109,91.5,101.8,96
+Towson,Drexel,2018,0,100.1,110.6,105.5,112.9
+Drexel,Towson,2018,1,105.5,112.9,100.1,110.6
+Navy,Army,2018,0,97.2,107.1,96.2,103
+Army,Navy,2018,1,96.2,103,97.2,107.1
+Virginia,Duke,2018,0,123.6,88.1,120.1,88.2
+Duke,Virginia,2018,1,120.1,88.2,123.6,88.1
+Oklahoma State,Iowa State,2018,0,108.9,101.4,119.1,97.3
+Iowa State,Oklahoma State,2018,1,119.1,97.3,108.9,101.4
+North Alabama,Liberty,2018,0,95.1,105.1,110.6,99.6
+Liberty,North Alabama,2018,1,110.6,99.6,95.1,105.1
+Missouri,Arkansas,2018,0,106.8,97,110.3,97.3
+Arkansas,Missouri,2018,1,110.3,97.3,106.8,97
+Elon,Charleston,2018,0,99,111.1,108.5,103.4
+Charleston,Elon,2018,1,108.5,103.4,99,111.1
+Sacred Heart,Robert Morris,2018,0,104.2,110.7,95.9,104.2
+Robert Morris,Sacred Heart,2018,1,95.9,104.2,104.2,110.7
+Stetson,Jacksonville,2018,0,97.6,113.3,98.8,106.2
+Jacksonville,Stetson,2018,1,98.8,106.2,97.6,113.3
+North Texas,Old Dominion,2018,0,99.6,99.1,102,96.4
+Old Dominion,North Texas,2018,1,102,96.4,99.6,99.1
+William & Mary,Northeastern,2018,0,103.4,108.1,111.5,102.8
+Northeastern,William & Mary,2018,1,111.5,102.8,103.4,108.1
+Bryant,Robert Morris,2018,0,99.4,114.8,95.9,104.2
+Robert Morris,Bryant,2018,1,95.9,104.2,99.4,114.8
+Kent State,Akron,2018,0,109.7,106.8,99.9,93.8
+Akron,Kent State,2018,1,99.9,93.8,109.7,106.8
+Elon,Northeastern,2018,0,99,111.1,111.5,102.8
+Northeastern,Elon,2018,1,111.5,102.8,99,111.1
+East Carolina,South Florida,2018,0,98,107,102.4,97.3
+South Florida,East Carolina,2018,1,102.4,97.3,98,107
+Fairfield,Canisius,2018,0,95.8,107.3,101.5,111.4
+Canisius,Fairfield,2018,1,101.5,111.4,95.8,107.3
+Bucknell,Holy Cross,2018,0,105.5,103.7,101,107.8
+Holy Cross,Bucknell,2018,1,101,107.8,105.5,103.7
+UTSA,Louisiana Tech,2018,0,105.8,104.1,104.8,101.8
+Louisiana Tech,UTSA,2018,1,104.8,101.8,105.8,104.1
+Oregon,Oregon State,2018,0,107.8,92.6,111.2,103.3
+Oregon State,Oregon,2018,1,111.2,103.3,107.8,92.6
+Pepperdine,Saint Mary's,2018,0,106.7,105.4,114.7,97.1
+Saint Mary's,Pepperdine,2018,1,114.7,97.1,106.7,105.4
+Wichita State,Cincinnati,2018,0,106,98.5,111.7,94.6
+Cincinnati,Wichita State,2018,1,111.7,94.6,106,98.5
+Fordham,Richmond,2018,0,96.5,104.4,106.8,110.1
+Richmond,Fordham,2018,1,106.8,110.1,96.5,104.4
+Denver,South Dakota,2018,0,99.8,112.9,100.4,106.1
+South Dakota,Denver,2018,1,100.4,106.1,99.8,112.9
+Ohio State,Maryland,2018,0,109.3,94.3,113.9,94
+Maryland,Ohio State,2018,1,113.9,94,109.3,94.3
+Georgia,Ole Miss,2018,0,105.9,101.7,112.9,97.7
+Ole Miss,Georgia,2018,1,112.9,97.7,105.9,101.7
+Little Rock,Arkansas State,2018,0,99.8,104.8,102.3,110
+Arkansas State,Little Rock,2018,1,102.3,110,99.8,104.8
+Manhattan,Fairfield,2018,0,89.4,104.6,95.8,107.3
+Fairfield,Manhattan,2018,1,95.8,107.3,89.4,104.6
+Tulane,Tulsa,2018,0,96.6,107.4,104.7,100.5
+Tulsa,Tulane,2018,1,104.7,100.5,96.6,107.4
+Santa Clara,Loyola Marymount,2018,0,101.8,103.8,103.6,100.3
+Loyola Marymount,Santa Clara,2018,1,103.6,100.3,101.8,103.8
+Coppin State,Norfolk State,2018,0,88.6,109.1,97.6,106
+Norfolk State,Coppin State,2018,1,97.6,106,88.6,109.1
+Jacksonville,Liberty,2018,0,98.8,106.2,110.6,99.6
+Liberty,Jacksonville,2018,1,110.6,99.6,98.8,106.2
+Stephen F. Austin,Abilene Christ.,2018,0,95.4,108.2,103.7,101.6
+Abilene Christ.,Stephen F. Austin,2018,1,103.7,101.6,95.4,108.2
+East Carolina,Wichita State,2018,0,98,107,106,98.5
+Wichita State,East Carolina,2018,1,106,98.5,98,107
+Fordham,La Salle,2018,0,96.5,104.4,99.9,105.1
+La Salle,Fordham,2018,1,99.9,105.1,96.5,104.4
+Illinois,Penn State,2018,0,109.1,100.7,109.5,94.2
+Penn State,Illinois,2018,1,109.5,94.2,109.1,100.7
+Florida A&M,Loyola Marymount,2018,0,89,103.3,103.6,100.3
+Loyola Marymount,Florida A&M,2018,1,103.6,100.3,89,103.3
+Brown,Rhode Island,2018,0,98.7,96.9,103.7,101.2
+Rhode Island,Brown,2018,1,103.7,101.2,98.7,96.9
+South Alabama,Southern Miss,2018,0,103.1,107.5,106.6,100.2
+Southern Miss,South Alabama,2018,1,106.6,100.2,103.1,107.5
+Northern Iowa,Utah State,2018,0,101.2,102.4,113,96.4
+Utah State,Northern Iowa,2018,1,113,96.4,101.2,102.4
+Tennessee Tech,Chattanooga,2018,0,89.6,104.6,101.6,109.4
+Chattanooga,Tennessee Tech,2018,1,101.6,109.4,89.6,104.6
+Detroit,Akron,2018,0,106.2,112.6,99.9,93.8
+Akron,Detroit,2018,1,99.9,93.8,106.2,112.6
+Quinnipiac,Stony Brook,2018,0,105.3,111.5,99.2,99.9
+Stony Brook,Quinnipiac,2018,1,99.2,99.9,105.3,111.5
+Baylor,Wichita State,2018,0,113.6,98.3,106,98.5
+Wichita State,Baylor,2018,1,106,98.5,113.6,98.3
+William & Mary,Old Dominion,2018,0,103.4,108.1,102,96.4
+Old Dominion,William & Mary,2018,1,102,96.4,103.4,108.1
+South Alabama,New Orleans,2018,0,103.1,107.5,97,104.7
+New Orleans,South Alabama,2018,1,97,104.7,103.1,107.5
+Stony Brook,Brown,2018,0,99.2,99.9,98.7,96.9
+Brown,Stony Brook,2018,1,98.7,96.9,99.2,99.9
+Harvard,Vermont,2018,0,104.8,100.4,108,99.3
+Vermont,Harvard,2018,1,108,99.3,104.8,100.4
+New Hampshire,Niagara,2018,0,84.2,107.3,101.6,115.2
+Niagara,New Hampshire,2018,1,101.6,115.2,84.2,107.3
+Georgia State,Kansas State,2018,0,108,102.4,108,87.8
+Kansas State,Georgia State,2018,1,108,87.8,108,102.4
+Florida A&M,Oregon,2018,0,89,103.3,107.8,92.6
+Oregon,Florida A&M,2018,1,107.8,92.6,89,103.3
+Xavier,Missouri,2018,0,110.9,100.6,106.8,97
+Missouri,Xavier,2018,1,106.8,97,110.9,100.6
+Missouri State,Arkansas State,2018,0,103,103.9,102.3,110
+Arkansas State,Missouri State,2018,1,102.3,110,103,103.9
+Mercer,Florida,2018,0,103.6,106.2,110.3,91.9
+Florida,Mercer,2018,1,110.3,91.9,103.6,106.2
+Valparaiso,Texas A&M,2018,0,98.1,102.9,107,99.5
+Texas A&M,Valparaiso,2018,1,107,99.5,98.1,102.9
+UC-Irvine,Butler,2018,0,106.7,97.2,110.8,101.1
+Butler,UC-Irvine,2018,1,110.8,101.1,106.7,97.2
+Air Force,Michigan,2018,0,100.5,107.4,115.6,86.2
+Michigan,Air Force,2018,1,115.6,86.2,100.5,107.4
+South Dakota,North Dakota St.,2018,0,100.4,106.1,106.7,109.8
+North Dakota St.,South Dakota,2018,1,106.7,109.8,100.4,106.1
+American,George Washington,2018,0,101.9,105,95.2,106
+George Washington,American,2018,1,95.2,106,101.9,105
+Southern Miss,Louisiana Tech,2018,0,106.6,100.2,104.8,101.8
+Louisiana Tech,Southern Miss,2018,1,104.8,101.8,106.6,100.2
+Alabama A&M,Hawaii,2018,0,86.5,109.3,103.6,106.6
+Hawaii,Alabama A&M,2018,1,103.6,106.6,86.5,109.3
+Towson,William & Mary,2018,0,100.1,110.6,103.4,108.1
+William & Mary,Towson,2018,1,103.4,108.1,100.1,110.6
+Mercer,Furman,2018,0,103.6,106.2,109,96.3
+Furman,Mercer,2018,1,109,96.3,103.6,106.2
+Utah Valley,Grand Canyon,2018,0,108.9,102.1,108.1,102
+Grand Canyon,Utah Valley,2018,1,108.1,102,108.9,102.1
+Longwood,Radford,2018,0,96.3,106.6,108.7,104.3
+Radford,Longwood,2018,1,108.7,104.3,96.3,106.6
+Seattle,Grand Canyon,2018,0,100.8,102.3,108.1,102
+Grand Canyon,Seattle,2018,1,108.1,102,100.8,102.3
+Navy,American,2018,0,97.2,107.1,101.9,105
+American,Navy,2018,1,101.9,105,97.2,107.1
+West Virginia,Kansas State,2018,0,109.1,101.9,108,87.8
+Kansas State,West Virginia,2018,1,108,87.8,109.1,101.9
+Delaware,Charleston,2018,0,104.8,112.9,108.5,103.4
+Charleston,Delaware,2018,1,108.5,103.4,104.8,112.9
+Florida,Mississippi St.,2018,0,110.3,91.9,117.5,96.7
+Mississippi St.,Florida,2018,1,117.5,96.7,110.3,91.9
+USC Upstate,High Point,2018,0,92.9,111.4,99.2,104.7
+High Point,USC Upstate,2018,1,99.2,104.7,92.9,111.4
+Alabama,Tennessee,2018,0,108.2,96.7,122.6,95.6
+Tennessee,Alabama,2018,1,122.6,95.6,108.2,96.7
+Longwood,Presbyterian,2018,0,96.3,106.6,109.1,111.1
+Presbyterian,Longwood,2018,1,109.1,111.1,96.3,106.6
+California,Washington,2018,0,103,110.2,107,93.7
+Washington,California,2018,1,107,93.7,103,110.2
+Fordham,George Mason,2018,0,96.5,104.4,104.4,103.8
+George Mason,Fordham,2018,1,104.4,103.8,96.5,104.4
+VCU,Rhode Island,2018,0,104.3,88.7,103.7,101.2
+Rhode Island,VCU,2018,1,103.7,101.2,104.3,88.7
+Loyola Marymount,San Diego,2018,0,103.6,100.3,105.5,98.1
+San Diego,Loyola Marymount,2018,1,105.5,98.1,103.6,100.3
+Saint Mary's,BYU,2018,0,114.7,97.1,111.7,104.1
+BYU,Saint Mary's,2018,1,111.7,104.1,114.7,97.1
+Kansas,Kentucky,2018,0,112.8,92.1,118.3,90.9
+Kentucky,Kansas,2018,1,118.3,90.9,112.8,92.1
+Alcorn State,Alabama A&M,2018,0,88.8,113.5,86.5,109.3
+Alabama A&M,Alcorn State,2018,1,86.5,109.3,88.8,113.5
+USC Upstate,UNC Asheville,2018,0,92.9,111.4,92.9,117
+UNC Asheville,USC Upstate,2018,1,92.9,117,92.9,111.4
+Nebraska,Illinois,2018,0,112.6,97.2,109.1,100.7
+Illinois,Nebraska,2018,1,109.1,100.7,112.6,97.2
+Army,American,2018,0,96.2,103,101.9,105
+American,Army,2018,1,101.9,105,96.2,103
+Drexel,James Madison,2018,0,105.5,112.9,101,110.8
+James Madison,Drexel,2018,1,101,110.8,105.5,112.9
+UTEP,Louisiana Tech,2018,0,89.9,101.2,104.8,101.8
+Louisiana Tech,UTEP,2018,1,104.8,101.8,89.9,101.2
+Boise State,San Diego State,2018,0,107.2,104,103.8,98.8
+San Diego State,Boise State,2018,1,103.8,98.8,107.2,104
+Rutgers,Michigan State,2018,0,105.6,96.3,121.8,90.5
+Michigan State,Rutgers,2018,1,121.8,90.5,105.6,96.3
+New Mexico,Utah State,2018,0,104,105.6,113,96.4
+Utah State,New Mexico,2018,1,113,96.4,104,105.6
+UNC Wilmington,William & Mary,2018,0,105.4,114.4,103.4,108.1
+William & Mary,UNC Wilmington,2018,1,103.4,108.1,105.4,114.4
+South Florida,Houston,2018,0,102.4,97.3,114.2,91.8
+Houston,South Florida,2018,1,114.2,91.8,102.4,97.3
+Saint Louis,VCU,2018,0,102.5,96.4,104.3,88.7
+VCU,Saint Louis,2018,1,104.3,88.7,102.5,96.4
+Wyoming,Fresno State,2018,0,95,108.7,108.3,98.6
+Fresno State,Wyoming,2018,1,108.3,98.6,95,108.7
+Northern Iowa,Indiana State,2018,0,101.2,102.4,101.1,105.2
+Indiana State,Northern Iowa,2018,1,101.1,105.2,101.2,102.4
+Kentucky,Tennessee,2018,0,118.3,90.9,122.6,95.6
+Tennessee,Kentucky,2018,1,122.6,95.6,118.3,90.9
+Utah,Colorado,2018,0,114.3,108.9,107,96.5
+Colorado,Utah,2018,1,107,96.5,114.3,108.9
+Memphis,Cincinnati,2018,0,109,97.7,111.7,94.6
+Cincinnati,Memphis,2018,1,111.7,94.6,109,97.7
+Xavier,Butler,2018,0,110.9,100.6,110.8,101.1
+Butler,Xavier,2018,1,110.8,101.1,110.9,100.6
+Wake Forest,Duke,2018,0,104.6,104.9,120.1,88.2
+Duke,Wake Forest,2018,1,120.1,88.2,104.6,104.9
+IUPUI,Wright State,2018,0,103.4,105.8,106.7,102
+Wright State,IUPUI,2018,1,106.7,102,103.4,105.8
+North Florida,Liberty,2018,0,103.8,104.6,110.6,99.6
+Liberty,North Florida,2018,1,110.6,99.6,103.8,104.6
+Holy Cross,Providence,2018,0,101,107.8,105,95.8
+Providence,Holy Cross,2018,1,105,95.8,101,107.8
+Jackson State,Boise State,2018,0,89.8,104.7,107.2,104
+Boise State,Jackson State,2018,1,107.2,104,89.8,104.7
+Charleston,Oklahoma State,2018,0,108.5,103.4,108.9,101.4
+Oklahoma State,Charleston,2018,1,108.9,101.4,108.5,103.4
+Columbia,Fordham,2018,0,101.8,106.3,96.5,104.4
+Fordham,Columbia,2018,1,96.5,104.4,101.8,106.3
+Colorado,San Diego,2018,0,107,96.5,105.5,98.1
+San Diego,Colorado,2018,1,105.5,98.1,107,96.5
+Manhattan,George Washington,2018,0,89.4,104.6,95.2,106
+George Washington,Manhattan,2018,1,95.2,106,89.4,104.6
+Longwood,Seattle,2018,0,96.3,106.6,100.8,102.3
+Seattle,Longwood,2018,1,100.8,102.3,96.3,106.6
+Alabama,UCF,2018,0,108.2,96.7,110.5,95.8
+UCF,Alabama,2018,1,110.5,95.8,108.2,96.7
+Brown,Butler,2018,0,98.7,96.9,110.8,101.1
+Butler,Brown,2018,1,110.8,101.1,98.7,96.9
+Seattle,Washington,2018,0,100.8,102.3,107,93.7
+Washington,Seattle,2018,1,107,93.7,100.8,102.3
+New Orleans,Tulsa,2018,0,97,104.7,104.7,100.5
+Tulsa,New Orleans,2018,1,104.7,100.5,97,104.7
+Howard,George Washington,2018,0,101.9,114.3,95.2,106
+George Washington,Howard,2018,1,95.2,106,101.9,114.3
+Cincinnati,Mississippi St.,2018,0,111.7,94.6,117.5,96.7
+Mississippi St.,Cincinnati,2018,1,117.5,96.7,111.7,94.6
+Longwood,Cornell,2018,0,96.3,106.6,99.8,104.8
+Cornell,Longwood,2018,1,99.8,104.8,96.3,106.6
+Boise State,Loyola Marymount,2018,0,107.2,104,103.6,100.3
+Loyola Marymount,Boise State,2018,1,103.6,100.3,107.2,104
+Wichita State,VCU,2018,0,106,98.5,104.3,88.7
+VCU,Wichita State,2018,1,104.3,88.7,106,98.5
+Colorado,Hawaii,2018,0,107,96.5,103.6,106.6
+Hawaii,Colorado,2018,1,103.6,106.6,107,96.5
+Maine,Rutgers,2018,0,93.1,111.8,105.6,96.3
+Rutgers,Maine,2018,1,105.6,96.3,93.1,111.8
+Oklahoma,Kansas,2018,0,109.5,94,112.8,92.1
+Kansas,Oklahoma,2018,1,112.8,92.1,109.5,94
+Xavier,Marquette,2018,0,110.9,100.6,114.1,95.9
+Marquette,Xavier,2018,1,114.1,95.9,110.9,100.6
+Northern Iowa,Illinois State,2018,0,101.2,102.4,101.2,104.6
+Illinois State,Northern Iowa,2018,1,101.2,104.6,101.2,102.4
+Penn State,Nebraska,2018,0,109.5,94.2,112.6,97.2
+Nebraska,Penn State,2018,1,112.6,97.2,109.5,94.2
+Seton Hall,Marquette,2018,0,109.3,96.6,114.1,95.9
+Marquette,Seton Hall,2018,1,114.1,95.9,109.3,96.6
+Butler,Xavier,2018,0,110.8,101.1,110.9,100.6
+Xavier,Butler,2018,1,110.9,100.6,110.8,101.1
+Oregon State,Arizona State,2018,0,111.2,103.3,109.9,98.6
+Arizona State,Oregon State,2018,1,109.9,98.6,111.2,103.3
+Indiana,Purdue,2018,0,110.2,95.1,121.1,95.1
+Purdue,Indiana,2018,1,121.1,95.1,110.2,95.1
+North Florida,Liberty,2018,0,103.8,104.6,110.6,99.6
+Liberty,North Florida,2018,1,110.6,99.6,103.8,104.6
+Valparaiso,Indiana State,2018,0,98.1,102.9,101.1,105.2
+Indiana State,Valparaiso,2018,1,101.1,105.2,98.1,102.9
+DePaul,Providence,2018,0,110.7,104.5,105,95.8
+Providence,DePaul,2018,1,105,95.8,110.7,104.5
+Georgia,Arkansas,2018,0,105.9,101.7,110.3,97.3
+Arkansas,Georgia,2018,1,110.3,97.3,105.9,101.7
+Northwestern,Maryland,2018,0,103,93.5,113.9,94
+Maryland,Northwestern,2018,1,113.9,94,103,93.5
+James Madison,Charleston,2018,0,101,110.8,108.5,103.4
+Charleston,James Madison,2018,1,108.5,103.4,101,110.8
+UMKC,New Mexico St.,2018,0,101,107.2,112.7,99.1
+New Mexico St.,UMKC,2018,1,112.7,99.1,101,107.2
+Seton Hall,Butler,2018,0,109.3,96.6,110.8,101.1
+Butler,Seton Hall,2018,1,110.8,101.1,109.3,96.6
+Oklahoma State,TCU,2018,0,108.9,101.4,110.4,96.3
+TCU,Oklahoma State,2018,1,110.4,96.3,108.9,101.4
+Arkansas State,South Alabama,2018,0,102.3,110,103.1,107.5
+South Alabama,Arkansas State,2018,1,103.1,107.5,102.3,110
+San Diego,Pepperdine,2018,0,105.5,98.1,106.7,105.4
+Pepperdine,San Diego,2018,1,106.7,105.4,105.5,98.1
+UNC Wilmington,Delaware,2018,0,105.4,114.4,104.8,112.9
+Delaware,UNC Wilmington,2018,1,104.8,112.9,105.4,114.4
+UMKC,Cal Baptist,2018,0,101,107.2,106.7,109.3
+Cal Baptist,UMKC,2018,1,106.7,109.3,101,107.2
+Purdue,Maryland,2018,0,121.1,95.1,113.9,94
+Maryland,Purdue,2018,1,113.9,94,121.1,95.1
+Brown,Cornell,2018,0,98.7,96.9,99.8,104.8
+Cornell,Brown,2018,1,99.8,104.8,98.7,96.9
+American,Lafayette,2018,0,101.9,105,101.4,112.7
+Lafayette,American,2018,1,101.4,112.7,101.9,105
+Saint Louis,Dayton,2018,0,102.5,96.4,111.9,100.6
+Dayton,Saint Louis,2018,1,111.9,100.6,102.5,96.4
+Stanford,Arizona,2018,0,103.4,98.2,105,98.2
+Arizona,Stanford,2018,1,105,98.2,103.4,98.2
+Arkansas,Kentucky,2018,0,110.3,97.3,118.3,90.9
+Kentucky,Arkansas,2018,1,118.3,90.9,110.3,97.3
+Wright State,Green Bay,2018,0,106.7,102,103,106.5
+Green Bay,Wright State,2018,1,103,106.5,106.7,102
+UNC Wilmington,Charleston,2018,0,105.4,114.4,108.5,103.4
+Charleston,UNC Wilmington,2018,1,108.5,103.4,105.4,114.4
+Southern Utah,Montana,2018,0,96.5,106.5,107.5,103.9
+Montana,Southern Utah,2018,1,107.5,103.9,96.5,106.5
+Texas,Texas Tech,2018,0,114.1,96.5,112.8,86
+Texas Tech,Texas,2018,1,112.8,86,114.1,96.5
+La Salle,Dayton,2018,0,99.9,105.1,111.9,100.6
+Dayton,La Salle,2018,1,111.9,100.6,99.9,105.1
+Dartmouth,Columbia,2018,0,103.3,108,101.8,106.3
+Columbia,Dartmouth,2018,1,101.8,106.3,103.3,108
+Idaho,Idaho State,2018,0,94.9,118.8,101.9,118.2
+Idaho State,Idaho,2018,1,101.9,118.2,94.9,118.8
+Gardner-Webb,VCU,2018,0,107.6,108.3,104.3,88.7
+VCU,Gardner-Webb,2018,1,104.3,88.7,107.6,108.3
+Hampton,VCU,2018,0,107.5,110.1,104.3,88.7
+VCU,Hampton,2018,1,104.3,88.7,107.5,110.1
+North Alabama,Saint Louis,2018,0,95.1,105.1,102.5,96.4
+Saint Louis,North Alabama,2018,1,102.5,96.4,95.1,105.1
+Florida A&M,South Florida,2018,0,89,103.3,102.4,97.3
+South Florida,Florida A&M,2018,1,102.4,97.3,89,103.3
+Hofstra,VCU,2018,0,116.3,108.7,104.3,88.7
+VCU,Hofstra,2018,1,104.3,88.7,116.3,108.7
+Fairl. Dickinson,Providence,2018,0,106.7,110.5,105,95.8
+Providence,Fairl. Dickinson,2018,1,105,95.8,106.7,110.5
+Wright State,Indiana State,2018,0,106.7,102,101.1,105.2
+Indiana State,Wright State,2018,1,101.1,105.2,106.7,102
+Tulsa,Utah,2018,0,104.7,100.5,114.3,108.9
+Utah,Tulsa,2018,1,114.3,108.9,104.7,100.5
+Boise State,Grand Canyon,2018,0,107.2,104,108.1,102
+Grand Canyon,Boise State,2018,1,108.1,102,107.2,104
+Rutgers,Wisconsin,2018,0,105.6,96.3,110.9,87.3
+Wisconsin,Rutgers,2018,1,110.9,87.3,105.6,96.3
+Temple,Villanova,2018,0,108.6,99.6,116.9,98.4
+Villanova,Temple,2018,1,116.9,98.4,108.6,99.6
+Jackson State,Pepperdine,2018,0,89.8,104.7,106.7,105.4
+Pepperdine,Jackson State,2018,1,106.7,105.4,89.8,104.7
+Robert Morris,Rider,2018,0,95.9,104.2,101.3,105.8
+Rider,Robert Morris,2018,1,101.3,105.8,95.9,104.2
+Binghamton,Notre Dame,2018,0,95.9,112.7,108.3,100.8
+Notre Dame,Binghamton,2018,1,108.3,100.8,95.9,112.7
+Detroit,Xavier,2018,0,106.2,112.6,110.9,100.6
+Xavier,Detroit,2018,1,110.9,100.6,106.2,112.6
+Fairl. Dickinson,Robert Morris,2018,0,106.7,110.5,95.9,104.2
+Robert Morris,Fairl. Dickinson,2018,1,95.9,104.2,106.7,110.5
+New Hampshire,Binghamton,2018,0,84.2,107.3,95.9,112.7
+Binghamton,New Hampshire,2018,1,95.9,112.7,84.2,107.3
+Charleston,James Madison,2018,0,108.5,103.4,101,110.8
+James Madison,Charleston,2018,1,101,110.8,108.5,103.4
+La Salle,VCU,2018,0,99.9,105.1,104.3,88.7
+VCU,La Salle,2018,1,104.3,88.7,99.9,105.1
+Charlotte,FIU,2018,0,95.5,106.6,102,105.2
+FIU,Charlotte,2018,1,102,105.2,95.5,106.6
+Boston College,Notre Dame,2018,0,107.6,102.4,108.3,100.8
+Notre Dame,Boston College,2018,1,108.3,100.8,107.6,102.4
+Jacksonville,Liberty,2018,0,98.8,106.2,110.6,99.6
+Liberty,Jacksonville,2018,1,110.6,99.6,98.8,106.2
+Savannah State,Florida A&M,2018,0,96.3,116,89,103.3
+Florida A&M,Savannah State,2018,1,89,103.3,96.3,116
+Indiana State,Northern Iowa,2018,0,101.1,105.2,101.2,102.4
+Northern Iowa,Indiana State,2018,1,101.2,102.4,101.1,105.2
+Charleston,Northeastern,2018,0,108.5,103.4,111.5,102.8
+Northeastern,Charleston,2018,1,111.5,102.8,108.5,103.4
+Maryland,Michigan State,2018,0,113.9,94,121.8,90.5
+Michigan State,Maryland,2018,1,121.8,90.5,113.9,94
+Navy,Holy Cross,2018,0,97.2,107.1,101,107.8
+Holy Cross,Navy,2018,1,101,107.8,97.2,107.1
+Arizona State,USC,2018,0,109.9,98.6,109.3,101.6
+USC,Arizona State,2018,1,109.3,101.6,109.9,98.6
+Idaho,Portland State,2018,0,94.9,118.8,101.6,112
+Portland State,Idaho,2018,1,101.6,112,94.9,118.8
+Navy,Bucknell,2018,0,97.2,107.1,105.5,103.7
+Bucknell,Navy,2018,1,105.5,103.7,97.2,107.1
+High Point,Gardner-Webb,2018,0,99.2,104.7,107.6,108.3
+Gardner-Webb,High Point,2018,1,107.6,108.3,99.2,104.7
+Maryland,Wisconsin,2018,0,113.9,94,110.9,87.3
+Wisconsin,Maryland,2018,1,110.9,87.3,113.9,94
+UCLA,Washington,2018,0,108.5,102.6,107,93.7
+Washington,UCLA,2018,1,107,93.7,108.5,102.6
+Portland State,Idaho State,2018,0,101.6,112,101.9,118.2
+Idaho State,Portland State,2018,1,101.9,118.2,101.6,112
+Portland,Santa Clara,2018,0,94.3,110,101.8,103.8
+Santa Clara,Portland,2018,1,101.8,103.8,94.3,110
+Vanderbilt,Arkansas,2018,0,102.1,101.2,110.3,97.3
+Arkansas,Vanderbilt,2018,1,110.3,97.3,102.1,101.2
+Fairl. Dickinson,Sacred Heart,2018,0,106.7,110.5,104.2,110.7
+Sacred Heart,Fairl. Dickinson,2018,1,104.2,110.7,106.7,110.5
+UNC Wilmington,Drexel,2018,0,105.4,114.4,105.5,112.9
+Drexel,UNC Wilmington,2018,1,105.5,112.9,105.4,114.4
+High Point,Radford,2018,0,99.2,104.7,108.7,104.3
+Radford,High Point,2018,1,108.7,104.3,99.2,104.7
+Pacific,BYU,2018,0,99.8,104.3,111.7,104.1
+BYU,Pacific,2018,1,111.7,104.1,99.8,104.3
+Holy Cross,Lafayette,2018,0,101,107.8,101.4,112.7
+Lafayette,Holy Cross,2018,1,101.4,112.7,101,107.8
+Georgia Tech,Notre Dame,2018,0,101.8,96,108.3,100.8
+Notre Dame,Georgia Tech,2018,1,108.3,100.8,101.8,96
+Stanford,Oregon,2018,0,103.4,98.2,107.8,92.6
+Oregon,Stanford,2018,1,107.8,92.6,103.4,98.2
+Oklahoma State,Texas,2018,0,108.9,101.4,114.1,96.5
+Texas,Oklahoma State,2018,1,114.1,96.5,108.9,101.4
+North Texas,FIU,2018,0,99.6,99.1,102,105.2
+FIU,North Texas,2018,1,102,105.2,99.6,99.1
+Dartmouth,Princeton,2018,0,103.3,108,98.7,99.7
+Princeton,Dartmouth,2018,1,98.7,99.7,103.3,108
+Louisville,Syracuse,2018,0,113.4,92.5,110.2,94
+Syracuse,Louisville,2018,1,110.2,94,113.4,92.5
+UMKC,Seattle,2018,0,101,107.2,100.8,102.3
+Seattle,UMKC,2018,1,100.8,102.3,101,107.2
+Texas,Oklahoma,2018,0,114.1,96.5,109.5,94
+Oklahoma,Texas,2018,1,109.5,94,114.1,96.5
+California,Arizona State,2018,0,103,110.2,109.9,98.6
+Arizona State,California,2018,1,109.9,98.6,103,110.2
+Jacksonville,North Alabama,2018,0,98.8,106.2,95.1,105.1
+North Alabama,Jacksonville,2018,1,95.1,105.1,98.8,106.2
+Minnesota,Maryland,2018,0,110.7,96.3,113.9,94
+Maryland,Minnesota,2018,1,113.9,94,110.7,96.3
+New Hampshire,American,2018,0,84.2,107.3,101.9,105
+American,New Hampshire,2018,1,101.9,105,84.2,107.3
+Samford,Ohio State,2018,0,106.7,104.4,109.3,94.3
+Ohio State,Samford,2018,1,109.3,94.3,106.7,104.4
+Minnesota,Boston College,2018,0,110.7,96.3,107.6,102.4
+Boston College,Minnesota,2018,1,107.6,102.4,110.7,96.3
+Northwestern,Indiana,2018,0,103,93.5,110.2,95.1
+Indiana,Northwestern,2018,1,110.2,95.1,103,93.5
+Robert Morris,Canisius,2018,0,95.9,104.2,101.5,111.4
+Canisius,Robert Morris,2018,1,101.5,111.4,95.9,104.2
+Towson,George Washington,2018,0,100.1,110.6,95.2,106
+George Washington,Towson,2018,1,95.2,106,100.1,110.6
+Louisville,Indiana,2018,0,113.4,92.5,110.2,95.1
+Indiana,Louisville,2018,1,110.2,95.1,113.4,92.5
+Saint Louis,Houston,2018,0,102.5,96.4,114.2,91.8
+Houston,Saint Louis,2018,1,114.2,91.8,102.5,96.4
+Dartmouth,Bryant,2018,0,103.3,108,99.4,114.8
+Bryant,Dartmouth,2018,1,99.4,114.8,103.3,108
+Columbia,Rutgers,2018,0,101.8,106.3,105.6,96.3
+Rutgers,Columbia,2018,1,105.6,96.3,101.8,106.3
+Akron,Nevada,2018,0,99.9,93.8,114.1,95.2
+Nevada,Akron,2018,1,114.1,95.2,99.9,93.8
+FIU,Ohio,2018,0,102,105.2,98.7,100.2
+Ohio,FIU,2018,1,98.7,100.2,102,105.2
+James Madison,Elon,2018,0,101,110.8,99,111.1
+Elon,James Madison,2018,1,99,111.1,101,110.8
+New Orleans,Abilene Christ.,2018,0,97,104.7,103.7,101.6
+Abilene Christ.,New Orleans,2018,1,103.7,101.6,97,104.7
+Penn State,Michigan,2018,0,109.5,94.2,115.6,86.2
+Michigan,Penn State,2018,1,115.6,86.2,109.5,94.2
+San Diego,Santa Clara,2018,0,105.5,98.1,101.8,103.8
+Santa Clara,San Diego,2018,1,101.8,103.8,105.5,98.1
+Penn,Princeton,2018,0,104,99.8,98.7,99.7
+Princeton,Penn,2018,1,98.7,99.7,104,99.8
+Wyoming,UNLV,2018,0,95,108.7,105.9,106.1
+UNLV,Wyoming,2018,1,105.9,106.1,95,108.7
+Illinois,Northwestern,2018,0,109.1,100.7,103,93.5
+Northwestern,Illinois,2018,1,103,93.5,109.1,100.7
+Wright State,Northern Ky.,2018,0,106.7,102,109.4,102.7
+Northern Ky.,Wright State,2018,1,109.4,102.7,106.7,102
+Binghamton,UMBC,2018,0,95.9,112.7,96,101.8
+UMBC,Binghamton,2018,1,96,101.8,95.9,112.7
+Stephen F. Austin,New Orleans,2018,0,95.4,108.2,97,104.7
+New Orleans,Stephen F. Austin,2018,1,97,104.7,95.4,108.2
+Wake Forest,Virginia,2018,0,104.6,104.9,123.6,88.1
+Virginia,Wake Forest,2018,1,123.6,88.1,104.6,104.9
+Southern,Alabama A&M,2018,0,93.7,112.2,86.5,109.3
+Alabama A&M,Southern,2018,1,86.5,109.3,93.7,112.2
+Duquesne,Dayton,2018,0,104.4,105.3,111.9,100.6
+Dayton,Duquesne,2018,1,111.9,100.6,104.4,105.3
+Brown,Harvard,2018,0,98.7,96.9,104.8,100.4
+Harvard,Brown,2018,1,104.8,100.4,98.7,96.9
+Rhode Island,Davidson,2018,0,103.7,101.2,108,100.2
+Davidson,Rhode Island,2018,1,108,100.2,103.7,101.2
+Utah State,San Diego State,2018,0,113,96.4,103.8,98.8
+San Diego State,Utah State,2018,1,103.8,98.8,113,96.4
+Alabama A&M,Alabama State,2018,0,86.5,109.3,94.6,111.1
+Alabama State,Alabama A&M,2018,1,94.6,111.1,86.5,109.3
+Delaware,James Madison,2018,0,104.8,112.9,101,110.8
+James Madison,Delaware,2018,1,101,110.8,104.8,112.9
+TCU,Oklahoma State,2018,0,110.4,96.3,108.9,101.4
+Oklahoma State,TCU,2018,1,108.9,101.4,110.4,96.3
+Oregon State,UCLA,2018,0,111.2,103.3,108.5,102.6
+UCLA,Oregon State,2018,1,108.5,102.6,111.2,103.3
+Cornell,Princeton,2018,0,99.8,104.8,98.7,99.7
+Princeton,Cornell,2018,1,98.7,99.7,99.8,104.8
+Delaware,Drexel,2018,0,104.8,112.9,105.5,112.9
+Drexel,Delaware,2018,1,105.5,112.9,104.8,112.9
+Vanderbilt,Alabama,2018,0,102.1,101.2,108.2,96.7
+Alabama,Vanderbilt,2018,1,108.2,96.7,102.1,101.2
+Dartmouth,Brown,2018,0,103.3,108,98.7,96.9
+Brown,Dartmouth,2018,1,98.7,96.9,103.3,108
+Cornell,Penn,2018,0,99.8,104.8,104,99.8
+Penn,Cornell,2018,1,104,99.8,99.8,104.8
+San Francisco,Santa Clara,2018,0,111.8,101.9,101.8,103.8
+Santa Clara,San Francisco,2018,1,101.8,103.8,111.8,101.9
+Minnesota,Rutgers,2018,0,110.7,96.3,105.6,96.3
+Rutgers,Minnesota,2018,1,105.6,96.3,110.7,96.3
+Notre Dame,Florida State,2018,0,108.3,100.8,113,90.5
+Florida State,Notre Dame,2018,1,113,90.5,108.3,100.8
+Missouri,Mississippi St.,2018,0,106.8,97,117.5,96.7
+Mississippi St.,Missouri,2018,1,117.5,96.7,106.8,97
+Siena,Canisius,2018,0,100.5,109,101.5,111.4
+Canisius,Siena,2018,1,101.5,111.4,100.5,109
+UTEP,Charlotte,2018,0,89.9,101.2,95.5,106.6
+Charlotte,UTEP,2018,1,95.5,106.6,89.9,101.2
+Ohio State,Northwestern,2018,0,109.3,94.3,103,93.5
+Northwestern,Ohio State,2018,1,103,93.5,109.3,94.3
+Akron,Kent State,2018,0,99.9,93.8,109.7,106.8
+Kent State,Akron,2018,1,109.7,106.8,99.9,93.8
+Oklahoma,Kansas State,2018,0,109.5,94,108,87.8
+Kansas State,Oklahoma,2018,1,108,87.8,109.5,94
+Navy,Old Dominion,2018,0,97.2,107.1,102,96.4
+Old Dominion,Navy,2018,1,102,96.4,97.2,107.1
+UMBC,Marquette,2018,0,96,101.8,114.1,95.9
+Marquette,UMBC,2018,1,114.1,95.9,96,101.8
+Air Force,Texas State,2018,0,100.5,107.4,102.1,97.7
+Texas State,Air Force,2018,1,102.1,97.7,100.5,107.4
+Duquesne,Notre Dame,2018,0,104.4,105.3,108.3,100.8
+Notre Dame,Duquesne,2018,1,108.3,100.8,104.4,105.3
+Binghamton,Army,2018,0,95.9,112.7,96.2,103
+Army,Binghamton,2018,1,96.2,103,95.9,112.7
+Georgia Tech,Northwestern,2018,0,101.8,96,103,93.5
+Northwestern,Georgia Tech,2018,1,103,93.5,101.8,96
+Fairl. Dickinson,Holy Cross,2018,0,106.7,110.5,101,107.8
+Holy Cross,Fairl. Dickinson,2018,1,101,107.8,106.7,110.5
+Harvard,Siena,2018,0,104.8,100.4,100.5,109
+Siena,Harvard,2018,1,100.5,109,104.8,100.4
+James Madison,Old Dominion,2018,0,101,110.8,102,96.4
+Old Dominion,James Madison,2018,1,102,96.4,101,110.8
+UNC Asheville,Auburn,2018,0,92.9,117,119.7,96.3
+Auburn,UNC Asheville,2018,1,119.7,96.3,92.9,117
+Alabama State,Boise State,2018,0,94.6,111.1,107.2,104
+Boise State,Alabama State,2018,1,107.2,104,94.6,111.1
+Cal Poly,California,2018,0,96.9,114.6,103,110.2
+California,Cal Poly,2018,1,103,110.2,96.9,114.6
+Davidson,Wake Forest,2018,0,108,100.2,104.6,104.9
+Wake Forest,Davidson,2018,1,104.6,104.9,108,100.2
+UNC Asheville,Longwood,2018,0,92.9,117,96.3,106.6
+Longwood,UNC Asheville,2018,1,96.3,106.6,92.9,117
+Pacific,Gonzaga,2018,0,99.8,104.3,125.2,92.5
+Gonzaga,Pacific,2018,1,125.2,92.5,99.8,104.3
+Pepperdine,Santa Clara,2018,0,106.7,105.4,101.8,103.8
+Santa Clara,Pepperdine,2018,1,101.8,103.8,106.7,105.4
+North Dakota,North Dakota St.,2018,0,97.4,106.2,106.7,109.8
+North Dakota St.,North Dakota,2018,1,106.7,109.8,97.4,106.2
+Air Force,Nevada,2018,0,100.5,107.4,114.1,95.2
+Nevada,Air Force,2018,1,114.1,95.2,100.5,107.4
+Tennessee Tech,Morehead State,2018,0,89.6,104.6,102.4,109.9
+Morehead State,Tennessee Tech,2018,1,102.4,109.9,89.6,104.6
+Arkansas,Texas Tech,2018,0,110.3,97.3,112.8,86
+Texas Tech,Arkansas,2018,1,112.8,86,110.3,97.3
+San Francisco,San Diego,2018,0,111.8,101.9,105.5,98.1
+San Diego,San Francisco,2018,1,105.5,98.1,111.8,101.9
+Providence,DePaul,2018,0,105,95.8,110.7,104.5
+DePaul,Providence,2018,1,110.7,104.5,105,95.8
+UNC Asheville,Presbyterian,2018,0,92.9,117,109.1,111.1
+Presbyterian,UNC Asheville,2018,1,109.1,111.1,92.9,117
+Boston College,Syracuse,2018,0,107.6,102.4,110.2,94
+Syracuse,Boston College,2018,1,110.2,94,107.6,102.4
+Hawaii,UC-Irvine,2018,0,103.6,106.6,106.7,97.2
+UC-Irvine,Hawaii,2018,1,106.7,97.2,103.6,106.6
+McNeese State,Stephen F. Austin,2018,0,98.1,114.6,95.4,108.2
+Stephen F. Austin,McNeese State,2018,1,95.4,108.2,98.1,114.6
+UNC Greensboro,Furman,2018,0,106.6,97.9,109,96.3
+Furman,UNC Greensboro,2018,1,109,96.3,106.6,97.9
+Arizona,Colorado,2018,0,105,98.2,107,96.5
+Colorado,Arizona,2018,1,107,96.5,105,98.2
+Wagner,Bryant,2018,0,93.9,107.1,99.4,114.8
+Bryant,Wagner,2018,1,99.4,114.8,93.9,107.1
+Milwaukee,IUPUI,2018,0,98.3,109.5,103.4,105.8
+IUPUI,Milwaukee,2018,1,103.4,105.8,98.3,109.5
+Indiana State,Missouri State,2018,0,101.1,105.2,103,103.9
+Missouri State,Indiana State,2018,1,103,103.9,101.1,105.2
+Drake,Illinois State,2018,0,107.1,102.7,101.2,104.6
+Illinois State,Drake,2018,1,101.2,104.6,107.1,102.7
+Marist,Siena,2018,0,100.1,109.6,100.5,109
+Siena,Marist,2018,1,100.5,109,100.1,109.6
+Valparaiso,Bradley,2018,0,98.1,102.9,101,101.4
+Bradley,Valparaiso,2018,1,101,101.4,98.1,102.9
+Marquette,Villanova,2018,0,114.1,95.9,116.9,98.4
+Villanova,Marquette,2018,1,116.9,98.4,114.1,95.9
+George Washington,Fordham,2018,0,95.2,106,96.5,104.4
+Fordham,George Washington,2018,1,96.5,104.4,95.2,106
+Syracuse,Clemson,2018,0,110.2,94,109,91.5
+Clemson,Syracuse,2018,1,109,91.5,110.2,94
+Oklahoma State,Charlotte,2018,0,108.9,101.4,95.5,106.6
+Charlotte,Oklahoma State,2018,1,95.5,106.6,108.9,101.4
+San Diego,Washington,2018,0,105.5,98.1,107,93.7
+Washington,San Diego,2018,1,107,93.7,105.5,98.1
+Rhode Island,Charleston,2018,0,103.7,101.2,108.5,103.4
+Charleston,Rhode Island,2018,1,108.5,103.4,103.7,101.2
+Georgia Tech,Tennessee,2018,0,101.8,96,122.6,95.6
+Tennessee,Georgia Tech,2018,1,122.6,95.6,101.8,96
+Northern Ky.,UCF,2018,0,109.4,102.7,110.5,95.8
+UCF,Northern Ky.,2018,1,110.5,95.8,109.4,102.7
+Penn State,Maryland,2018,0,109.5,94.2,113.9,94
+Maryland,Penn State,2018,1,113.9,94,109.5,94.2
+Florida A&M,South Alabama,2018,0,89,103.3,103.1,107.5
+South Alabama,Florida A&M,2018,1,103.1,107.5,89,103.3
+James Madison,George Mason,2018,0,101,110.8,104.4,103.8
+George Mason,James Madison,2018,1,104.4,103.8,101,110.8
+Boise State,Oregon,2018,0,107.2,104,107.8,92.6
+Oregon,Boise State,2018,1,107.8,92.6,107.2,104
+Evansville,Murray State,2018,0,99.4,104.7,112.2,98.7
+Murray State,Evansville,2018,1,112.2,98.7,99.4,104.7
+Oklahoma,Texas Tech,2018,0,109.5,94,112.8,86
+Texas Tech,Oklahoma,2018,1,112.8,86,109.5,94
+UMBC,Hartford,2018,0,96,101.8,108.4,110.6
+Hartford,UMBC,2018,1,108.4,110.6,96,101.8
+Tulane,South Florida,2018,0,96.6,107.4,102.4,97.3
+South Florida,Tulane,2018,1,102.4,97.3,96.6,107.4
+Fordham,Duquesne,2018,0,96.5,104.4,104.4,105.3
+Duquesne,Fordham,2018,1,104.4,105.3,96.5,104.4
+South Alabama,Arkansas State,2018,0,103.1,107.5,102.3,110
+Arkansas State,South Alabama,2018,1,102.3,110,103.1,107.5
+Fairl. Dickinson,Wagner,2018,0,106.7,110.5,93.9,107.1
+Wagner,Fairl. Dickinson,2018,1,93.9,107.1,106.7,110.5
+Niagara,Siena,2018,0,101.6,115.2,100.5,109
+Siena,Niagara,2018,1,100.5,109,101.6,115.2
+San Diego State,Fresno State,2018,0,103.8,98.8,108.3,98.6
+Fresno State,San Diego State,2018,1,108.3,98.6,103.8,98.8
+Georgia Tech,Duke,2018,0,101.8,96,120.1,88.2
+Duke,Georgia Tech,2018,1,120.1,88.2,101.8,96
+Indiana,Rutgers,2018,0,110.2,95.1,105.6,96.3
+Rutgers,Indiana,2018,1,105.6,96.3,110.2,95.1
+Air Force,San Diego State,2018,0,100.5,107.4,103.8,98.8
+San Diego State,Air Force,2018,1,103.8,98.8,100.5,107.4
+Tulane,East Carolina,2018,0,96.6,107.4,98,107
+East Carolina,Tulane,2018,1,98,107,96.6,107.4
+Siena,Monmouth,2018,0,100.5,109,93,103.9
+Monmouth,Siena,2018,1,93,103.9,100.5,109
+Holy Cross,American,2018,0,101,107.8,101.9,105
+American,Holy Cross,2018,1,101.9,105,101,107.8
+Pepperdine,Pacific,2018,0,106.7,105.4,99.8,104.3
+Pacific,Pepperdine,2018,1,99.8,104.3,106.7,105.4
+Creighton,Villanova,2018,0,112.9,99.6,116.9,98.4
+Villanova,Creighton,2018,1,116.9,98.4,112.9,99.6
+Villanova,Marquette,2018,0,116.9,98.4,114.1,95.9
+Marquette,Villanova,2018,1,114.1,95.9,116.9,98.4
+James Madison,Towson,2018,0,101,110.8,100.1,110.6
+Towson,James Madison,2018,1,100.1,110.6,101,110.8
+Jackson State,Alcorn State,2018,0,89.8,104.7,88.8,113.5
+Alcorn State,Jackson State,2018,1,88.8,113.5,89.8,104.7
+Illinois State,Missouri State,2018,0,101.2,104.6,103,103.9
+Missouri State,Illinois State,2018,1,103,103.9,101.2,104.6
+Vanderbilt,Florida,2018,0,102.1,101.2,110.3,91.9
+Florida,Vanderbilt,2018,1,110.3,91.9,102.1,101.2
+Oakland,Green Bay,2018,0,107.4,109.5,103,106.5
+Green Bay,Oakland,2018,1,103,106.5,107.4,109.5
+Oregon,USC,2018,0,107.8,92.6,109.3,101.6
+USC,Oregon,2018,1,109.3,101.6,107.8,92.6
+North Texas,Louisiana Tech,2018,0,99.6,99.1,104.8,101.8
+Louisiana Tech,North Texas,2018,1,104.8,101.8,99.6,99.1
+Texas A&M,LSU,2018,0,107,99.5,118.6,97.5
+LSU,Texas A&M,2018,1,118.6,97.5,107,99.5
+Louisville,Boston College,2018,0,113.4,92.5,107.6,102.4
+Boston College,Louisville,2018,1,107.6,102.4,113.4,92.5
+Longwood,Gardner-Webb,2018,0,96.3,106.6,107.6,108.3
+Gardner-Webb,Longwood,2018,1,107.6,108.3,96.3,106.6
+Princeton,Harvard,2018,0,98.7,99.7,104.8,100.4
+Harvard,Princeton,2018,1,104.8,100.4,98.7,99.7
+Baylor,Kansas State,2018,0,113.6,98.3,108,87.8
+Kansas State,Baylor,2018,1,108,87.8,113.6,98.3
+Alabama A&M,Jackson State,2018,0,86.5,109.3,89.8,104.7
+Jackson State,Alabama A&M,2018,1,89.8,104.7,86.5,109.3
+Robert Morris,Fairl. Dickinson,2018,0,95.9,104.2,106.7,110.5
+Fairl. Dickinson,Robert Morris,2018,1,106.7,110.5,95.9,104.2
+Georgia,South Carolina,2018,0,105.9,101.7,108,98.3
+South Carolina,Georgia,2018,1,108,98.3,105.9,101.7
+Florida,Kentucky,2018,0,110.3,91.9,118.3,90.9
+Kentucky,Florida,2018,1,118.3,90.9,110.3,91.9
+Dartmouth,Cornell,2018,0,103.3,108,99.8,104.8
+Cornell,Dartmouth,2018,1,99.8,104.8,103.3,108
+Tulsa,Memphis,2018,0,104.7,100.5,109,97.7
+Memphis,Tulsa,2018,1,109,97.7,104.7,100.5
+UMBC,Vermont,2018,0,96,101.8,108,99.3
+Vermont,UMBC,2018,1,108,99.3,96,101.8
+USC Upstate,South Carolina,2018,0,92.9,111.4,108,98.3
+South Carolina,USC Upstate,2018,1,108,98.3,92.9,111.4
+Utah Valley,Utah State,2018,0,108.9,102.1,113,96.4
+Utah State,Utah Valley,2018,1,113,96.4,108.9,102.1
+Elon,Pacific,2018,0,99,111.1,99.8,104.3
+Pacific,Elon,2018,1,99.8,104.3,99,111.1
+Monmouth,Bucknell,2018,0,93,103.9,105.5,103.7
+Bucknell,Monmouth,2018,1,105.5,103.7,93,103.9
+VMI,Longwood,2018,0,102.3,112.3,96.3,106.6
+Longwood,VMI,2018,1,96.3,106.6,102.3,112.3
+Oregon,Houston,2018,0,107.8,92.6,114.2,91.8
+Houston,Oregon,2018,1,114.2,91.8,107.8,92.6
+Florida A&M,DePaul,2018,0,89,103.3,110.7,104.5
+DePaul,Florida A&M,2018,1,110.7,104.5,89,103.3
+Notre Dame,UCLA,2018,0,108.3,100.8,108.5,102.6
+UCLA,Notre Dame,2018,1,108.5,102.6,108.3,100.8
+Oregon State,Saint Louis,2018,0,111.2,103.3,102.5,96.4
+Saint Louis,Oregon State,2018,1,102.5,96.4,111.2,103.3
+San Diego,Oregon,2018,0,105.5,98.1,107.8,92.6
+Oregon,San Diego,2018,1,107.8,92.6,105.5,98.1
+Radford,UNC Greensboro,2018,0,108.7,104.3,106.6,97.9
+UNC Greensboro,Radford,2018,1,106.6,97.9,108.7,104.3
+Canisius,Holy Cross,2018,0,101.5,111.4,101,107.8
+Holy Cross,Canisius,2018,1,101,107.8,101.5,111.4
+Marist,Hartford,2018,0,100.1,109.6,108.4,110.6
+Hartford,Marist,2018,1,108.4,110.6,100.1,109.6
+Bradley,Indiana State,2018,0,101,101.4,101.1,105.2
+Indiana State,Bradley,2018,1,101.1,105.2,101,101.4
+Florida State,Virginia,2018,0,113,90.5,123.6,88.1
+Virginia,Florida State,2018,1,123.6,88.1,113,90.5
+Duquesne,Davidson,2018,0,104.4,105.3,108,100.2
+Davidson,Duquesne,2018,1,108,100.2,104.4,105.3
+Southern Miss,North Texas,2018,0,106.6,100.2,99.6,99.1
+North Texas,Southern Miss,2018,1,99.6,99.1,106.6,100.2
+Nicholls State,Incarnate Word,2018,0,98.7,111.4,97.5,120.3
+Incarnate Word,Nicholls State,2018,1,97.5,120.3,98.7,111.4
+Manhattan,Monmouth,2018,0,89.4,104.6,93,103.9
+Monmouth,Manhattan,2018,1,93,103.9,89.4,104.6
+Rice,UTEP,2018,0,103,110.4,89.9,101.2
+UTEP,Rice,2018,1,89.9,101.2,103,110.4
+Kansas,West Virginia,2018,0,112.8,92.1,109.1,101.9
+West Virginia,Kansas,2018,1,109.1,101.9,112.8,92.1
+TCU,Kansas State,2018,0,110.4,96.3,108,87.8
+Kansas State,TCU,2018,1,108,87.8,110.4,96.3
+Penn State,Minnesota,2018,0,109.5,94.2,110.7,96.3
+Minnesota,Penn State,2018,1,110.7,96.3,109.5,94.2
+Texas,TCU,2018,0,114.1,96.5,110.4,96.3
+TCU,Texas,2018,1,110.4,96.3,114.1,96.5
+Kansas State,Texas A&M,2018,0,108,87.8,107,99.5
+Texas A&M,Kansas State,2018,1,107,99.5,108,87.8
+UNC Asheville,High Point,2018,0,92.9,117,99.2,104.7
+High Point,UNC Asheville,2018,1,99.2,104.7,92.9,117
+Ohio State,Michigan,2018,0,109.3,94.3,115.6,86.2
+Michigan,Ohio State,2018,1,115.6,86.2,109.3,94.3
+Providence,Seton Hall,2018,0,105,95.8,109.3,96.6
+Seton Hall,Providence,2018,1,109.3,96.6,105,95.8
+Yale,Harvard,2018,0,111.7,103.2,104.8,100.4
+Harvard,Yale,2018,1,104.8,100.4,111.7,103.2
+Texas,Iowa State,2018,0,114.1,96.5,119.1,97.3
+Iowa State,Texas,2018,1,119.1,97.3,114.1,96.5
+Saint Louis,Rhode Island,2018,0,102.5,96.4,103.7,101.2
+Rhode Island,Saint Louis,2018,1,103.7,101.2,102.5,96.4
+Weber State,Southern Utah,2018,0,101.4,106.5,96.5,106.5
+Southern Utah,Weber State,2018,1,96.5,106.5,101.4,106.5
+Cincinnati,Houston,2018,0,111.7,94.6,114.2,91.8
+Houston,Cincinnati,2018,1,114.2,91.8,111.7,94.6
+Boise State,Fresno State,2018,0,107.2,104,108.3,98.6
+Fresno State,Boise State,2018,1,108.3,98.6,107.2,104
+Maryland,Michigan,2018,0,113.9,94,115.6,86.2
+Michigan,Maryland,2018,1,115.6,86.2,113.9,94
+Alabama,Texas A&M,2018,0,108.2,96.7,107,99.5
+Texas A&M,Alabama,2018,1,107,99.5,108.2,96.7
+Nevada,San Diego State,2018,0,114.1,95.2,103.8,98.8
+San Diego State,Nevada,2018,1,103.8,98.8,114.1,95.2
+Vermont,UMBC,2018,0,108,99.3,96,101.8
+UMBC,Vermont,2018,1,96,101.8,108,99.3
+Samford,Mercer,2018,0,106.7,104.4,103.6,106.2
+Mercer,Samford,2018,1,103.6,106.2,106.7,104.4
+Missouri State,Illinois State,2018,0,103,103.9,101.2,104.6
+Illinois State,Missouri State,2018,1,101.2,104.6,103,103.9
+Portland,Saint Mary's,2018,0,94.3,110,114.7,97.1
+Saint Mary's,Portland,2018,1,114.7,97.1,94.3,110
+Iowa,Wisconsin,2018,0,117.2,101.3,110.9,87.3
+Wisconsin,Iowa,2018,1,110.9,87.3,117.2,101.3
+Denver,Kansas State,2018,0,99.8,112.9,108,87.8
+Kansas State,Denver,2018,1,108,87.8,99.8,112.9
+Marist,Stephen F. Austin,2018,0,100.1,109.6,95.4,108.2
+Stephen F. Austin,Marist,2018,1,95.4,108.2,100.1,109.6
+Butler,Saint Louis,2018,0,110.8,101.1,102.5,96.4
+Saint Louis,Butler,2018,1,102.5,96.4,110.8,101.1
+UCF,Missouri,2018,0,110.5,95.8,106.8,97
+Missouri,UCF,2018,1,106.8,97,110.5,95.8
+North Dakota,Northern Iowa,2018,0,97.4,106.2,101.2,102.4
+Northern Iowa,North Dakota,2018,1,101.2,102.4,97.4,106.2
+Colorado,Arizona,2018,0,107,96.5,105,98.2
+Arizona,Colorado,2018,1,105,98.2,107,96.5
+USC Upstate,Presbyterian,2018,0,92.9,111.4,109.1,111.1
+Presbyterian,USC Upstate,2018,1,109.1,111.1,92.9,111.4
+Ohio State,Rutgers,2018,0,109.3,94.3,105.6,96.3
+Rutgers,Ohio State,2018,1,105.6,96.3,109.3,94.3
+UAB,Louisiana Tech,2018,0,106.5,104.6,104.8,101.8
+Louisiana Tech,UAB,2018,1,104.8,101.8,106.5,104.6
+VCU,Davidson,2018,0,104.3,88.7,108,100.2
+Davidson,VCU,2018,1,108,100.2,104.3,88.7
+USC Upstate,Gardner-Webb,2018,0,92.9,111.4,107.6,108.3
+Gardner-Webb,USC Upstate,2018,1,107.6,108.3,92.9,111.4
+Southern,Jackson State,2018,0,93.7,112.2,89.8,104.7
+Jackson State,Southern,2018,1,89.8,104.7,93.7,112.2
+Wisconsin,Maryland,2018,0,110.9,87.3,113.9,94
+Maryland,Wisconsin,2018,1,113.9,94,110.9,87.3
+Louisiana Tech,Old Dominion,2018,0,104.8,101.8,102,96.4
+Old Dominion,Louisiana Tech,2018,1,102,96.4,104.8,101.8
+Tulsa,UCF,2018,0,104.7,100.5,110.5,95.8
+UCF,Tulsa,2018,1,110.5,95.8,104.7,100.5
+Michigan,Wisconsin,2018,0,115.6,86.2,110.9,87.3
+Wisconsin,Michigan,2018,1,110.9,87.3,115.6,86.2
+IUPUI,Milwaukee,2018,0,103.4,105.8,98.3,109.5
+Milwaukee,IUPUI,2018,1,98.3,109.5,103.4,105.8
+Dartmouth,Harvard,2018,0,103.3,108,104.8,100.4
+Harvard,Dartmouth,2018,1,104.8,100.4,103.3,108
+Valparaiso,Evansville,2018,0,98.1,102.9,99.4,104.7
+Evansville,Valparaiso,2018,1,99.4,104.7,98.1,102.9
+Missouri State,Northern Iowa,2018,0,103,103.9,101.2,102.4
+Northern Iowa,Missouri State,2018,1,101.2,102.4,103,103.9
+Wake Forest,Clemson,2018,0,104.6,104.9,109,91.5
+Clemson,Wake Forest,2018,1,109,91.5,104.6,104.9
+Creighton,Xavier,2018,0,112.9,99.6,110.9,100.6
+Xavier,Creighton,2018,1,110.9,100.6,112.9,99.6
+Winthrop,Gardner-Webb,2018,0,106.4,107.7,107.6,108.3
+Gardner-Webb,Winthrop,2018,1,107.6,108.3,106.4,107.7
+Pacific,Santa Clara,2018,0,99.8,104.3,101.8,103.8
+Santa Clara,Pacific,2018,1,101.8,103.8,99.8,104.3
+Illinois,Wisconsin,2018,0,109.1,100.7,110.9,87.3
+Wisconsin,Illinois,2018,1,110.9,87.3,109.1,100.7
+Missouri,Florida,2018,0,106.8,97,110.3,91.9
+Florida,Missouri,2018,1,110.3,91.9,106.8,97
+Louisiana,Texas State,2018,0,106.6,107.8,102.1,97.7
+Texas State,Louisiana,2018,1,102.1,97.7,106.6,107.8
+Valparaiso,Northern Iowa,2018,0,98.1,102.9,101.2,102.4
+Northern Iowa,Valparaiso,2018,1,101.2,102.4,98.1,102.9
+Colorado,Washington,2018,0,107,96.5,107,93.7
+Washington,Colorado,2018,1,107,93.7,107,96.5
+Kansas State,Kansas,2018,0,108,87.8,112.8,92.1
+Kansas,Kansas State,2018,1,112.8,92.1,108,87.8
+Bucknell,Navy,2018,0,105.5,103.7,97.2,107.1
+Navy,Bucknell,2018,1,97.2,107.1,105.5,103.7
+Radford,Campbell,2018,0,108.7,104.3,107.8,109.9
+Campbell,Radford,2018,1,107.8,109.9,108.7,104.3
+Vanderbilt,Texas A&M,2018,0,102.1,101.2,107,99.5
+Texas A&M,Vanderbilt,2018,1,107,99.5,102.1,101.2
+Old Dominion,UAB,2018,0,102,96.4,106.5,104.6
+UAB,Old Dominion,2018,1,106.5,104.6,102,96.4
+Norfolk State,Michigan,2018,0,97.6,106,115.6,86.2
+Michigan,Norfolk State,2018,1,115.6,86.2,97.6,106
+Maine,Denver,2018,0,93.1,111.8,99.8,112.9
+Denver,Maine,2018,1,99.8,112.9,93.1,111.8
+Brown,NJIT,2018,0,98.7,96.9,102.2,103.1
+NJIT,Brown,2018,1,102.2,103.1,98.7,96.9
+American,Northwestern,2018,0,101.9,105,103,93.5
+Northwestern,American,2018,1,103,93.5,101.9,105
+Virginia Tech,Penn State,2018,0,118.5,94.1,109.5,94.2
+Penn State,Virginia Tech,2018,1,109.5,94.2,118.5,94.1
+South Dakota,Baylor,2018,0,100.4,106.1,113.6,98.3
+Baylor,South Dakota,2018,1,113.6,98.3,100.4,106.1
+Fairfield,Army,2018,0,95.8,107.3,96.2,103
+Army,Fairfield,2018,1,96.2,103,95.8,107.3
+Cornell,Syracuse,2018,0,99.8,104.8,110.2,94
+Syracuse,Cornell,2018,1,110.2,94,99.8,104.8
+Coppin State,Notre Dame,2018,0,88.6,109.1,108.3,100.8
+Notre Dame,Coppin State,2018,1,108.3,100.8,88.6,109.1
+Louisiana Tech,North Texas,2018,0,104.8,101.8,99.6,99.1
+North Texas,Louisiana Tech,2018,1,99.6,99.1,104.8,101.8
+Kansas State,Texas Tech,2018,0,108,87.8,112.8,86
+Texas Tech,Kansas State,2018,1,112.8,86,108,87.8
+Stetson,North Alabama,2018,0,97.6,113.3,95.1,105.1
+North Alabama,Stetson,2018,1,95.1,105.1,97.6,113.3
+Seattle,UMKC,2018,0,100.8,102.3,101,107.2
+UMKC,Seattle,2018,1,101,107.2,100.8,102.3
+Akron,Toledo,2018,0,99.9,93.8,110.1,98.1
+Toledo,Akron,2018,1,110.1,98.1,99.9,93.8
+NJIT,Kennesaw State,2018,0,102.2,103.1,91.8,110.7
+Kennesaw State,NJIT,2018,1,91.8,110.7,102.2,103.1
+Creighton,Seton Hall,2018,0,112.9,99.6,109.3,96.6
+Seton Hall,Creighton,2018,1,109.3,96.6,112.9,99.6
+Northwestern,Ohio State,2018,0,103,93.5,109.3,94.3
+Ohio State,Northwestern,2018,1,109.3,94.3,103,93.5
+Portland,San Diego,2018,0,94.3,110,105.5,98.1
+San Diego,Portland,2018,1,105.5,98.1,94.3,110
+Evansville,Bradley,2018,0,99.4,104.7,101,101.4
+Bradley,Evansville,2018,1,101,101.4,99.4,104.7
+North Alabama,Stetson,2018,0,95.1,105.1,97.6,113.3
+Stetson,North Alabama,2018,1,97.6,113.3,95.1,105.1
+Michigan State,Indiana,2018,0,121.8,90.5,110.2,95.1
+Indiana,Michigan State,2018,1,110.2,95.1,121.8,90.5
+Troy,Saint Louis,2018,0,102.9,110.3,102.5,96.4
+Saint Louis,Troy,2018,1,102.5,96.4,102.9,110.3
+Mercer,Georgia State,2018,0,103.6,106.2,108,102.4
+Georgia State,Mercer,2018,1,108,102.4,103.6,106.2
+VCU,Old Dominion,2018,0,104.3,88.7,102,96.4
+Old Dominion,VCU,2018,1,102,96.4,104.3,88.7
+Maryland,Purdue,2018,0,113.9,94,121.1,95.1
+Purdue,Maryland,2018,1,121.1,95.1,113.9,94
+Xavier,Cincinnati,2018,0,110.9,100.6,111.7,94.6
+Cincinnati,Xavier,2018,1,111.7,94.6,110.9,100.6
+San Diego State,Air Force,2018,0,103.8,98.8,100.5,107.4
+Air Force,San Diego State,2018,1,100.5,107.4,103.8,98.8
+New Hampshire,Stony Brook,2018,0,84.2,107.3,99.2,99.9
+Stony Brook,New Hampshire,2018,1,99.2,99.9,84.2,107.3
+Wagner,Sacred Heart,2018,0,93.9,107.1,104.2,110.7
+Sacred Heart,Wagner,2018,1,104.2,110.7,93.9,107.1
+Northwestern,Wisconsin,2018,0,103,93.5,110.9,87.3
+Wisconsin,Northwestern,2018,1,110.9,87.3,103,93.5
+George Washington,George Mason,2018,0,95.2,106,104.4,103.8
+George Mason,George Washington,2018,1,104.4,103.8,95.2,106
+Fairfield,Manhattan,2018,0,95.8,107.3,89.4,104.6
+Manhattan,Fairfield,2018,1,89.4,104.6,95.8,107.3
+New Hampshire,Maine,2018,0,84.2,107.3,93.1,111.8
+Maine,New Hampshire,2018,1,93.1,111.8,84.2,107.3
+Minnesota,Nebraska,2018,0,110.7,96.3,112.6,97.2
+Nebraska,Minnesota,2018,1,112.6,97.2,110.7,96.3
+La Salle,Saint Louis,2018,0,99.9,105.1,102.5,96.4
+Saint Louis,La Salle,2018,1,102.5,96.4,99.9,105.1
+Ohio State,Michigan State,2018,0,109.3,94.3,121.8,90.5
+Michigan State,Ohio State,2018,1,121.8,90.5,109.3,94.3
+Utah,Washington,2018,0,114.3,108.9,107,93.7
+Washington,Utah,2018,1,107,93.7,114.3,108.9
+Army,Bucknell,2018,0,96.2,103,105.5,103.7
+Bucknell,Army,2018,1,105.5,103.7,96.2,103
+Harvard,San Francisco,2018,0,104.8,100.4,111.8,101.9
+San Francisco,Harvard,2018,1,111.8,101.9,104.8,100.4
+Montana,Arizona,2018,0,107.5,103.9,105,98.2
+Arizona,Montana,2018,1,105,98.2,107.5,103.9
+Grand Canyon,San Diego,2018,0,108.1,102,105.5,98.1
+San Diego,Grand Canyon,2018,1,105.5,98.1,108.1,102
+Navy,Cornell,2018,0,97.2,107.1,99.8,104.8
+Cornell,Navy,2018,1,99.8,104.8,97.2,107.1
+Maine,UMBC,2018,0,93.1,111.8,96,101.8
+UMBC,Maine,2018,1,96,101.8,93.1,111.8
+West Virginia,Texas,2018,0,109.1,101.9,114.1,96.5
+Texas,West Virginia,2018,1,114.1,96.5,109.1,101.9
+Texas,Oklahoma State,2018,0,114.1,96.5,108.9,101.4
+Oklahoma State,Texas,2018,1,108.9,101.4,114.1,96.5
+Bradley,Valparaiso,2018,0,101,101.4,98.1,102.9
+Valparaiso,Bradley,2018,1,98.1,102.9,101,101.4
+NJIT,North Alabama,2018,0,102.2,103.1,95.1,105.1
+North Alabama,NJIT,2018,1,95.1,105.1,102.2,103.1
+Abilene Christ.,Stephen F. Austin,2018,0,103.7,101.6,95.4,108.2
+Stephen F. Austin,Abilene Christ.,2018,1,95.4,108.2,103.7,101.6
+Fairfield,Siena,2018,0,95.8,107.3,100.5,109
+Siena,Fairfield,2018,1,100.5,109,95.8,107.3
+Wisconsin,Michigan,2018,0,110.9,87.3,115.6,86.2
+Michigan,Wisconsin,2018,1,115.6,86.2,110.9,87.3
+High Point,Campbell,2018,0,99.2,104.7,107.8,109.9
+Campbell,High Point,2018,1,107.8,109.9,99.2,104.7
+Alabama A&M,Alcorn State,2018,0,86.5,109.3,88.8,113.5
+Alcorn State,Alabama A&M,2018,1,88.8,113.5,86.5,109.3
+Alcorn State,Southern,2018,0,88.8,113.5,93.7,112.2
+Southern,Alcorn State,2018,1,93.7,112.2,88.8,113.5
+North Dakota St.,Montana,2018,0,106.7,109.8,107.5,103.9
+Montana,North Dakota St.,2018,1,107.5,103.9,106.7,109.8
+Utah State,Houston,2018,0,113,96.4,114.2,91.8
+Houston,Utah State,2018,1,114.2,91.8,113,96.4
+Siena,Holy Cross,2018,0,100.5,109,101,107.8
+Holy Cross,Siena,2018,1,101,107.8,100.5,109
+Fairl. Dickinson,South Florida,2018,0,106.7,110.5,102.4,97.3
+South Florida,Fairl. Dickinson,2018,1,102.4,97.3,106.7,110.5
+Rhode Island,Saint Louis,2018,0,103.7,101.2,102.5,96.4
+Saint Louis,Rhode Island,2018,1,102.5,96.4,103.7,101.2
+Columbia,Cornell,2018,0,101.8,106.3,99.8,104.8
+Cornell,Columbia,2018,1,99.8,104.8,101.8,106.3
+Manhattan,Rider,2018,0,89.4,104.6,101.3,105.8
+Rider,Manhattan,2018,1,101.3,105.8,89.4,104.6
+Delaware State,Florida A&M,2018,0,84.3,113.9,89,103.3
+Florida A&M,Delaware State,2018,1,89,103.3,84.3,113.9
+Pacific,Loyola Marymount,2018,0,99.8,104.3,103.6,100.3
+Loyola Marymount,Pacific,2018,1,103.6,100.3,99.8,104.3
+Notre Dame,Virginia,2018,0,108.3,100.8,123.6,88.1
+Virginia,Notre Dame,2018,1,123.6,88.1,108.3,100.8
+UCF,Cincinnati,2018,0,110.5,95.8,111.7,94.6
+Cincinnati,UCF,2018,1,111.7,94.6,110.5,95.8
+Maine,New Hampshire,2018,0,93.1,111.8,84.2,107.3
+New Hampshire,Maine,2018,1,84.2,107.3,93.1,111.8
+Manhattan,Northern Ky.,2018,0,89.4,104.6,109.4,102.7
+Northern Ky.,Manhattan,2018,1,109.4,102.7,89.4,104.6
+Rhode Island,Providence,2018,0,103.7,101.2,105,95.8
+Providence,Rhode Island,2018,1,105,95.8,103.7,101.2
+George Mason,Kansas State,2018,0,104.4,103.8,108,87.8
+Kansas State,George Mason,2018,1,108,87.8,104.4,103.8
+Jackson State,Alabama State,2018,0,89.8,104.7,94.6,111.1
+Alabama State,Jackson State,2018,1,94.6,111.1,89.8,104.7
+Binghamton,Stony Brook,2018,0,95.9,112.7,99.2,99.9
+Stony Brook,Binghamton,2018,1,99.2,99.9,95.9,112.7
+Furman,Wofford,2018,0,109,96.3,118.5,97.7
+Wofford,Furman,2018,1,118.5,97.7,109,96.3
+Minnesota,Michigan,2018,0,110.7,96.3,115.6,86.2
+Michigan,Minnesota,2018,1,115.6,86.2,110.7,96.3
+San Jose State,Wyoming,2018,0,91.8,113.7,95,108.7
+Wyoming,San Jose State,2018,1,95,108.7,91.8,113.7
+Georgia Tech,Florida State,2018,0,101.8,96,113,90.5
+Florida State,Georgia Tech,2018,1,113,90.5,101.8,96
+Virginia Tech,Clemson,2018,0,118.5,94.1,109,91.5
+Clemson,Virginia Tech,2018,1,109,91.5,118.5,94.1
+Oklahoma,Baylor,2018,0,109.5,94,113.6,98.3
+Baylor,Oklahoma,2018,1,113.6,98.3,109.5,94
+Northwestern,Nebraska,2018,0,103,93.5,112.6,97.2
+Nebraska,Northwestern,2018,1,112.6,97.2,103,93.5
+Seattle,New Mexico St.,2018,0,100.8,102.3,112.7,99.1
+New Mexico St.,Seattle,2018,1,112.7,99.1,100.8,102.3
+Alabama A&M,Southern,2018,0,86.5,109.3,93.7,112.2
+Southern,Alabama A&M,2018,1,93.7,112.2,86.5,109.3
+Marist,Fairfield,2018,0,100.1,109.6,95.8,107.3
+Fairfield,Marist,2018,1,95.8,107.3,100.1,109.6
+Penn,Harvard,2018,0,104,99.8,104.8,100.4
+Harvard,Penn,2018,1,104.8,100.4,104,99.8
+Maine,Quinnipiac,2018,0,93.1,111.8,105.3,111.5
+Quinnipiac,Maine,2018,1,105.3,111.5,93.1,111.8
+Illinois State,Valparaiso,2018,0,101.2,104.6,98.1,102.9
+Valparaiso,Illinois State,2018,1,98.1,102.9,101.2,104.6
+William & Mary,Delaware,2018,0,103.4,108.1,104.8,112.9
+Delaware,William & Mary,2018,1,104.8,112.9,103.4,108.1
+Evansville,Illinois State,2018,0,99.4,104.7,101.2,104.6
+Illinois State,Evansville,2018,1,101.2,104.6,99.4,104.7
+Texas Tech,Kansas State,2018,0,112.8,86,108,87.8
+Kansas State,Texas Tech,2018,1,108,87.8,112.8,86
+Vanderbilt,Tennessee,2018,0,102.1,101.2,122.6,95.6
+Tennessee,Vanderbilt,2018,1,122.6,95.6,102.1,101.2
+Brown,Penn,2018,0,98.7,96.9,104,99.8
+Penn,Brown,2018,1,104,99.8,98.7,96.9
+VCU,Virginia,2018,0,104.3,88.7,123.6,88.1
+Virginia,VCU,2018,1,123.6,88.1,104.3,88.7
+Drake,Northern Iowa,2018,0,107.1,102.7,101.2,102.4
+Northern Iowa,Drake,2018,1,101.2,102.4,107.1,102.7
+Lafayette,Colgate,2018,0,101.4,112.7,110.1,105.8
+Colgate,Lafayette,2018,1,110.1,105.8,101.4,112.7
+Wagner,Robert Morris,2018,0,93.9,107.1,95.9,104.2
+Robert Morris,Wagner,2018,1,95.9,104.2,93.9,107.1
+Charlotte,UTEP,2018,0,95.5,106.6,89.9,101.2
+UTEP,Charlotte,2018,1,89.9,101.2,95.5,106.6
+Stony Brook,UMBC,2018,0,99.2,99.9,96,101.8
+UMBC,Stony Brook,2018,1,96,101.8,99.2,99.9
+Delaware,Elon,2018,0,104.8,112.9,99,111.1
+Elon,Delaware,2018,1,99,111.1,104.8,112.9
+Stetson,Liberty,2018,0,97.6,113.3,110.6,99.6
+Liberty,Stetson,2018,1,110.6,99.6,97.6,113.3
+Campbell,High Point,2018,0,107.8,109.9,99.2,104.7
+High Point,Campbell,2018,1,99.2,104.7,107.8,109.9
+Akron,Ball State,2018,0,99.9,93.8,102.4,98.3
+Ball State,Akron,2018,1,102.4,98.3,99.9,93.8
+Kennesaw State,Kansas State,2018,0,91.8,110.7,108,87.8
+Kansas State,Kennesaw State,2018,1,108,87.8,91.8,110.7
+Holy Cross,Michigan,2018,0,101,107.8,115.6,86.2
+Michigan,Holy Cross,2018,1,115.6,86.2,101,107.8
+Vanderbilt,Kentucky,2018,0,102.1,101.2,118.3,90.9
+Kentucky,Vanderbilt,2018,1,118.3,90.9,102.1,101.2
+Milwaukee,Wright State,2018,0,98.3,109.5,106.7,102
+Wright State,Milwaukee,2018,1,106.7,102,98.3,109.5
+Army,Holy Cross,2018,0,96.2,103,101,107.8
+Holy Cross,Army,2018,1,101,107.8,96.2,103
+Clemson,Louisville,2018,0,109,91.5,113.4,92.5
+Louisville,Clemson,2018,1,113.4,92.5,109,91.5
+New Hampshire,UMBC,2018,0,84.2,107.3,96,101.8
+UMBC,New Hampshire,2018,1,96,101.8,84.2,107.3
+Stony Brook,Vermont,2018,0,99.2,99.9,108,99.3
+Vermont,Stony Brook,2018,1,108,99.3,99.2,99.9
+East Carolina,Charlotte,2018,0,98,107,95.5,106.6
+Charlotte,East Carolina,2018,1,95.5,106.6,98,107
+Southern Miss,Kansas State,2018,0,106.6,100.2,108,87.8
+Kansas State,Southern Miss,2018,1,108,87.8,106.6,100.2
+American,Bucknell,2018,0,101.9,105,105.5,103.7
+Bucknell,American,2018,1,105.5,103.7,101.9,105
+Louisiana Tech,Charlotte,2018,0,104.8,101.8,95.5,106.6
+Charlotte,Louisiana Tech,2018,1,95.5,106.6,104.8,101.8
+High Point,Longwood,2018,0,99.2,104.7,96.3,106.6
+Longwood,High Point,2018,1,96.3,106.6,99.2,104.7
+Florida,TCU,2018,0,110.3,91.9,110.4,96.3
+TCU,Florida,2018,1,110.4,96.3,110.3,91.9
+Bradley,Missouri State,2018,0,101,101.4,103,103.9
+Missouri State,Bradley,2018,1,103,103.9,101,101.4
+Wichita State,South Florida,2018,0,106,98.5,102.4,97.3
+South Florida,Wichita State,2018,1,102.4,97.3,106,98.5
+Towson,Charleston,2018,0,100.1,110.6,108.5,103.4
+Charleston,Towson,2018,1,108.5,103.4,100.1,110.6
+North Alabama,UNC Greensboro,2018,0,95.1,105.1,106.6,97.9
+UNC Greensboro,North Alabama,2018,1,106.6,97.9,95.1,105.1
+Manhattan,Siena,2018,0,89.4,104.6,100.5,109
+Siena,Manhattan,2018,1,100.5,109,89.4,104.6
+Holy Cross,Navy,2018,0,101,107.8,97.2,107.1
+Navy,Holy Cross,2018,1,97.2,107.1,101,107.8
+Kansas State,Tulsa,2018,0,108,87.8,104.7,100.5
+Tulsa,Kansas State,2018,1,104.7,100.5,108,87.8
+Longwood,Charlotte,2018,0,96.3,106.6,95.5,106.6
+Charlotte,Longwood,2018,1,95.5,106.6,96.3,106.6
+FIU,Arkansas,2018,0,102,105.2,110.3,97.3
+Arkansas,FIU,2018,1,110.3,97.3,102,105.2
+San Jose State,Fresno State,2018,0,91.8,113.7,108.3,98.6
+Fresno State,San Jose State,2018,1,108.3,98.6,91.8,113.7
+Idaho State,Gonzaga,2018,0,101.9,118.2,125.2,92.5
+Gonzaga,Idaho State,2018,1,125.2,92.5,101.9,118.2
+Savannah State,Vanderbilt,2018,0,96.3,116,102.1,101.2
+Vanderbilt,Savannah State,2018,1,102.1,101.2,96.3,116
+Lafayette,Bucknell,2018,0,101.4,112.7,105.5,103.7
+Bucknell,Lafayette,2018,1,105.5,103.7,101.4,112.7
+Incarnate Word,Houston Baptist,2018,0,97.5,120.3,102.9,112.6
+Houston Baptist,Incarnate Word,2018,1,102.9,112.6,97.5,120.3
+Delaware State,Ball State,2018,0,84.3,113.9,102.4,98.3
+Ball State,Delaware State,2018,1,102.4,98.3,84.3,113.9
+Ohio,Buffalo,2018,0,98.7,100.2,115,94.6
+Buffalo,Ohio,2018,1,115,94.6,98.7,100.2
+Stetson,Duke,2018,0,97.6,113.3,120.1,88.2
+Duke,Stetson,2018,1,120.1,88.2,97.6,113.3
+BYU,Weber State,2018,0,111.7,104.1,101.4,106.5
+Weber State,BYU,2018,1,101.4,106.5,111.7,104.1
+Savannah State,Georgia,2018,0,96.3,116,105.9,101.7
+Georgia,Savannah State,2018,1,105.9,101.7,96.3,116
+Dartmouth,Buffalo,2018,0,103.3,108,115,94.6
+Buffalo,Dartmouth,2018,1,115,94.6,103.3,108
+Savannah State,Iowa,2018,0,96.3,116,117.2,101.3
+Iowa,Savannah State,2018,1,117.2,101.3,96.3,116
+Toledo,Buffalo,2018,0,110.1,98.1,115,94.6
+Buffalo,Toledo,2018,1,115,94.6,110.1,98.1
+Houston Baptist,Lamar,2018,0,102.9,112.6,103.1,107.7
+Lamar,Houston Baptist,2018,1,103.1,107.7,102.9,112.6
+Yale,Memphis,2018,0,111.7,103.2,109,97.7
+Memphis,Yale,2018,1,109,97.7,111.7,103.2
+Tennessee Tech,UNC,2018,0,89.6,104.6,119.9,90.8
+UNC,Tennessee Tech,2018,1,119.9,90.8,89.6,104.6
+Navy,Lipscomb,2018,0,97.2,107.1,111,97.2
+Lipscomb,Navy,2018,1,111,97.2,97.2,107.1
+Samford,Wofford,2018,0,106.7,104.4,118.5,97.7
+Wofford,Samford,2018,1,118.5,97.7,106.7,104.4
+Arkansas,Tennessee,2018,0,110.3,97.3,122.6,95.6
+Tennessee,Arkansas,2018,1,122.6,95.6,110.3,97.3
+UNLV,Air Force,2018,0,105.9,106.1,100.5,107.4
+Air Force,UNLV,2018,1,100.5,107.4,105.9,106.1
+UNC Asheville,Presbyterian,2018,0,92.9,117,109.1,111.1
+Presbyterian,UNC Asheville,2018,1,109.1,111.1,92.9,117
+Alabama State,Iowa,2018,0,94.6,111.1,117.2,101.3
+Iowa,Alabama State,2018,1,117.2,101.3,94.6,111.1
+Rice,BYU,2018,0,103,110.4,111.7,104.1
+BYU,Rice,2018,1,111.7,104.1,103,110.4
+FIU,Marshall,2018,0,102,105.2,107.4,107.6
+Marshall,FIU,2018,1,107.4,107.6,102,105.2
+San Jose State,Boise State,2018,0,91.8,113.7,107.2,104
+Boise State,San Jose State,2018,1,107.2,104,91.8,113.7
+Chicago State,Indiana,2018,0,90.3,118.3,110.2,95.1
+Indiana,Chicago State,2018,1,110.2,95.1,90.3,118.3
+Texas Southern,Gonzaga,2018,0,104,108.6,125.2,92.5
+Gonzaga,Texas Southern,2018,1,125.2,92.5,104,108.6
+Southern,Louisville,2018,0,93.7,112.2,113.4,92.5
+Louisville,Southern,2018,1,113.4,92.5,93.7,112.2
+Savannah State,Kent State,2018,0,96.3,116,109.7,106.8
+Kent State,Savannah State,2018,1,109.7,106.8,96.3,116
+Marshall,Maryland,2018,0,107.4,107.6,113.9,94
+Maryland,Marshall,2018,1,113.9,94,107.4,107.6
+Chicago State,DePaul,2018,0,90.3,118.3,110.7,104.5
+DePaul,Chicago State,2018,1,110.7,104.5,90.3,118.3
+Green Bay,Michigan State,2018,0,103,106.5,121.8,90.5
+Michigan State,Green Bay,2018,1,121.8,90.5,103,106.5
+Idaho State,Montana State,2018,0,101.9,118.2,107.5,115.2
+Montana State,Idaho State,2018,1,107.5,115.2,101.9,118.2
+UCLA,Stanford,2018,0,108.5,102.6,103.4,98.2
+Stanford,UCLA,2018,1,103.4,98.2,108.5,102.6
+Texas Southern,San Diego State,2018,0,104,108.6,103.8,98.8
+San Diego State,Texas Southern,2018,1,103.8,98.8,104,108.6
+VMI,Presbyterian,2018,0,102.3,112.3,109.1,111.1
+Presbyterian,VMI,2018,1,109.1,111.1,102.3,112.3
+Gonzaga,UNC,2018,0,125.2,92.5,119.9,90.8
+UNC,Gonzaga,2018,1,119.9,90.8,125.2,92.5
+Buffalo,Marquette,2018,0,115,94.6,114.1,95.9
+Marquette,Buffalo,2018,1,114.1,95.9,115,94.6
+BYU,Mississippi St.,2018,0,111.7,104.1,117.5,96.7
+Mississippi St.,BYU,2018,1,117.5,96.7,111.7,104.1
+Monmouth,Iona,2018,0,93,103.9,106.5,109.7
+Iona,Monmouth,2018,1,106.5,109.7,93,103.9
+Virginia Tech,UNC,2018,0,118.5,94.1,119.9,90.8
+UNC,Virginia Tech,2018,1,119.9,90.8,118.5,94.1
+San Jose State,Utah State,2018,0,91.8,113.7,113,96.4
+Utah State,San Jose State,2018,1,113,96.4,91.8,113.7
+Gardner-Webb,Presbyterian,2018,0,107.6,108.3,109.1,111.1
+Presbyterian,Gardner-Webb,2018,1,109.1,111.1,107.6,108.3
+Chicago State,Utah Valley,2018,0,90.3,118.3,108.9,102.1
+Utah Valley,Chicago State,2018,1,108.9,102.1,90.3,118.3
+North Dakota St.,Gonzaga,2018,0,106.7,109.8,125.2,92.5
+Gonzaga,North Dakota St.,2018,1,125.2,92.5,106.7,109.8
+North Florida,FIU,2018,0,103.8,104.6,102,105.2
+FIU,North Florida,2018,1,102,105.2,103.8,104.6
+USC,Santa Clara,2018,0,109.3,101.6,101.8,103.8
+Santa Clara,USC,2018,1,101.8,103.8,109.3,101.6
+Little Rock,Georgetown,2018,0,99.8,104.8,109.2,101.9
+Georgetown,Little Rock,2018,1,109.2,101.9,99.8,104.8
+Howard,Georgetown,2018,0,101.9,114.3,109.2,101.9
+Georgetown,Howard,2018,1,109.2,101.9,101.9,114.3
+North Alabama,Lipscomb,2018,0,95.1,105.1,111,97.2
+Lipscomb,North Alabama,2018,1,111,97.2,95.1,105.1
+Elon,Hofstra,2018,0,99,111.1,116.3,108.7
+Hofstra,Elon,2018,1,116.3,108.7,99,111.1
+Tulane,Memphis,2018,0,96.6,107.4,109,97.7
+Memphis,Tulane,2018,1,109,97.7,96.6,107.4
+BYU,Gonzaga,2018,0,111.7,104.1,125.2,92.5
+Gonzaga,BYU,2018,1,125.2,92.5,111.7,104.1
+South Alabama,Auburn,2018,0,103.1,107.5,119.7,96.3
+Auburn,South Alabama,2018,1,119.7,96.3,103.1,107.5
+Alabama A&M,Houston,2018,0,86.5,109.3,114.2,91.8
+Houston,Alabama A&M,2018,1,114.2,91.8,86.5,109.3
+Tennessee Tech,Michigan State,2018,0,89.6,104.6,121.8,90.5
+Michigan State,Tennessee Tech,2018,1,121.8,90.5,89.6,104.6
+Marshall,Ohio,2018,0,107.4,107.6,98.7,100.2
+Ohio,Marshall,2018,1,98.7,100.2,107.4,107.6
+Missouri State,Oregon State,2018,0,103,103.9,111.2,103.3
+Oregon State,Missouri State,2018,1,111.2,103.3,103,103.9
+Detroit,Toledo,2018,0,106.2,112.6,110.1,98.1
+Toledo,Detroit,2018,1,110.1,98.1,106.2,112.6
+Southern,Iowa State,2018,0,93.7,112.2,119.1,97.3
+Iowa State,Southern,2018,1,119.1,97.3,93.7,112.2
+Savannah State,Wisconsin,2018,0,96.3,116,110.9,87.3
+Wisconsin,Savannah State,2018,1,110.9,87.3,96.3,116
+Princeton,Duke,2018,0,98.7,99.7,120.1,88.2
+Duke,Princeton,2018,1,120.1,88.2,98.7,99.7
+Denver,Gonzaga,2018,0,99.8,112.9,125.2,92.5
+Gonzaga,Denver,2018,1,125.2,92.5,99.8,112.9
+Green Bay,Detroit,2018,0,103,106.5,106.2,112.6
+Detroit,Green Bay,2018,1,106.2,112.6,103,106.5
+Marshall,Southern Miss,2018,0,107.4,107.6,106.6,100.2
+Southern Miss,Marshall,2018,1,106.6,100.2,107.4,107.6
+Hampton,Winthrop,2018,0,107.5,110.1,106.4,107.7
+Winthrop,Hampton,2018,1,106.4,107.7,107.5,110.1
+Georgetown,DePaul,2018,0,109.2,101.9,110.7,104.5
+DePaul,Georgetown,2018,1,110.7,104.5,109.2,101.9
+Morgan State,Villanova,2018,0,92.6,110.6,116.9,98.4
+Villanova,Morgan State,2018,1,116.9,98.4,92.6,110.6
+Hartford,Utah State,2018,0,108.4,110.6,113,96.4
+Utah State,Hartford,2018,1,113,96.4,108.4,110.6
+Illinois State,Belmont,2018,0,101.2,104.6,115,101.3
+Belmont,Illinois State,2018,1,115,101.3,101.2,104.6
+Drake,Colorado,2018,0,107.1,102.7,107,96.5
+Colorado,Drake,2018,1,107,96.5,107.1,102.7
+Belmont,Green Bay,2018,0,115,101.3,103,106.5
+Green Bay,Belmont,2018,1,103,106.5,115,101.3
+New Mexico,New Mexico St.,2018,0,104,105.6,112.7,99.1
+New Mexico St.,New Mexico,2018,1,112.7,99.1,104,105.6
+Jacksonville,Notre Dame,2018,0,98.8,106.2,108.3,100.8
+Notre Dame,Jacksonville,2018,1,108.3,100.8,98.8,106.2
+Marshall,Virginia,2018,0,107.4,107.6,123.6,88.1
+Virginia,Marshall,2018,1,123.6,88.1,107.4,107.6
+Alabama A&M,Pepperdine,2018,0,86.5,109.3,106.7,105.4
+Pepperdine,Alabama A&M,2018,1,106.7,105.4,86.5,109.3
+Colorado State,Nevada,2018,0,107.5,108.7,114.1,95.2
+Nevada,Colorado State,2018,1,114.1,95.2,107.5,108.7
+Tennessee State,Murray State,2018,0,98.6,109.5,112.2,98.7
+Murray State,Tennessee State,2018,1,112.2,98.7,98.6,109.5
+FIU,UTSA,2018,0,102,105.2,105.8,104.1
+UTSA,FIU,2018,1,105.8,104.1,102,105.2
+Idaho,Montana,2018,0,94.9,118.8,107.5,103.9
+Montana,Idaho,2018,1,107.5,103.9,94.9,118.8
+Evansville,Illinois,2018,0,99.4,104.7,109.1,100.7
+Illinois,Evansville,2018,1,109.1,100.7,99.4,104.7
+Coppin State,Wofford,2018,0,88.6,109.1,118.5,97.7
+Wofford,Coppin State,2018,1,118.5,97.7,88.6,109.1
+Winthrop,Davidson,2018,0,106.4,107.7,108,100.2
+Davidson,Winthrop,2018,1,108,100.2,106.4,107.7
+Little Rock,Memphis,2018,0,99.8,104.8,109,97.7
+Memphis,Little Rock,2018,1,109,97.7,99.8,104.8
+Oakland,Michigan State,2018,0,107.4,109.5,121.8,90.5
+Michigan State,Oakland,2018,1,121.8,90.5,107.4,109.5
+Iona,Yale,2018,0,106.5,109.7,111.7,103.2
+Yale,Iona,2018,1,111.7,103.2,106.5,109.7
+Tennessee State,Memphis,2018,0,98.6,109.5,109,97.7
+Memphis,Tennessee State,2018,1,109,97.7,98.6,109.5
+Winthrop,Presbyterian,2018,0,106.4,107.7,109.1,111.1
+Presbyterian,Winthrop,2018,1,109.1,111.1,106.4,107.7
+Rutgers,Illinois,2018,0,105.6,96.3,109.1,100.7
+Illinois,Rutgers,2018,1,109.1,100.7,105.6,96.3
+Idaho State,Portland State,2018,0,101.9,118.2,101.6,112
+Portland State,Idaho State,2018,1,101.6,112,101.9,118.2
+Detroit,Northern Ky.,2018,0,106.2,112.6,109.4,102.7
+Northern Ky.,Detroit,2018,1,109.4,102.7,106.2,112.6
+Alcorn State,Texas Southern,2018,0,88.8,113.5,104,108.6
+Texas Southern,Alcorn State,2018,1,104,108.6,88.8,113.5
+Savannah State,Texas A&M,2018,0,96.3,116,107,99.5
+Texas A&M,Savannah State,2018,1,107,99.5,96.3,116
+Hartford,Sacred Heart,2018,0,108.4,110.6,104.2,110.7
+Sacred Heart,Hartford,2018,1,104.2,110.7,108.4,110.6
+North Florida,Florida,2018,0,103.8,104.6,110.3,91.9
+Florida,North Florida,2018,1,110.3,91.9,103.8,104.6
+Montana,Creighton,2018,0,107.5,103.9,112.9,99.6
+Creighton,Montana,2018,1,112.9,99.6,107.5,103.9
+Denver,Utah Valley,2018,0,99.8,112.9,108.9,102.1
+Utah Valley,Denver,2018,1,108.9,102.1,99.8,112.9
+Detroit,Dayton,2018,0,106.2,112.6,111.9,100.6
+Dayton,Detroit,2018,1,111.9,100.6,106.2,112.6
+Iowa State,Iowa,2018,0,119.1,97.3,117.2,101.3
+Iowa,Iowa State,2018,1,117.2,101.3,119.1,97.3
+Grand Canyon,Texas,2018,0,108.1,102,114.1,96.5
+Texas,Grand Canyon,2018,1,114.1,96.5,108.1,102
+Wofford,Mississippi St.,2018,0,118.5,97.7,117.5,96.7
+Mississippi St.,Wofford,2018,1,117.5,96.7,118.5,97.7
+Howard,Ball State,2018,0,101.9,114.3,102.4,98.3
+Ball State,Howard,2018,1,102.4,98.3,101.9,114.3
+Portland State,Montana State,2018,0,101.6,112,107.5,115.2
+Montana State,Portland State,2018,1,107.5,115.2,101.6,112
+California,UCLA,2018,0,103,110.2,108.5,102.6
+UCLA,California,2018,1,108.5,102.6,103,110.2
+Bryant,Sacred Heart,2018,0,99.4,114.8,104.2,110.7
+Sacred Heart,Bryant,2018,1,104.2,110.7,99.4,114.8
+West Virginia,TCU,2018,0,109.1,101.9,110.4,96.3
+TCU,West Virginia,2018,1,110.4,96.3,109.1,101.9
+Texas,Georgia,2018,0,114.1,96.5,105.9,101.7
+Georgia,Texas,2018,1,105.9,101.7,114.1,96.5
+Columbia,Harvard,2018,0,101.8,106.3,104.8,100.4
+Harvard,Columbia,2018,1,104.8,100.4,101.8,106.3
+Rider,Quinnipiac,2018,0,101.3,105.8,105.3,111.5
+Quinnipiac,Rider,2018,1,105.3,111.5,101.3,105.8
+Cornell,Robert Morris,2018,0,99.8,104.8,95.9,104.2
+Robert Morris,Cornell,2018,1,95.9,104.2,99.8,104.8
+UNC Wilmington,Campbell,2018,0,105.4,114.4,107.8,109.9
+Campbell,UNC Wilmington,2018,1,107.8,109.9,105.4,114.4
+Bryant,Rhode Island,2018,0,99.4,114.8,103.7,101.2
+Rhode Island,Bryant,2018,1,103.7,101.2,99.4,114.8
+UNC Greensboro,LSU,2018,0,106.6,97.9,118.6,97.5
+LSU,UNC Greensboro,2018,1,118.6,97.5,106.6,97.9
+Tennessee Tech,Savannah State,2018,0,89.6,104.6,96.3,116
+Savannah State,Tennessee Tech,2018,1,96.3,116,89.6,104.6
+Coppin State,Virginia,2018,0,88.6,109.1,123.6,88.1
+Virginia,Coppin State,2018,1,123.6,88.1,88.6,109.1
+Howard,Little Rock,2018,0,101.9,114.3,99.8,104.8
+Little Rock,Howard,2018,1,99.8,104.8,101.9,114.3
+Idaho State,Pepperdine,2018,0,101.9,118.2,106.7,105.4
+Pepperdine,Idaho State,2018,1,106.7,105.4,101.9,118.2
+Savannah State,Gardner-Webb,2018,0,96.3,116,107.6,108.3
+Gardner-Webb,Savannah State,2018,1,107.6,108.3,96.3,116
+Lehigh,Yale,2018,0,108.7,109.5,111.7,103.2
+Yale,Lehigh,2018,1,111.7,103.2,108.7,109.5
+UNC Wilmington,UNC,2018,0,105.4,114.4,119.9,90.8
+UNC,UNC Wilmington,2018,1,119.9,90.8,105.4,114.4
+Green Bay,Bowling Green,2018,0,103,106.5,108.3,102.1
+Bowling Green,Green Bay,2018,1,108.3,102.1,103,106.5
+Drexel,UNC Wilmington,2018,0,105.5,112.9,105.4,114.4
+UNC Wilmington,Drexel,2018,1,105.4,114.4,105.5,112.9
+New Mexico,San Diego State,2018,0,104,105.6,103.8,98.8
+San Diego State,New Mexico,2018,1,103.8,98.8,104,105.6
+Gardner-Webb,Winthrop,2018,0,107.6,108.3,106.4,107.7
+Winthrop,Gardner-Webb,2018,1,106.4,107.7,107.6,108.3
+Robert Morris,Fairl. Dickinson,2018,0,95.9,104.2,106.7,110.5
+Fairl. Dickinson,Robert Morris,2018,1,106.7,110.5,95.9,104.2
+Detroit,Northern Ky.,2018,0,106.2,112.6,109.4,102.7
+Northern Ky.,Detroit,2018,1,109.4,102.7,106.2,112.6
+Bryant,Fairl. Dickinson,2018,0,99.4,114.8,106.7,110.5
+Fairl. Dickinson,Bryant,2018,1,106.7,110.5,99.4,114.8
+Niagara,Rider,2018,0,101.6,115.2,101.3,105.8
+Rider,Niagara,2018,1,101.3,105.8,101.6,115.2
+SIU Edwardsville,Belmont,2018,0,96.6,113,115,101.3
+Belmont,SIU Edwardsville,2018,1,115,101.3,96.6,113
+Lehigh,Bucknell,2018,0,108.7,109.5,105.5,103.7
+Bucknell,Lehigh,2018,1,105.5,103.7,108.7,109.5
+Seattle,Stanford,2018,0,100.8,102.3,103.4,98.2
+Stanford,Seattle,2018,1,103.4,98.2,100.8,102.3
+UTEP,New Mexico St.,2018,0,89.9,101.2,112.7,99.1
+New Mexico St.,UTEP,2018,1,112.7,99.1,89.9,101.2
+Marquette,Indiana,2018,0,114.1,95.9,110.2,95.1
+Indiana,Marquette,2018,1,110.2,95.1,114.1,95.9
+North Dakota,Kentucky,2018,0,97.4,106.2,118.3,90.9
+Kentucky,North Dakota,2018,1,118.3,90.9,97.4,106.2
+Arkansas State,Grand Canyon,2018,0,102.3,110,108.1,102
+Grand Canyon,Arkansas State,2018,1,108.1,102,102.3,110
+Houston Baptist,Wisconsin,2018,0,102.9,112.6,110.9,87.3
+Wisconsin,Houston Baptist,2018,1,110.9,87.3,102.9,112.6
+Pacific,UNLV,2018,0,99.8,104.3,105.9,106.1
+UNLV,Pacific,2018,1,105.9,106.1,99.8,104.3
+North Alabama,Gonzaga,2018,0,95.1,105.1,125.2,92.5
+Gonzaga,North Alabama,2018,1,125.2,92.5,95.1,105.1
+Florida A&M,Memphis,2018,0,89,103.3,109,97.7
+Memphis,Florida A&M,2018,1,109,97.7,89,103.3
+Tennessee Tech,Tennessee,2018,0,89.6,104.6,122.6,95.6
+Tennessee,Tennessee Tech,2018,1,122.6,95.6,89.6,104.6
+VMI,Samford,2018,0,102.3,112.3,106.7,104.4
+Samford,VMI,2018,1,106.7,104.4,102.3,112.3
+Georgia,Tennessee,2018,0,105.9,101.7,122.6,95.6
+Tennessee,Georgia,2018,1,122.6,95.6,105.9,101.7
+North Alabama,North Florida,2018,0,95.1,105.1,103.8,104.6
+North Florida,North Alabama,2018,1,103.8,104.6,95.1,105.1
+Providence,Georgetown,2018,0,105,95.8,109.2,101.9
+Georgetown,Providence,2018,1,109.2,101.9,105,95.8
+Indiana State,Bradley,2018,0,101.1,105.2,101,101.4
+Bradley,Indiana State,2018,1,101,101.4,101.1,105.2
+VMI,Furman,2018,0,102.3,112.3,109,96.3
+Furman,VMI,2018,1,109,96.3,102.3,112.3
+Austin Peay,Mississippi St.,2018,0,110.8,106.7,117.5,96.7
+Mississippi St.,Austin Peay,2018,1,117.5,96.7,110.8,106.7
+Drexel,Rutgers,2018,0,105.5,112.9,105.6,96.3
+Rutgers,Drexel,2018,1,105.6,96.3,105.5,112.9
+Stetson,USC,2018,0,97.6,113.3,109.3,101.6
+USC,Stetson,2018,1,109.3,101.6,97.6,113.3
+DePaul,Notre Dame,2018,0,110.7,104.5,108.3,100.8
+Notre Dame,DePaul,2018,1,108.3,100.8,110.7,104.5
+East Carolina,UNC Wilmington,2018,0,98,107,105.4,114.4
+UNC Wilmington,East Carolina,2018,1,105.4,114.4,98,107
+Utah State,BYU,2018,0,113,96.4,111.7,104.1
+BYU,Utah State,2018,1,111.7,104.1,113,96.4
+Chattanooga,Georgia State,2018,0,101.6,109.4,108,102.4
+Georgia State,Chattanooga,2018,1,108,102.4,101.6,109.4
+North Florida,Florida State,2018,0,103.8,104.6,113,90.5
+Florida State,North Florida,2018,1,113,90.5,103.8,104.6
+California,Fresno State,2018,0,103,110.2,108.3,98.6
+Fresno State,California,2018,1,108.3,98.6,103,110.2
+Ohio,Purdue,2018,0,98.7,100.2,121.1,95.1
+Purdue,Ohio,2018,1,121.1,95.1,98.7,100.2
+Elon,UMKC,2018,0,99,111.1,101,107.2
+UMKC,Elon,2018,1,101,107.2,99,111.1
+Tennessee State,Vanderbilt,2018,0,98.6,109.5,102.1,101.2
+Vanderbilt,Tennessee State,2018,1,102.1,101.2,98.6,109.5
+North Florida,Auburn,2018,0,103.8,104.6,119.7,96.3
+Auburn,North Florida,2018,1,119.7,96.3,103.8,104.6
+Rice,UTSA,2018,0,103,110.4,105.8,104.1
+UTSA,Rice,2018,1,105.8,104.1,103,110.4
+Iona,Niagara,2018,0,106.5,109.7,101.6,115.2
+Niagara,Iona,2018,1,101.6,115.2,106.5,109.7
+Stetson,Lipscomb,2018,0,97.6,113.3,111,97.2
+Lipscomb,Stetson,2018,1,111,97.2,97.6,113.3
+Minnesota,Illinois,2018,0,110.7,96.3,109.1,100.7
+Illinois,Minnesota,2018,1,109.1,100.7,110.7,96.3
+Illinois,Iowa,2018,0,109.1,100.7,117.2,101.3
+Iowa,Illinois,2018,1,117.2,101.3,109.1,100.7
+Memphis,Tulsa,2018,0,109,97.7,104.7,100.5
+Tulsa,Memphis,2018,1,104.7,100.5,109,97.7
+Arizona,Arizona State,2018,0,105,98.2,109.9,98.6
+Arizona State,Arizona,2018,1,109.9,98.6,105,98.2
+VMI,Wofford,2018,0,102.3,112.3,118.5,97.7
+Wofford,VMI,2018,1,118.5,97.7,102.3,112.3
+Nebraska,Penn State,2018,0,112.6,97.2,109.5,94.2
+Penn State,Nebraska,2018,1,109.5,94.2,112.6,97.2
+SMU,UCF,2018,0,112,106.8,110.5,95.8
+UCF,SMU,2018,1,110.5,95.8,112,106.8
+Arkansas State,Abilene Christ.,2018,0,102.3,110,103.7,101.6
+Abilene Christ.,Arkansas State,2018,1,103.7,101.6,102.3,110
+Army,Duke,2018,0,96.2,103,120.1,88.2
+Duke,Army,2018,1,120.1,88.2,96.2,103
+Texas A&M,Gonzaga,2018,0,107,99.5,125.2,92.5
+Gonzaga,Texas A&M,2018,1,125.2,92.5,107,99.5
+Siena,Hofstra,2018,0,100.5,109,116.3,108.7
+Hofstra,Siena,2018,1,116.3,108.7,100.5,109
+Hampton,Norfolk State,2018,0,107.5,110.1,97.6,106
+Norfolk State,Hampton,2018,1,97.6,106,107.5,110.1
+UAB,Memphis,2018,0,106.5,104.6,109,97.7
+Memphis,UAB,2018,1,109,97.7,106.5,104.6
+Creighton,Nebraska,2018,0,112.9,99.6,112.6,97.2
+Nebraska,Creighton,2018,1,112.6,97.2,112.9,99.6
+Jacksonville,Indiana,2018,0,98.8,106.2,110.2,95.1
+Indiana,Jacksonville,2018,1,110.2,95.1,98.8,106.2
+Fairfield,Iona,2018,0,95.8,107.3,106.5,109.7
+Iona,Fairfield,2018,1,106.5,109.7,95.8,107.3
+San Jose State,UNLV,2018,0,91.8,113.7,105.9,106.1
+UNLV,San Jose State,2018,1,105.9,106.1,91.8,113.7
+East Carolina,Houston,2018,0,98,107,114.2,91.8
+Houston,East Carolina,2018,1,114.2,91.8,98,107
+UNLV,San Diego State,2018,0,105.9,106.1,103.8,98.8
+San Diego State,UNLV,2018,1,103.8,98.8,105.9,106.1
+Chicago State,Cal Baptist,2018,0,90.3,118.3,106.7,109.3
+Cal Baptist,Chicago State,2018,1,106.7,109.3,90.3,118.3
+Saint Mary's,Gonzaga,2018,0,114.7,97.1,125.2,92.5
+Gonzaga,Saint Mary's,2018,1,125.2,92.5,114.7,97.1
+Montana State,Weber State,2018,0,107.5,115.2,101.4,106.5
+Weber State,Montana State,2018,1,101.4,106.5,107.5,115.2
+Austin Peay,Murray State,2018,0,110.8,106.7,112.2,98.7
+Murray State,Austin Peay,2018,1,112.2,98.7,110.8,106.7
+FIU,Marshall,2018,0,102,105.2,107.4,107.6
+Marshall,FIU,2018,1,107.4,107.6,102,105.2
+Bucknell,Colgate,2018,0,105.5,103.7,110.1,105.8
+Colgate,Bucknell,2018,1,110.1,105.8,105.5,103.7
+Sacred Heart,Holy Cross,2018,0,104.2,110.7,101,107.8
+Holy Cross,Sacred Heart,2018,1,101,107.8,104.2,110.7
+Maine,San Francisco,2018,0,93.1,111.8,111.8,101.9
+San Francisco,Maine,2018,1,111.8,101.9,93.1,111.8
+Green Bay,Iowa,2018,0,103,106.5,117.2,101.3
+Iowa,Green Bay,2018,1,117.2,101.3,103,106.5
+Campbell,Georgetown,2018,0,107.8,109.9,109.2,101.9
+Georgetown,Campbell,2018,1,109.2,101.9,107.8,109.9
+San Diego,Ole Miss,2018,0,105.5,98.1,112.9,97.7
+Ole Miss,San Diego,2018,1,112.9,97.7,105.5,98.1
+Portland,Colorado,2018,0,94.3,110,107,96.5
+Colorado,Portland,2018,1,107,96.5,94.3,110
+Marshall,Duquesne,2018,0,107.4,107.6,104.4,105.3
+Duquesne,Marshall,2018,1,104.4,105.3,107.4,107.6
+Army,Fairl. Dickinson,2018,0,96.2,103,106.7,110.5
+Fairl. Dickinson,Army,2018,1,106.7,110.5,96.2,103
+UNC Wilmington,Furman,2018,0,105.4,114.4,109,96.3
+Furman,UNC Wilmington,2018,1,109,96.3,105.4,114.4
+Florida A&M,Utah,2018,0,89,103.3,114.3,108.9
+Utah,Florida A&M,2018,1,114.3,108.9,89,103.3
+UCLA,Cincinnati,2018,0,108.5,102.6,111.7,94.6
+Cincinnati,UCLA,2018,1,111.7,94.6,108.5,102.6
+Murray State,Auburn,2018,0,112.2,98.7,119.7,96.3
+Auburn,Murray State,2018,1,119.7,96.3,112.2,98.7
+Drexel,Northeastern,2018,0,105.5,112.9,111.5,102.8
+Northeastern,Drexel,2018,1,111.5,102.8,105.5,112.9
+Tulane,Cincinnati,2018,0,96.6,107.4,111.7,94.6
+Cincinnati,Tulane,2018,1,111.7,94.6,96.6,107.4
+Nebraska,Iowa,2018,0,112.6,97.2,117.2,101.3
+Iowa,Nebraska,2018,1,117.2,101.3,112.6,97.2
+Milwaukee,Detroit,2018,0,98.3,109.5,106.2,112.6
+Detroit,Milwaukee,2018,1,106.2,112.6,98.3,109.5
+Georgia,Auburn,2018,0,105.9,101.7,119.7,96.3
+Auburn,Georgia,2018,1,119.7,96.3,105.9,101.7
+Holy Cross,Bucknell,2018,0,101,107.8,105.5,103.7
+Bucknell,Holy Cross,2018,1,105.5,103.7,101,107.8
+William & Mary,UNC Wilmington,2018,0,103.4,108.1,105.4,114.4
+UNC Wilmington,William & Mary,2018,1,105.4,114.4,103.4,108.1
+West Virginia,Iowa State,2018,0,109.1,101.9,119.1,97.3
+Iowa State,West Virginia,2018,1,119.1,97.3,109.1,101.9
+VMI,UNC Greensboro,2018,0,102.3,112.3,106.6,97.9
+UNC Greensboro,VMI,2018,1,106.6,97.9,102.3,112.3
+Boise State,Nevada,2018,0,107.2,104,114.1,95.2
+Nevada,Boise State,2018,1,114.1,95.2,107.2,104
+William & Mary,Hofstra,2018,0,103.4,108.1,116.3,108.7
+Hofstra,William & Mary,2018,1,116.3,108.7,103.4,108.1
+Presbyterian,Winthrop,2018,0,109.1,111.1,106.4,107.7
+Winthrop,Presbyterian,2018,1,106.4,107.7,109.1,111.1
+Navy,Colgate,2018,0,97.2,107.1,110.1,105.8
+Colgate,Navy,2018,1,110.1,105.8,97.2,107.1
+Syracuse,UNC,2018,0,110.2,94,119.9,90.8
+UNC,Syracuse,2018,1,119.9,90.8,110.2,94
+USC,UCLA,2018,0,109.3,101.6,108.5,102.6
+UCLA,USC,2018,1,108.5,102.6,109.3,101.6
+UCLA,Colorado,2018,0,108.5,102.6,107,96.5
+Colorado,UCLA,2018,1,107,96.5,108.5,102.6
+Idaho,Weber State,2018,0,94.9,118.8,101.4,106.5
+Weber State,Idaho,2018,1,101.4,106.5,94.9,118.8
+Iowa,Nebraska,2018,0,117.2,101.3,112.6,97.2
+Nebraska,Iowa,2018,1,112.6,97.2,117.2,101.3
+Winthrop,Vanderbilt,2018,0,106.4,107.7,102.1,101.2
+Vanderbilt,Winthrop,2018,1,102.1,101.2,106.4,107.7
+Rice,Penn,2018,0,103,110.4,104,99.8
+Penn,Rice,2018,1,104,99.8,103,110.4
+Utah Valley,Saint Mary's,2018,0,108.9,102.1,114.7,97.1
+Saint Mary's,Utah Valley,2018,1,114.7,97.1,108.9,102.1
+VMI,Kentucky,2018,0,102.3,112.3,118.3,90.9
+Kentucky,VMI,2018,1,118.3,90.9,102.3,112.3
+Rider,West Virginia,2018,0,101.3,105.8,109.1,101.9
+West Virginia,Rider,2018,1,109.1,101.9,101.3,105.8
+BYU,Illinois State,2018,0,111.7,104.1,101.2,104.6
+Illinois State,BYU,2018,1,101.2,104.6,111.7,104.1
+Texas Southern,Georgia,2018,0,104,108.6,105.9,101.7
+Georgia,Texas Southern,2018,1,105.9,101.7,104,108.6
+Oakland,Northeastern,2018,0,107.4,109.5,111.5,102.8
+Northeastern,Oakland,2018,1,111.5,102.8,107.4,109.5
+UNC Asheville,Wofford,2018,0,92.9,117,118.5,97.7
+Wofford,UNC Asheville,2018,1,118.5,97.7,92.9,117
+North Dakota,Marquette,2018,0,97.4,106.2,114.1,95.9
+Marquette,North Dakota,2018,1,114.1,95.9,97.4,106.2
+Marshall,Texas A&M,2018,0,107.4,107.6,107,99.5
+Texas A&M,Marshall,2018,1,107,99.5,107.4,107.6
+IUPUI,Northern Ky.,2018,0,103.4,105.8,109.4,102.7
+Northern Ky.,IUPUI,2018,1,109.4,102.7,103.4,105.8
+Kennesaw State,Yale,2018,0,91.8,110.7,111.7,103.2
+Yale,Kennesaw State,2018,1,111.7,103.2,91.8,110.7
+Stanford,UCLA,2018,0,103.4,98.2,108.5,102.6
+UCLA,Stanford,2018,1,108.5,102.6,103.4,98.2
+Wake Forest,Georgia Tech,2018,0,104.6,104.9,101.8,96
+Georgia Tech,Wake Forest,2018,1,101.8,96,104.6,104.9
+San Jose State,Nevada,2018,0,91.8,113.7,114.1,95.2
+Nevada,San Jose State,2018,1,114.1,95.2,91.8,113.7
+Tennessee State,Belmont,2018,0,98.6,109.5,115,101.3
+Belmont,Tennessee State,2018,1,115,101.3,98.6,109.5
+Georgia,LSU,2018,0,105.9,101.7,118.6,97.5
+LSU,Georgia,2018,1,118.6,97.5,105.9,101.7
+Auburn,Mississippi St.,2018,0,119.7,96.3,117.5,96.7
+Mississippi St.,Auburn,2018,1,117.5,96.7,119.7,96.3
+Iowa,Minnesota,2018,0,117.2,101.3,110.7,96.3
+Minnesota,Iowa,2018,1,110.7,96.3,117.2,101.3
+Missouri,Auburn,2018,0,106.8,97,119.7,96.3
+Auburn,Missouri,2018,1,119.7,96.3,106.8,97
+Buffalo,Bowling Green,2018,0,115,94.6,108.3,102.1
+Bowling Green,Buffalo,2018,1,108.3,102.1,115,94.6
+Kennesaw State,Stetson,2018,0,91.8,110.7,97.6,113.3
+Stetson,Kennesaw State,2018,1,97.6,113.3,91.8,110.7
+San Francisco,Gonzaga,2018,0,111.8,101.9,125.2,92.5
+Gonzaga,San Francisco,2018,1,125.2,92.5,111.8,101.9
+San Jose State,New Mexico,2018,0,91.8,113.7,104,105.6
+New Mexico,San Jose State,2018,1,104,105.6,91.8,113.7
+Drexel,Towson,2018,0,105.5,112.9,100.1,110.6
+Towson,Drexel,2018,1,100.1,110.6,105.5,112.9
+Pepperdine,Gonzaga,2018,0,106.7,105.4,125.2,92.5
+Gonzaga,Pepperdine,2018,1,125.2,92.5,106.7,105.4
+Bowling Green,Ohio,2018,0,108.3,102.1,98.7,100.2
+Ohio,Bowling Green,2018,1,98.7,100.2,108.3,102.1
+West Virginia,Oklahoma,2018,0,109.1,101.9,109.5,94
+Oklahoma,West Virginia,2018,1,109.5,94,109.1,101.9
+Texas A&M,Mississippi St.,2018,0,107,99.5,117.5,96.7
+Mississippi St.,Texas A&M,2018,1,117.5,96.7,107,99.5
+UCLA,Utah,2018,0,108.5,102.6,114.3,108.9
+Utah,UCLA,2018,1,114.3,108.9,108.5,102.6
+Quinnipiac,NJIT,2018,0,105.3,111.5,102.2,103.1
+NJIT,Quinnipiac,2018,1,102.2,103.1,105.3,111.5
+North Alabama,Samford,2018,0,95.1,105.1,106.7,104.4
+Samford,North Alabama,2018,1,106.7,104.4,95.1,105.1
+Evansville,Xavier,2018,0,99.4,104.7,110.9,100.6
+Xavier,Evansville,2018,1,110.9,100.6,99.4,104.7
+Morgan State,DePaul,2018,0,92.6,110.6,110.7,104.5
+DePaul,Morgan State,2018,1,110.7,104.5,92.6,110.6
+Lafayette,Penn,2018,0,101.4,112.7,104,99.8
+Penn,Lafayette,2018,1,104,99.8,101.4,112.7
+Alabama A&M,BYU,2018,0,86.5,109.3,111.7,104.1
+BYU,Alabama A&M,2018,1,111.7,104.1,86.5,109.3
+Iona,Providence,2018,0,106.5,109.7,105,95.8
+Providence,Iona,2018,1,105,95.8,106.5,109.7
+McNeese State,SMU,2018,0,98.1,114.6,112,106.8
+SMU,McNeese State,2018,1,112,106.8,98.1,114.6
+Yale,Duke,2018,0,111.7,103.2,120.1,88.2
+Duke,Yale,2018,1,120.1,88.2,111.7,103.2
+Incarnate Word,LSU,2018,0,97.5,120.3,118.6,97.5
+LSU,Incarnate Word,2018,1,118.6,97.5,97.5,120.3
+Savannah State,Tennessee Tech,2018,0,96.3,116,89.6,104.6
+Tennessee Tech,Savannah State,2018,1,89.6,104.6,96.3,116
+Vermont,Lipscomb,2018,0,108,99.3,111,97.2
+Lipscomb,Vermont,2018,1,111,97.2,108,99.3
+Southern Utah,USC,2018,0,96.5,106.5,109.3,101.6
+USC,Southern Utah,2018,1,109.3,101.6,96.5,106.5
+Delaware,Hofstra,2018,0,104.8,112.9,116.3,108.7
+Hofstra,Delaware,2018,1,116.3,108.7,104.8,112.9
+Santa Clara,Gonzaga,2018,0,101.8,103.8,125.2,92.5
+Gonzaga,Santa Clara,2018,1,125.2,92.5,101.8,103.8
+South Alabama,Little Rock,2018,0,103.1,107.5,99.8,104.8
+Little Rock,South Alabama,2018,1,99.8,104.8,103.1,107.5
+Lehigh,Colgate,2018,0,108.7,109.5,110.1,105.8
+Colgate,Lehigh,2018,1,110.1,105.8,108.7,109.5
+New Mexico,Colorado State,2018,0,104,105.6,107.5,108.7
+Colorado State,New Mexico,2018,1,107.5,108.7,104,105.6
+Colgate,Army,2018,0,110.1,105.8,96.2,103
+Army,Colgate,2018,1,96.2,103,110.1,105.8
+UTEP,Marshall,2018,0,89.9,101.2,107.4,107.6
+Marshall,UTEP,2018,1,107.4,107.6,89.9,101.2
+New Mexico,Nevada,2018,0,104,105.6,114.1,95.2
+Nevada,New Mexico,2018,1,114.1,95.2,104,105.6
+DePaul,Butler,2018,0,110.7,104.5,110.8,101.1
+Butler,DePaul,2018,1,110.8,101.1,110.7,104.5
+Army,Lehigh,2018,0,96.2,103,108.7,109.5
+Lehigh,Army,2018,1,108.7,109.5,96.2,103
+Towson,Hofstra,2018,0,100.1,110.6,116.3,108.7
+Hofstra,Towson,2018,1,116.3,108.7,100.1,110.6
+Cal Baptist,Grand Canyon,2018,0,106.7,109.3,108.1,102
+Grand Canyon,Cal Baptist,2018,1,108.1,102,106.7,109.3
+Kansas,Texas Tech,2018,0,112.8,92.1,112.8,86
+Texas Tech,Kansas,2018,1,112.8,86,112.8,92.1
+East Carolina,Tulsa,2018,0,98,107,104.7,100.5
+Tulsa,East Carolina,2018,1,104.7,100.5,98,107
+Bowling Green,Akron,2018,0,108.3,102.1,99.9,93.8
+Akron,Bowling Green,2018,1,99.9,93.8,108.3,102.1
+Nebraska,Michigan State,2018,0,112.6,97.2,121.8,90.5
+Michigan State,Nebraska,2018,1,121.8,90.5,112.6,97.2
+DePaul,Creighton,2018,0,110.7,104.5,112.9,99.6
+Creighton,DePaul,2018,1,112.9,99.6,110.7,104.5
+Fairfield,Purdue,2018,0,95.8,107.3,121.1,95.1
+Purdue,Fairfield,2018,1,121.1,95.1,95.8,107.3
+Houston Baptist,Arizona,2018,0,102.9,112.6,105,98.2
+Arizona,Houston Baptist,2018,1,105,98.2,102.9,112.6
+Fairl. Dickinson,Rutgers,2018,0,106.7,110.5,105.6,96.3
+Rutgers,Fairl. Dickinson,2018,1,105.6,96.3,106.7,110.5
+Stanford,UNC,2018,0,103.4,98.2,119.9,90.8
+UNC,Stanford,2018,1,119.9,90.8,103.4,98.2
+Iona,New Mexico,2018,0,106.5,109.7,104,105.6
+New Mexico,Iona,2018,1,104,105.6,106.5,109.7
+Cal Baptist,Nevada,2018,0,106.7,109.3,114.1,95.2
+Nevada,Cal Baptist,2018,1,114.1,95.2,106.7,109.3
+Montana State,Arkansas,2018,0,107.5,115.2,110.3,97.3
+Arkansas,Montana State,2018,1,110.3,97.3,107.5,115.2
+Rice,Wichita State,2018,0,103,110.4,106,98.5
+Wichita State,Rice,2018,1,106,98.5,103,110.4
+Indiana,Duke,2018,0,110.2,95.1,120.1,88.2
+Duke,Indiana,2018,1,120.1,88.2,110.2,95.1
+Richmond,Georgetown,2018,0,106.8,110.1,109.2,101.9
+Georgetown,Richmond,2018,1,109.2,101.9,106.8,110.1
+Monmouth,Kentucky,2018,0,93,103.9,118.3,90.9
+Kentucky,Monmouth,2018,1,118.3,90.9,93,103.9
+Stanford,Kansas,2018,0,103.4,98.2,112.8,92.1
+Kansas,Stanford,2018,1,112.8,92.1,103.4,98.2
+Iowa,Michigan State,2018,0,117.2,101.3,121.8,90.5
+Michigan State,Iowa,2018,1,121.8,90.5,117.2,101.3
+McNeese State,Mississippi St.,2018,0,98.1,114.6,117.5,96.7
+Mississippi St.,McNeese State,2018,1,117.5,96.7,98.1,114.6
+Bryant,Columbia,2018,0,99.4,114.8,101.8,106.3
+Columbia,Bryant,2018,1,101.8,106.3,99.4,114.8
+Houston Baptist,Texas State,2018,0,102.9,112.6,102.1,97.7
+Texas State,Houston Baptist,2018,1,102.1,97.7,102.9,112.6
+Stetson,UCF,2018,0,97.6,113.3,110.5,95.8
+UCF,Stetson,2018,1,110.5,95.8,97.6,113.3
+Indiana State,TCU,2018,0,101.1,105.2,110.4,96.3
+TCU,Indiana State,2018,1,110.4,96.3,101.1,105.2
+Chattanooga,Ole Miss,2018,0,101.6,109.4,112.9,97.7
+Ole Miss,Chattanooga,2018,1,112.9,97.7,101.6,109.4
+Sacred Heart,Seton Hall,2018,0,104.2,110.7,109.3,96.6
+Seton Hall,Sacred Heart,2018,1,109.3,96.6,104.2,110.7
+BYU,San Diego State,2018,0,111.7,104.1,103.8,98.8
+San Diego State,BYU,2018,1,103.8,98.8,111.7,104.1
+Rider,VCU,2018,0,101.3,105.8,104.3,88.7
+VCU,Rider,2018,1,104.3,88.7,101.3,105.8
+UNC Asheville,Vanderbilt,2018,0,92.9,117,102.1,101.2
+Vanderbilt,UNC Asheville,2018,1,102.1,101.2,92.9,117
+Morehead State,Murray State,2018,0,102.4,109.9,112.2,98.7
+Murray State,Morehead State,2018,1,112.2,98.7,102.4,109.9
+Cleveland State,Green Bay,2018,0,101.6,111.6,103,106.5
+Green Bay,Cleveland State,2018,1,103,106.5,101.6,111.6
+Niagara,Manhattan,2018,0,101.6,115.2,89.4,104.6
+Manhattan,Niagara,2018,1,89.4,104.6,101.6,115.2
+Memphis,Houston,2018,0,109,97.7,114.2,91.8
+Houston,Memphis,2018,1,114.2,91.8,109,97.7
+Cleveland State,IUPUI,2018,0,101.6,111.6,103.4,105.8
+IUPUI,Cleveland State,2018,1,103.4,105.8,101.6,111.6
+Green Bay,Oakland,2018,0,103,106.5,107.4,109.5
+Oakland,Green Bay,2018,1,107.4,109.5,103,106.5
+Marist,Iona,2018,0,100.1,109.6,106.5,109.7
+Iona,Marist,2018,1,106.5,109.7,100.1,109.6
+Arizona,UCLA,2018,0,105,98.2,108.5,102.6
+UCLA,Arizona,2018,1,108.5,102.6,105,98.2
+Ole Miss,Florida,2018,0,112.9,97.7,110.3,91.9
+Florida,Ole Miss,2018,1,110.3,91.9,112.9,97.7
+TCU,Baylor,2018,0,110.4,96.3,113.6,98.3
+Baylor,TCU,2018,1,113.6,98.3,110.4,96.3
+Georgetown,Seton Hall,2018,0,109.2,101.9,109.3,96.6
+Seton Hall,Georgetown,2018,1,109.3,96.6,109.2,101.9
+South Alabama,Georgia State,2018,0,103.1,107.5,108,102.4
+Georgia State,South Alabama,2018,1,108,102.4,103.1,107.5
+Oregon,UCLA,2018,0,107.8,92.6,108.5,102.6
+UCLA,Oregon,2018,1,108.5,102.6,107.8,92.6
+Iowa,Ohio State,2018,0,117.2,101.3,109.3,94.3
+Ohio State,Iowa,2018,1,109.3,94.3,117.2,101.3
+Winthrop,Hampton,2018,0,106.4,107.7,107.5,110.1
+Hampton,Winthrop,2018,1,107.5,110.1,106.4,107.7
+Southern Utah,Montana State,2018,0,96.5,106.5,107.5,115.2
+Montana State,Southern Utah,2018,1,107.5,115.2,96.5,106.5
+Iowa State,West Virginia,2018,0,119.1,97.3,109.1,101.9
+West Virginia,Iowa State,2018,1,109.1,101.9,119.1,97.3
+SMU,Houston,2018,0,112,106.8,114.2,91.8
+Houston,SMU,2018,1,114.2,91.8,112,106.8
+Hartford,UMBC,2018,0,108.4,110.6,96,101.8
+UMBC,Hartford,2018,1,96,101.8,108.4,110.6
+Wagner,Seton Hall,2018,0,93.9,107.1,109.3,96.6
+Seton Hall,Wagner,2018,1,109.3,96.6,93.9,107.1
+Chicago State,Notre Dame,2018,0,90.3,118.3,108.3,100.8
+Notre Dame,Chicago State,2018,1,108.3,100.8,90.3,118.3
+Delaware State,Grand Canyon,2018,0,84.3,113.9,108.1,102
+Grand Canyon,Delaware State,2018,1,108.1,102,84.3,113.9
+Delaware State,Longwood,2018,0,84.3,113.9,96.3,106.6
+Longwood,Delaware State,2018,1,96.3,106.6,84.3,113.9
+Louisiana,Kansas,2018,0,106.6,107.8,112.8,92.1
+Kansas,Louisiana,2018,1,112.8,92.1,106.6,107.8
+North Florida,Wright State,2018,0,103.8,104.6,106.7,102
+Wright State,North Florida,2018,1,106.7,102,103.8,104.6
+Cleveland State,Ohio State,2018,0,101.6,111.6,109.3,94.3
+Ohio State,Cleveland State,2018,1,109.3,94.3,101.6,111.6
+Iona,Ohio,2018,0,106.5,109.7,98.7,100.2
+Ohio,Iona,2018,1,98.7,100.2,106.5,109.7
+VMI,Virginia Tech,2018,0,102.3,112.3,118.5,94.1
+Virginia Tech,VMI,2018,1,118.5,94.1,102.3,112.3
+South Carolina,Michigan,2018,0,108,98.3,115.6,86.2
+Michigan,South Carolina,2018,1,115.6,86.2,108,98.3
+Rider,Hofstra,2018,0,101.3,105.8,116.3,108.7
+Hofstra,Rider,2018,1,116.3,108.7,101.3,105.8
+San Diego State,California,2018,0,103.8,98.8,103,110.2
+California,San Diego State,2018,1,103,110.2,103.8,98.8
+Ball State,Evansville,2018,0,102.4,98.3,99.4,104.7
+Evansville,Ball State,2018,1,99.4,104.7,102.4,98.3
+South Dakota,Kansas,2018,0,100.4,106.1,112.8,92.1
+Kansas,South Dakota,2018,1,112.8,92.1,100.4,106.1
+North Alabama,VMI,2018,0,95.1,105.1,102.3,112.3
+VMI,North Alabama,2018,1,102.3,112.3,95.1,105.1
+Drexel,Hofstra,2018,0,105.5,112.9,116.3,108.7
+Hofstra,Drexel,2018,1,116.3,108.7,105.5,112.9
+Louisiana,Georgia State,2018,0,106.6,107.8,108,102.4
+Georgia State,Louisiana,2018,1,108,102.4,106.6,107.8
+Monmouth,Quinnipiac,2018,0,93,103.9,105.3,111.5
+Quinnipiac,Monmouth,2018,1,105.3,111.5,93,103.9
+Furman,UNC Greensboro,2018,0,109,96.3,106.6,97.9
+UNC Greensboro,Furman,2018,1,106.6,97.9,109,96.3
+Rutgers,Purdue,2018,0,105.6,96.3,121.1,95.1
+Purdue,Rutgers,2018,1,121.1,95.1,105.6,96.3
+South Carolina,LSU,2018,0,108,98.3,118.6,97.5
+LSU,South Carolina,2018,1,118.6,97.5,108,98.3
+Tennessee State,Austin Peay,2018,0,98.6,109.5,110.8,106.7
+Austin Peay,Tennessee State,2018,1,110.8,106.7,98.6,109.5
+Marshall,Louisiana Tech,2018,0,107.4,107.6,104.8,101.8
+Louisiana Tech,Marshall,2018,1,104.8,101.8,107.4,107.6
+Incarnate Word,New Orleans,2018,0,97.5,120.3,97,104.7
+New Orleans,Incarnate Word,2018,1,97,104.7,97.5,120.3
+Georgia,Alabama,2018,0,105.9,101.7,108.2,96.7
+Alabama,Georgia,2018,1,108.2,96.7,105.9,101.7
+George Washington,Richmond,2018,0,95.2,106,106.8,110.1
+Richmond,George Washington,2018,1,106.8,110.1,95.2,106
+Pepperdine,San Francisco,2018,0,106.7,105.4,111.8,101.9
+San Francisco,Pepperdine,2018,1,111.8,101.9,106.7,105.4
+IUPUI,Cleveland State,2018,0,103.4,105.8,101.6,111.6
+Cleveland State,IUPUI,2018,1,101.6,111.6,103.4,105.8
+Montana State,Montana,2018,0,107.5,115.2,107.5,103.9
+Montana,Montana State,2018,1,107.5,103.9,107.5,115.2
+New Mexico,San Jose State,2018,0,104,105.6,91.8,113.7
+San Jose State,New Mexico,2018,1,91.8,113.7,104,105.6
+UNLV,Nevada,2018,0,105.9,106.1,114.1,95.2
+Nevada,UNLV,2018,1,114.1,95.2,105.9,106.1
+Rutgers,Indiana,2018,0,105.6,96.3,110.2,95.1
+Indiana,Rutgers,2018,1,110.2,95.1,105.6,96.3
+Lamar,Georgia Tech,2018,0,103.1,107.7,101.8,96
+Georgia Tech,Lamar,2018,1,101.8,96,103.1,107.7
+Washington,Auburn,2018,0,107,93.7,119.7,96.3
+Auburn,Washington,2018,1,119.7,96.3,107,93.7
+Gardner-Webb,Furman,2018,0,107.6,108.3,109,96.3
+Furman,Gardner-Webb,2018,1,109,96.3,107.6,108.3
+Little Rock,Tulsa,2018,0,99.8,104.8,104.7,100.5
+Tulsa,Little Rock,2018,1,104.7,100.5,99.8,104.8
+Valparaiso,West Virginia,2018,0,98.1,102.9,109.1,101.9
+West Virginia,Valparaiso,2018,1,109.1,101.9,98.1,102.9
+Alcorn State,Mississippi St.,2018,0,88.8,113.5,117.5,96.7
+Mississippi St.,Alcorn State,2018,1,117.5,96.7,88.8,113.5
+Missouri State,Air Force,2018,0,103,103.9,100.5,107.4
+Air Force,Missouri State,2018,1,100.5,107.4,103,103.9
+Iona,VCU,2018,0,106.5,109.7,104.3,88.7
+VCU,Iona,2018,1,104.3,88.7,106.5,109.7
+Southern,Louisiana,2018,0,93.7,112.2,106.6,107.8
+Louisiana,Southern,2018,1,106.6,107.8,93.7,112.2
+Lafayette,Quinnipiac,2018,0,101.4,112.7,105.3,111.5
+Quinnipiac,Lafayette,2018,1,105.3,111.5,101.4,112.7
+Utah,Kentucky,2018,0,114.3,108.9,118.3,90.9
+Kentucky,Utah,2018,1,118.3,90.9,114.3,108.9
+Cleveland State,Illinois State,2018,0,101.6,111.6,101.2,104.6
+Illinois State,Cleveland State,2018,1,101.2,104.6,101.6,111.6
+Chicago State,Northwestern,2018,0,90.3,118.3,103,93.5
+Northwestern,Chicago State,2018,1,103,93.5,90.3,118.3
+Idaho State,Utah Valley,2018,0,101.9,118.2,108.9,102.1
+Utah Valley,Idaho State,2018,1,108.9,102.1,101.9,118.2
+San Jose State,California,2018,0,91.8,113.7,103,110.2
+California,San Jose State,2018,1,103,110.2,91.8,113.7
+Lamar,Houston Baptist,2018,0,103.1,107.7,102.9,112.6
+Houston Baptist,Lamar,2018,1,102.9,112.6,103.1,107.7
+Southern Utah,Idaho State,2018,0,96.5,106.5,101.9,118.2
+Idaho State,Southern Utah,2018,1,101.9,118.2,96.5,106.5
+San Diego State,Boise State,2018,0,103.8,98.8,107.2,104
+Boise State,San Diego State,2018,1,107.2,104,103.8,98.8
+BYU,Saint Mary's,2018,0,111.7,104.1,114.7,97.1
+Saint Mary's,BYU,2018,1,114.7,97.1,111.7,104.1
+Alabama,LSU,2018,0,108.2,96.7,118.6,97.5
+LSU,Alabama,2018,1,118.6,97.5,108.2,96.7
+Rutgers,Minnesota,2018,0,105.6,96.3,110.7,96.3
+Minnesota,Rutgers,2018,1,110.7,96.3,105.6,96.3
+Seattle,Utah Valley,2018,0,100.8,102.3,108.9,102.1
+Utah Valley,Seattle,2018,1,108.9,102.1,100.8,102.3
+UNC Wilmington,Northeastern,2018,0,105.4,114.4,111.5,102.8
+Northeastern,UNC Wilmington,2018,1,111.5,102.8,105.4,114.4
+Tulsa,Cincinnati,2018,0,104.7,100.5,111.7,94.6
+Cincinnati,Tulsa,2018,1,111.7,94.6,104.7,100.5
+USC Upstate,Hampton,2018,0,92.9,111.4,107.5,110.1
+Hampton,USC Upstate,2018,1,107.5,110.1,92.9,111.4
+VMI,Mercer,2018,0,102.3,112.3,103.6,106.2
+Mercer,VMI,2018,1,103.6,106.2,102.3,112.3
+South Alabama,Louisiana,2018,0,103.1,107.5,106.6,107.8
+Louisiana,South Alabama,2018,1,106.6,107.8,103.1,107.5
+Charlotte,UTSA,2018,0,95.5,106.6,105.8,104.1
+UTSA,Charlotte,2018,1,105.8,104.1,95.5,106.6
+Mercer,UNC Greensboro,2018,0,103.6,106.2,106.6,97.9
+UNC Greensboro,Mercer,2018,1,106.6,97.9,103.6,106.2
+Morgan State,Savannah State,2018,0,92.6,110.6,96.3,116
+Savannah State,Morgan State,2018,1,96.3,116,92.6,110.6
+Wake Forest,Florida State,2018,0,104.6,104.9,113,90.5
+Florida State,Wake Forest,2018,1,113,90.5,104.6,104.9
+Northeastern,Charleston,2018,0,111.5,102.8,108.5,103.4
+Charleston,Northeastern,2018,1,108.5,103.4,111.5,102.8
+Nicholls State,Houston Baptist,2018,0,98.7,111.4,102.9,112.6
+Houston Baptist,Nicholls State,2018,1,102.9,112.6,98.7,111.4
+Harvard,Brown,2018,0,104.8,100.4,98.7,96.9
+Brown,Harvard,2018,1,98.7,96.9,104.8,100.4
+Hawaii,Cal Poly,2018,0,103.6,106.6,96.9,114.6
+Cal Poly,Hawaii,2018,1,96.9,114.6,103.6,106.6
+New Mexico,Wyoming,2018,0,104,105.6,95,108.7
+Wyoming,New Mexico,2018,1,95,108.7,104,105.6
+Incarnate Word,Texas Tech,2018,0,97.5,120.3,112.8,86
+Texas Tech,Incarnate Word,2018,1,112.8,86,97.5,120.3
+McNeese State,Saint Mary's,2018,0,98.1,114.6,114.7,97.1
+Saint Mary's,McNeese State,2018,1,114.7,97.1,98.1,114.6
+Monmouth,Colgate,2018,0,93,103.9,110.1,105.8
+Colgate,Monmouth,2018,1,110.1,105.8,93,103.9
+North Florida,Penn State,2018,0,103.8,104.6,109.5,94.2
+Penn State,North Florida,2018,1,109.5,94.2,103.8,104.6
+Louisiana,Tennessee,2018,0,106.6,107.8,122.6,95.6
+Tennessee,Louisiana,2018,1,122.6,95.6,106.6,107.8
+Gardner-Webb,Virginia Tech,2018,0,107.6,108.3,118.5,94.1
+Virginia Tech,Gardner-Webb,2018,1,118.5,94.1,107.6,108.3
+Chicago State,Akron,2018,0,90.3,118.3,99.9,93.8
+Akron,Chicago State,2018,1,99.9,93.8,90.3,118.3
+Little Rock,Nevada,2018,0,99.8,104.8,114.1,95.2
+Nevada,Little Rock,2018,1,114.1,95.2,99.8,104.8
+Coppin State,Rider,2018,0,88.6,109.1,101.3,105.8
+Rider,Coppin State,2018,1,101.3,105.8,88.6,109.1
+Winthrop,Kentucky,2018,0,106.4,107.7,118.3,90.9
+Kentucky,Winthrop,2018,1,118.3,90.9,106.4,107.7
+Oral Roberts,Oakland,2018,0,103.4,114.1,107.4,109.5
+Oakland,Oral Roberts,2018,1,107.4,109.5,103.4,114.1
+Jackson State,San Diego State,2018,0,89.8,104.7,103.8,98.8
+San Diego State,Jackson State,2018,1,103.8,98.8,89.8,104.7
+Evansville,Arkansas State,2018,0,99.4,104.7,102.3,110
+Arkansas State,Evansville,2018,1,102.3,110,99.4,104.7
+Portland,Portland State,2018,0,94.3,110,101.6,112
+Portland State,Portland,2018,1,101.6,112,94.3,110
+Oakland,Hartford,2018,0,107.4,109.5,108.4,110.6
+Hartford,Oakland,2018,1,108.4,110.6,107.4,109.5
+Kennesaw State,Georgia Tech,2018,0,91.8,110.7,101.8,96
+Georgia Tech,Kennesaw State,2018,1,101.8,96,91.8,110.7
+Winthrop,Florida State,2018,0,106.4,107.7,113,90.5
+Florida State,Winthrop,2018,1,113,90.5,106.4,107.7
+Clemson,Duke,2018,0,109,91.5,120.1,88.2
+Duke,Clemson,2018,1,120.1,88.2,109,91.5
+Air Force,Colorado State,2018,0,100.5,107.4,107.5,108.7
+Colorado State,Air Force,2018,1,107.5,108.7,100.5,107.4
+UNC Wilmington,Hofstra,2018,0,105.4,114.4,116.3,108.7
+Hofstra,UNC Wilmington,2018,1,116.3,108.7,105.4,114.4
+Wake Forest,Virginia Tech,2018,0,104.6,104.9,118.5,94.1
+Virginia Tech,Wake Forest,2018,1,118.5,94.1,104.6,104.9
+Hampton,Gardner-Webb,2018,0,107.5,110.1,107.6,108.3
+Gardner-Webb,Hampton,2018,1,107.6,108.3,107.5,110.1
+Colorado State,Utah State,2018,0,107.5,108.7,113,96.4
+Utah State,Colorado State,2018,1,113,96.4,107.5,108.7
+Florida State,Boston College,2018,0,113,90.5,107.6,102.4
+Boston College,Florida State,2018,1,107.6,102.4,113,90.5
+Toledo,Kent State,2018,0,110.1,98.1,109.7,106.8
+Kent State,Toledo,2018,1,109.7,106.8,110.1,98.1
+Incarnate Word,Lamar,2018,0,97.5,120.3,103.1,107.7
+Lamar,Incarnate Word,2018,1,103.1,107.7,97.5,120.3
+Green Bay,Northern Ky.,2018,0,103,106.5,109.4,102.7
+Northern Ky.,Green Bay,2018,1,109.4,102.7,103,106.5
+Green Bay,Wright State,2018,0,103,106.5,106.7,102
+Wright State,Green Bay,2018,1,106.7,102,103,106.5
+Lehigh,Bucknell,2018,0,108.7,109.5,105.5,103.7
+Bucknell,Lehigh,2018,1,105.5,103.7,108.7,109.5
+Hampton,Campbell,2018,0,107.5,110.1,107.8,109.9
+Campbell,Hampton,2018,1,107.8,109.9,107.5,110.1
+Grand Canyon,UMKC,2018,0,108.1,102,101,107.2
+UMKC,Grand Canyon,2018,1,101,107.2,108.1,102
+Hofstra,UNC Wilmington,2018,0,116.3,108.7,105.4,114.4
+UNC Wilmington,Hofstra,2018,1,105.4,114.4,116.3,108.7
+Winthrop,Radford,2018,0,106.4,107.7,108.7,104.3
+Radford,Winthrop,2018,1,108.7,104.3,106.4,107.7
+Cleveland State,Wright State,2018,0,101.6,111.6,106.7,102
+Wright State,Cleveland State,2018,1,106.7,102,101.6,111.6
+Gardner-Webb,High Point,2018,0,107.6,108.3,99.2,104.7
+High Point,Gardner-Webb,2018,1,99.2,104.7,107.6,108.3
+Canisius,Iona,2018,0,101.5,111.4,106.5,109.7
+Iona,Canisius,2018,1,106.5,109.7,101.5,111.4
+Robert Morris,Sacred Heart,2018,0,95.9,104.2,104.2,110.7
+Sacred Heart,Robert Morris,2018,1,104.2,110.7,95.9,104.2
+IUPUI,Detroit,2018,0,103.4,105.8,106.2,112.6
+Detroit,IUPUI,2018,1,106.2,112.6,103.4,105.8
+San Diego,BYU,2018,0,105.5,98.1,111.7,104.1
+BYU,San Diego,2018,1,111.7,104.1,105.5,98.1
+Indiana State,Ball State,2018,0,101.1,105.2,102.4,98.3
+Ball State,Indiana State,2018,1,102.4,98.3,101.1,105.2
+Idaho,UC-Irvine,2018,0,94.9,118.8,106.7,97.2
+UC-Irvine,Idaho,2018,1,106.7,97.2,94.9,118.8
+BYU,Nevada,2018,0,111.7,104.1,114.1,95.2
+Nevada,BYU,2018,1,114.1,95.2,111.7,104.1
+Tennessee State,Lipscomb,2018,0,98.6,109.5,111,97.2
+Lipscomb,Tennessee State,2018,1,111,97.2,98.6,109.5
+Quinnipiac,Villanova,2018,0,105.3,111.5,116.9,98.4
+Villanova,Quinnipiac,2018,1,116.9,98.4,105.3,111.5
+Milwaukee,FIU,2018,0,98.3,109.5,102,105.2
+FIU,Milwaukee,2018,1,102,105.2,98.3,109.5
+Vermont,Louisville,2018,0,108,99.3,113.4,92.5
+Louisville,Vermont,2018,1,113.4,92.5,108,99.3
+Army,Brown,2018,0,96.2,103,98.7,96.9
+Brown,Army,2018,1,98.7,96.9,96.2,103
+Chicago State,Bradley,2018,0,90.3,118.3,101,101.4
+Bradley,Chicago State,2018,1,101,101.4,90.3,118.3
+Alabama State,Akron,2018,0,94.6,111.1,99.9,93.8
+Akron,Alabama State,2018,1,99.9,93.8,94.6,111.1
+Wyoming,Evansville,2018,0,95,108.7,99.4,104.7
+Evansville,Wyoming,2018,1,99.4,104.7,95,108.7
+Colorado State,Colorado,2018,0,107.5,108.7,107,96.5
+Colorado,Colorado State,2018,1,107,96.5,107.5,108.7
+Green Bay,Creighton,2018,0,103,106.5,112.9,99.6
+Creighton,Green Bay,2018,1,112.9,99.6,103,106.5
+Alabama State,Utah State,2018,0,94.6,111.1,113,96.4
+Utah State,Alabama State,2018,1,113,96.4,94.6,111.1
+Denver,UC-Irvine,2018,0,99.8,112.9,106.7,97.2
+UC-Irvine,Denver,2018,1,106.7,97.2,99.8,112.9
+UNC Wilmington,Georgia State,2018,0,105.4,114.4,108,102.4
+Georgia State,UNC Wilmington,2018,1,108,102.4,105.4,114.4
+Cornell,Toledo,2018,0,99.8,104.8,110.1,98.1
+Toledo,Cornell,2018,1,110.1,98.1,99.8,104.8
+Lafayette,Lehigh,2018,0,101.4,112.7,108.7,109.5
+Lehigh,Lafayette,2018,1,108.7,109.5,101.4,112.7
+Iowa,Purdue,2018,0,117.2,101.3,121.1,95.1
+Purdue,Iowa,2018,1,121.1,95.1,117.2,101.3
+Nicholls State,McNeese State,2018,0,98.7,111.4,98.1,114.6
+McNeese State,Nicholls State,2018,1,98.1,114.6,98.7,111.4
+Charleston,Hofstra,2018,0,108.5,103.4,116.3,108.7
+Hofstra,Charleston,2018,1,116.3,108.7,108.5,103.4
+Kennesaw State,Lipscomb,2018,0,91.8,110.7,111,97.2
+Lipscomb,Kennesaw State,2018,1,111,97.2,91.8,110.7
+Vanderbilt,Oklahoma,2018,0,102.1,101.2,109.5,94
+Oklahoma,Vanderbilt,2018,1,109.5,94,102.1,101.2
+Troy,Louisiana,2018,0,102.9,110.3,106.6,107.8
+Louisiana,Troy,2018,1,106.6,107.8,102.9,110.3
+Marist,Rider,2018,0,100.1,109.6,101.3,105.8
+Rider,Marist,2018,1,101.3,105.8,100.1,109.6
+Binghamton,Hartford,2018,0,95.9,112.7,108.4,110.6
+Hartford,Binghamton,2018,1,108.4,110.6,95.9,112.7
+Illinois,Minnesota,2018,0,109.1,100.7,110.7,96.3
+Minnesota,Illinois,2018,1,110.7,96.3,109.1,100.7
+San Francisco,Saint Mary's,2018,0,111.8,101.9,114.7,97.1
+Saint Mary's,San Francisco,2018,1,114.7,97.1,111.8,101.9
+Hartford,Stony Brook,2018,0,108.4,110.6,99.2,99.9
+Stony Brook,Hartford,2018,1,99.2,99.9,108.4,110.6
+Maine,Vermont,2018,0,93.1,111.8,108,99.3
+Vermont,Maine,2018,1,108,99.3,93.1,111.8
+Idaho,Montana State,2018,0,94.9,118.8,107.5,115.2
+Montana State,Idaho,2018,1,107.5,115.2,94.9,118.8
+Jacksonville,Lipscomb,2018,0,98.8,106.2,111,97.2
+Lipscomb,Jacksonville,2018,1,111,97.2,98.8,106.2
+Rice,FIU,2018,0,103,110.4,102,105.2
+FIU,Rice,2018,1,102,105.2,103,110.4
+Baylor,Texas Tech,2018,0,113.6,98.3,112.8,86
+Texas Tech,Baylor,2018,1,112.8,86,113.6,98.3
+Tennessee,Kentucky,2018,0,122.6,95.6,118.3,90.9
+Kentucky,Tennessee,2018,1,118.3,90.9,122.6,95.6
+Longwood,Hampton,2018,0,96.3,106.6,107.5,110.1
+Hampton,Longwood,2018,1,107.5,110.1,96.3,106.6
+Charleston,William & Mary,2018,0,108.5,103.4,103.4,108.1
+William & Mary,Charleston,2018,1,103.4,108.1,108.5,103.4
+Portland,Pepperdine,2018,0,94.3,110,106.7,105.4
+Pepperdine,Portland,2018,1,106.7,105.4,94.3,110
+Ohio State,Purdue,2018,0,109.3,94.3,121.1,95.1
+Purdue,Ohio State,2018,1,121.1,95.1,109.3,94.3
+Iowa State,Texas,2018,0,119.1,97.3,114.1,96.5
+Texas,Iowa State,2018,1,114.1,96.5,119.1,97.3
+McNeese State,Houston Baptist,2018,0,98.1,114.6,102.9,112.6
+Houston Baptist,McNeese State,2018,1,102.9,112.6,98.1,114.6
+Kennesaw State,Lipscomb,2018,0,91.8,110.7,111,97.2
+Lipscomb,Kennesaw State,2018,1,111,97.2,91.8,110.7
+Hampton,Campbell,2018,0,107.5,110.1,107.8,109.9
+Campbell,Hampton,2018,1,107.8,109.9,107.5,110.1
+Presbyterian,Charleston,2018,0,109.1,111.1,108.5,103.4
+Charleston,Presbyterian,2018,1,108.5,103.4,109.1,111.1
+Coppin State,Wisconsin,2018,0,88.6,109.1,110.9,87.3
+Wisconsin,Coppin State,2018,1,110.9,87.3,88.6,109.1
+Nicholls State,Louisville,2018,0,98.7,111.4,113.4,92.5
+Louisville,Nicholls State,2018,1,113.4,92.5,98.7,111.4
+Texas Southern,Iowa State,2018,0,104,108.6,119.1,97.3
+Iowa State,Texas Southern,2018,1,119.1,97.3,104,108.6
+Memphis,LSU,2018,0,109,97.7,118.6,97.5
+LSU,Memphis,2018,1,118.6,97.5,109,97.7
+Oral Roberts,BYU,2018,0,103.4,114.1,111.7,104.1
+BYU,Oral Roberts,2018,1,111.7,104.1,103.4,114.1
+Texas Southern,Evansville,2018,0,104,108.6,99.4,104.7
+Evansville,Texas Southern,2018,1,99.4,104.7,104,108.6
+Austin Peay,Ohio,2018,0,110.8,106.7,98.7,100.2
+Ohio,Austin Peay,2018,1,98.7,100.2,110.8,106.7
+Bradley,IUPUI,2018,0,101,101.4,103.4,105.8
+IUPUI,Bradley,2018,1,103.4,105.8,101,101.4
+Houston Baptist,Louisiana Tech,2018,0,102.9,112.6,104.8,101.8
+Louisiana Tech,Houston Baptist,2018,1,104.8,101.8,102.9,112.6
+Nebraska,Minnesota,2018,0,112.6,97.2,110.7,96.3
+Minnesota,Nebraska,2018,1,110.7,96.3,112.6,97.2
+Portland State,BYU,2018,0,101.6,112,111.7,104.1
+BYU,Portland State,2018,1,111.7,104.1,101.6,112
+Houston Baptist,Samford,2018,0,102.9,112.6,106.7,104.4
+Samford,Houston Baptist,2018,1,106.7,104.4,102.9,112.6
+Bucknell,Saint Mary's,2018,0,105.5,103.7,114.7,97.1
+Saint Mary's,Bucknell,2018,1,114.7,97.1,105.5,103.7
+Chattanooga,UNC Greensboro,2018,0,101.6,109.4,106.6,97.9
+UNC Greensboro,Chattanooga,2018,1,106.6,97.9,101.6,109.4
+Wichita State,Memphis,2018,0,106,98.5,109,97.7
+Memphis,Wichita State,2018,1,109,97.7,106,98.5
+Baylor,TCU,2018,0,113.6,98.3,110.4,96.3
+TCU,Baylor,2018,1,110.4,96.3,113.6,98.3
+Nevada,New Mexico,2018,0,114.1,95.2,104,105.6
+New Mexico,Nevada,2018,1,104,105.6,114.1,95.2
+Texas A&M,Kentucky,2018,0,107,99.5,118.3,90.9
+Kentucky,Texas A&M,2018,1,118.3,90.9,107,99.5
+Arizona State,Stanford,2018,0,109.9,98.6,103.4,98.2
+Stanford,Arizona State,2018,1,103.4,98.2,109.9,98.6
+Missouri,South Carolina,2018,0,106.8,97,108,98.3
+South Carolina,Missouri,2018,1,108,98.3,106.8,97
+Hampton,Presbyterian,2018,0,107.5,110.1,109.1,111.1
+Presbyterian,Hampton,2018,1,109.1,111.1,107.5,110.1
+Xavier,Villanova,2018,0,110.9,100.6,116.9,98.4
+Villanova,Xavier,2018,1,116.9,98.4,110.9,100.6
+Illinois State,Bradley,2018,0,101.2,104.6,101,101.4
+Bradley,Illinois State,2018,1,101,101.4,101.2,104.6
+Memphis,Temple,2018,0,109,97.7,108.6,99.6
+Temple,Memphis,2018,1,108.6,99.6,109,97.7
+Tulane,SMU,2018,0,96.6,107.4,112,106.8
+SMU,Tulane,2018,1,112,106.8,96.6,107.4
+SMU,Wichita State,2018,0,112,106.8,106,98.5
+Wichita State,SMU,2018,1,106,98.5,112,106.8
+Hampton,High Point,2018,0,107.5,110.1,99.2,104.7
+High Point,Hampton,2018,1,99.2,104.7,107.5,110.1
+San Diego,Gonzaga,2018,0,105.5,98.1,125.2,92.5
+Gonzaga,San Diego,2018,1,125.2,92.5,105.5,98.1
+Evansville,Indiana State,2018,0,99.4,104.7,101.1,105.2
+Indiana State,Evansville,2018,1,101.1,105.2,99.4,104.7
+FIU,UTEP,2018,0,102,105.2,89.9,101.2
+UTEP,FIU,2018,1,89.9,101.2,102,105.2
+Providence,Villanova,2018,0,105,95.8,116.9,98.4
+Villanova,Providence,2018,1,116.9,98.4,105,95.8
+Oral Roberts,North Dakota St.,2018,0,103.4,114.1,106.7,109.8
+North Dakota St.,Oral Roberts,2018,1,106.7,109.8,103.4,114.1
+George Washington,Duquesne,2018,0,95.2,106,104.4,105.3
+Duquesne,George Washington,2018,1,104.4,105.3,95.2,106
+Oral Roberts,North Dakota,2018,0,103.4,114.1,97.4,106.2
+North Dakota,Oral Roberts,2018,1,97.4,106.2,103.4,114.1
+Villanova,Georgetown,2018,0,116.9,98.4,109.2,101.9
+Georgetown,Villanova,2018,1,109.2,101.9,116.9,98.4
+George Washington,VCU,2018,0,95.2,106,104.3,88.7
+VCU,George Washington,2018,1,104.3,88.7,95.2,106
+Oklahoma State,Kansas State,2018,0,108.9,101.4,108,87.8
+Kansas State,Oklahoma State,2018,1,108,87.8,108.9,101.4
+Idaho,Southern Utah,2018,0,94.9,118.8,96.5,106.5
+Southern Utah,Idaho,2018,1,96.5,106.5,94.9,118.8
+Boise State,UNLV,2018,0,107.2,104,105.9,106.1
+UNLV,Boise State,2018,1,105.9,106.1,107.2,104
+Duquesne,Saint Louis,2018,0,104.4,105.3,102.5,96.4
+Saint Louis,Duquesne,2018,1,102.5,96.4,104.4,105.3
+West Virginia,Oklahoma State,2018,0,109.1,101.9,108.9,101.4
+Oklahoma State,West Virginia,2018,1,108.9,101.4,109.1,101.9
+Rider,UCF,2018,0,101.3,105.8,110.5,95.8
+UCF,Rider,2018,1,110.5,95.8,101.3,105.8
+Oral Roberts,Missouri State,2018,0,103.4,114.1,103,103.9
+Missouri State,Oral Roberts,2018,1,103,103.9,103.4,114.1
+Portland State,Oregon,2018,0,101.6,112,107.8,92.6
+Oregon,Portland State,2018,1,107.8,92.6,101.6,112
+William & Mary,Duquesne,2018,0,103.4,108.1,104.4,105.3
+Duquesne,William & Mary,2018,1,104.4,105.3,103.4,108.1
+Morehead State,Syracuse,2018,0,102.4,109.9,110.2,94
+Syracuse,Morehead State,2018,1,110.2,94,102.4,109.9
+Ball State,Purdue,2018,0,102.4,98.3,121.1,95.1
+Purdue,Ball State,2018,1,121.1,95.1,102.4,98.3
+Lamar,East Carolina,2018,0,103.1,107.7,98,107
+East Carolina,Lamar,2018,1,98,107,103.1,107.7
+Detroit,Butler,2018,0,106.2,112.6,110.8,101.1
+Butler,Detroit,2018,1,110.8,101.1,106.2,112.6
+Vermont,Kansas,2018,0,108,99.3,112.8,92.1
+Kansas,Vermont,2018,1,112.8,92.1,108,99.3
+Toledo,Wright State,2018,0,110.1,98.1,106.7,102
+Wright State,Toledo,2018,1,106.7,102,110.1,98.1
+Robert Morris,Purdue,2018,0,95.9,104.2,121.1,95.1
+Purdue,Robert Morris,2018,1,121.1,95.1,95.9,104.2
+Dartmouth,San Francisco,2018,0,103.3,108,111.8,101.9
+San Francisco,Dartmouth,2018,1,111.8,101.9,103.3,108
+UTEP,New Mexico,2018,0,89.9,101.2,104,105.6
+New Mexico,UTEP,2018,1,104,105.6,89.9,101.2
+Bryant,Brown,2018,0,99.4,114.8,98.7,96.9
+Brown,Bryant,2018,1,98.7,96.9,99.4,114.8
+Kennesaw State,Georgia,2018,0,91.8,110.7,105.9,101.7
+Georgia,Kennesaw State,2018,1,105.9,101.7,91.8,110.7
+William & Mary,Marshall,2018,0,103.4,108.1,107.4,107.6
+Marshall,William & Mary,2018,1,107.4,107.6,103.4,108.1
+UNC,Michigan,2018,0,119.9,90.8,115.6,86.2
+Michigan,UNC,2018,1,115.6,86.2,119.9,90.8
+California,Saint Mary's,2018,0,103,110.2,114.7,97.1
+Saint Mary's,California,2018,1,114.7,97.1,103,110.2
+Hartford,Duke,2018,0,108.4,110.6,120.1,88.2
+Duke,Hartford,2018,1,120.1,88.2,108.4,110.6
+Oral Roberts,Wichita State,2018,0,103.4,114.1,106,98.5
+Wichita State,Oral Roberts,2018,1,106,98.5,103.4,114.1
+Navy,George Mason,2018,0,97.2,107.1,104.4,103.8
+George Mason,Navy,2018,1,104.4,103.8,97.2,107.1
+Southern,Marquette,2018,0,93.7,112.2,114.1,95.9
+Marquette,Southern,2018,1,114.1,95.9,93.7,112.2
+New Orleans,Baylor,2018,0,97,104.7,113.6,98.3
+Baylor,New Orleans,2018,1,113.6,98.3,97,104.7
+UC-Irvine,Pacific,2018,0,106.7,97.2,99.8,104.3
+Pacific,UC-Irvine,2018,1,99.8,104.3,106.7,97.2
+Lipscomb,Clemson,2018,0,111,97.2,109,91.5
+Clemson,Lipscomb,2018,1,109,91.5,111,97.2
+Creighton,Butler,2018,0,112.9,99.6,110.8,101.1
+Butler,Creighton,2018,1,110.8,101.1,112.9,99.6
+Utah,Arizona,2018,0,114.3,108.9,105,98.2
+Arizona,Utah,2018,1,105,98.2,114.3,108.9
+FIU,UAB,2018,0,102,105.2,106.5,104.6
+UAB,FIU,2018,1,106.5,104.6,102,105.2
+Wyoming,San Diego State,2018,0,95,108.7,103.8,98.8
+San Diego State,Wyoming,2018,1,103.8,98.8,95,108.7
+Colgate,Bucknell,2018,0,110.1,105.8,105.5,103.7
+Bucknell,Colgate,2018,1,105.5,103.7,110.1,105.8
+Cal Baptist,UMKC,2018,0,106.7,109.3,101,107.2
+UMKC,Cal Baptist,2018,1,101,107.2,106.7,109.3
+Arkansas,Ole Miss,2018,0,110.3,97.3,112.9,97.7
+Ole Miss,Arkansas,2018,1,112.9,97.7,110.3,97.3
+Saint Mary's,Pepperdine,2018,0,114.7,97.1,106.7,105.4
+Pepperdine,Saint Mary's,2018,1,106.7,105.4,114.7,97.1
+TCU,Texas Tech,2018,0,110.4,96.3,112.8,86
+Texas Tech,TCU,2018,1,112.8,86,110.4,96.3
+Memphis,South Florida,2018,0,109,97.7,102.4,97.3
+South Florida,Memphis,2018,1,102.4,97.3,109,97.7
+Delaware,William & Mary,2018,0,104.8,112.9,103.4,108.1
+William & Mary,Delaware,2018,1,103.4,108.1,104.8,112.9
+Alabama,Auburn,2018,0,108.2,96.7,119.7,96.3
+Auburn,Alabama,2018,1,119.7,96.3,108.2,96.7
+Alabama A&M,Texas Southern,2018,0,86.5,109.3,104,108.6
+Texas Southern,Alabama A&M,2018,1,104,108.6,86.5,109.3
+Oklahoma State,Kansas,2018,0,108.9,101.4,112.8,92.1
+Kansas,Oklahoma State,2018,1,112.8,92.1,108.9,101.4
+Arkansas State,Troy,2018,0,102.3,110,102.9,110.3
+Troy,Arkansas State,2018,1,102.9,110.3,102.3,110
+La Salle,George Mason,2018,0,99.9,105.1,104.4,103.8
+George Mason,La Salle,2018,1,104.4,103.8,99.9,105.1
+Utah Valley,New Mexico St.,2018,0,108.9,102.1,112.7,99.1
+New Mexico St.,Utah Valley,2018,1,112.7,99.1,108.9,102.1
+Texas A&M,South Carolina,2018,0,107,99.5,108,98.3
+South Carolina,Texas A&M,2018,1,108,98.3,107,99.5
+Indiana,Minnesota,2018,0,110.2,95.1,110.7,96.3
+Minnesota,Indiana,2018,1,110.7,96.3,110.2,95.1
+Valparaiso,Drake,2018,0,98.1,102.9,107.1,102.7
+Drake,Valparaiso,2018,1,107.1,102.7,98.1,102.9
+UNC Wilmington,Elon,2018,0,105.4,114.4,99,111.1
+Elon,UNC Wilmington,2018,1,99,111.1,105.4,114.4
+Tulsa,Temple,2018,0,104.7,100.5,108.6,99.6
+Temple,Tulsa,2018,1,108.6,99.6,104.7,100.5
+Oklahoma State,Texas Tech,2018,0,108.9,101.4,112.8,86
+Texas Tech,Oklahoma State,2018,1,112.8,86,108.9,101.4
+Texas,Baylor,2018,0,114.1,96.5,113.6,98.3
+Baylor,Texas,2018,1,113.6,98.3,114.1,96.5
+Mercer,VMI,2018,0,103.6,106.2,102.3,112.3
+VMI,Mercer,2018,1,102.3,112.3,103.6,106.2
+San Jose State,San Diego State,2018,0,91.8,113.7,103.8,98.8
+San Diego State,San Jose State,2018,1,103.8,98.8,91.8,113.7
+Wagner,Fairl. Dickinson,2018,0,93.9,107.1,106.7,110.5
+Fairl. Dickinson,Wagner,2018,1,106.7,110.5,93.9,107.1
+Bowling Green,Buffalo,2018,0,108.3,102.1,115,94.6
+Buffalo,Bowling Green,2018,1,115,94.6,108.3,102.1
+Tennessee,Auburn,2018,0,122.6,95.6,119.7,96.3
+Auburn,Tennessee,2018,1,119.7,96.3,122.6,95.6
+Montana State,Portland State,2018,0,107.5,115.2,101.6,112
+Portland State,Montana State,2018,1,101.6,112,107.5,115.2
+Binghamton,Vermont,2018,0,95.9,112.7,108,99.3
+Vermont,Binghamton,2018,1,108,99.3,95.9,112.7
+Campbell,UNC Greensboro,2018,0,107.8,109.9,106.6,97.9
+UNC Greensboro,Campbell,2018,1,106.6,97.9,107.8,109.9
+Cleveland State,Davidson,2018,0,101.6,111.6,108,100.2
+Davidson,Cleveland State,2018,1,108,100.2,101.6,111.6
+Weber State,San Diego,2018,0,101.4,106.5,105.5,98.1
+San Diego,Weber State,2018,1,105.5,98.1,101.4,106.5
+Robert Morris,USC,2018,0,95.9,104.2,109.3,101.6
+USC,Robert Morris,2018,1,109.3,101.6,95.9,104.2
+Detroit,Temple,2018,0,106.2,112.6,108.6,99.6
+Temple,Detroit,2018,1,108.6,99.6,106.2,112.6
+Pacific,Nevada,2018,0,99.8,104.3,114.1,95.2
+Nevada,Pacific,2018,1,114.1,95.2,99.8,104.3
+Wyoming,Oregon State,2018,0,95,108.7,111.2,103.3
+Oregon State,Wyoming,2018,1,111.2,103.3,95,108.7
+Stetson,Missouri State,2018,0,97.6,113.3,103,103.9
+Missouri State,Stetson,2018,1,103,103.9,97.6,113.3
+Ole Miss,Butler,2018,0,112.9,97.7,110.8,101.1
+Butler,Ole Miss,2018,1,110.8,101.1,112.9,97.7
+Bryant,Navy,2018,0,99.4,114.8,97.2,107.1
+Navy,Bryant,2018,1,97.2,107.1,99.4,114.8
+Green Bay,Oregon,2018,0,103,106.5,107.8,92.6
+Oregon,Green Bay,2018,1,107.8,92.6,103,106.5
+Chattanooga,Michigan,2018,0,101.6,109.4,115.6,86.2
+Michigan,Chattanooga,2018,1,115.6,86.2,101.6,109.4
+Fairfield,Seattle,2018,0,95.8,107.3,100.8,102.3
+Seattle,Fairfield,2018,1,100.8,102.3,95.8,107.3
+Boise State,Drake,2018,0,107.2,104,107.1,102.7
+Drake,Boise State,2018,1,107.1,102.7,107.2,104
+Cleveland State,DePaul,2018,0,101.6,111.6,110.7,104.5
+DePaul,Cleveland State,2018,1,110.7,104.5,101.6,111.6
+Oklahoma State,Minnesota,2018,0,108.9,101.4,110.7,96.3
+Minnesota,Oklahoma State,2018,1,110.7,96.3,108.9,101.4
+Kansas State,Marquette,2018,0,108,87.8,114.1,95.9
+Marquette,Kansas State,2018,1,114.1,95.9,108,87.8
+Texas Southern,Arizona State,2018,0,104,108.6,109.9,98.6
+Arizona State,Texas Southern,2018,1,109.9,98.6,104,108.6
+Morgan State,Virginia,2018,0,92.6,110.6,123.6,88.1
+Virginia,Morgan State,2018,1,123.6,88.1,92.6,110.6
+Troy,Florida State,2018,0,102.9,110.3,113,90.5
+Florida State,Troy,2018,1,113,90.5,102.9,110.3
+Campbell,Abilene Christ.,2018,0,107.8,109.9,103.7,101.6
+Abilene Christ.,Campbell,2018,1,103.7,101.6,107.8,109.9
+Wright State,Kent State,2018,0,106.7,102,109.7,106.8
+Kent State,Wright State,2018,1,109.7,106.8,106.7,102
+VMI,Chattanooga,2018,0,102.3,112.3,101.6,109.4
+Chattanooga,VMI,2018,1,101.6,109.4,102.3,112.3
+Milwaukee,North Dakota,2018,0,98.3,109.5,97.4,106.2
+North Dakota,Milwaukee,2018,1,97.4,106.2,98.3,109.5
+Kent State,Louisville,2018,0,109.7,106.8,113.4,92.5
+Louisville,Kent State,2018,1,113.4,92.5,109.7,106.8
+Creighton,Oklahoma,2018,0,112.9,99.6,109.5,94
+Oklahoma,Creighton,2018,1,109.5,94,112.9,99.6
+Samford,Tennessee,2018,0,106.7,104.4,122.6,95.6
+Tennessee,Samford,2018,1,122.6,95.6,106.7,104.4
+Alcorn State,South Florida,2018,0,88.8,113.5,102.4,97.3
+South Florida,Alcorn State,2018,1,102.4,97.3,88.8,113.5
+Wake Forest,Tennessee,2018,0,104.6,104.9,122.6,95.6
+Tennessee,Wake Forest,2018,1,122.6,95.6,104.6,104.9
+Pacific,Boise State,2018,0,99.8,104.3,107.2,104
+Boise State,Pacific,2018,1,107.2,104,99.8,104.3
+Delaware State,Weber State,2018,0,84.3,113.9,101.4,106.5
+Weber State,Delaware State,2018,1,101.4,106.5,84.3,113.9
+Norfolk State,Niagara,2018,0,97.6,106,101.6,115.2
+Niagara,Norfolk State,2018,1,101.6,115.2,97.6,106
+Cornell,Wake Forest,2018,0,99.8,104.8,104.6,104.9
+Wake Forest,Cornell,2018,1,104.6,104.9,99.8,104.8
+Cleveland State,Milwaukee,2018,0,101.6,111.6,98.3,109.5
+Milwaukee,Cleveland State,2018,1,98.3,109.5,101.6,111.6
+North Dakota,Oral Roberts,2018,0,97.4,106.2,103.4,114.1
+Oral Roberts,North Dakota,2018,1,103.4,114.1,97.4,106.2
+Colorado,Arizona State,2018,0,107,96.5,109.9,98.6
+Arizona State,Colorado,2018,1,109.9,98.6,107,96.5
+UNC Asheville,Hampton,2018,0,92.9,117,107.5,110.1
+Hampton,UNC Asheville,2018,1,107.5,110.1,92.9,117
+Portland State,Southern Utah,2018,0,101.6,112,96.5,106.5
+Southern Utah,Portland State,2018,1,96.5,106.5,101.6,112
+SMU,Memphis,2018,0,112,106.8,109,97.7
+Memphis,SMU,2018,1,109,97.7,112,106.8
+Wyoming,New Mexico,2018,0,95,108.7,104,105.6
+New Mexico,Wyoming,2018,1,104,105.6,95,108.7
+UTSA,UAB,2018,0,105.8,104.1,106.5,104.6
+UAB,UTSA,2018,1,106.5,104.6,105.8,104.1
+Iona,Monmouth,2018,0,106.5,109.7,93,103.9
+Monmouth,Iona,2018,1,93,103.9,106.5,109.7
+Portland,San Francisco,2018,0,94.3,110,111.8,101.9
+San Francisco,Portland,2018,1,111.8,101.9,94.3,110
+West Virginia,Tennessee,2018,0,109.1,101.9,122.6,95.6
+Tennessee,West Virginia,2018,1,122.6,95.6,109.1,101.9
+Ball State,Buffalo,2018,0,102.4,98.3,115,94.6
+Buffalo,Ball State,2018,1,115,94.6,102.4,98.3
+Morehead State,SIU Edwardsville,2018,0,102.4,109.9,96.6,113
+SIU Edwardsville,Morehead State,2018,1,96.6,113,102.4,109.9
+Northern Ky.,IUPUI,2018,0,109.4,102.7,103.4,105.8
+IUPUI,Northern Ky.,2018,1,103.4,105.8,109.4,102.7
+Longwood,Campbell,2018,0,96.3,106.6,107.8,109.9
+Campbell,Longwood,2018,1,107.8,109.9,96.3,106.6
+Cleveland State,Oakland,2018,0,101.6,111.6,107.4,109.5
+Oakland,Cleveland State,2018,1,107.4,109.5,101.6,111.6
+Chicago State,New Mexico St.,2018,0,90.3,118.3,112.7,99.1
+New Mexico St.,Chicago State,2018,1,112.7,99.1,90.3,118.3
+Alabama State,Texas Southern,2018,0,94.6,111.1,104,108.6
+Texas Southern,Alabama State,2018,1,104,108.6,94.6,111.1
+San Diego State,New Mexico,2018,0,103.8,98.8,104,105.6
+New Mexico,San Diego State,2018,1,104,105.6,103.8,98.8
+Auburn,LSU,2018,0,119.7,96.3,118.6,97.5
+LSU,Auburn,2018,1,118.6,97.5,119.7,96.3
+Navy,Lehigh,2018,0,97.2,107.1,108.7,109.5
+Lehigh,Navy,2018,1,108.7,109.5,97.2,107.1
+Northern Iowa,Drake,2018,0,101.2,102.4,107.1,102.7
+Drake,Northern Iowa,2018,1,107.1,102.7,101.2,102.4
+Detroit,Wright State,2018,0,106.2,112.6,106.7,102
+Wright State,Detroit,2018,1,106.7,102,106.2,112.6
+Arizona,Utah,2018,0,105,98.2,114.3,108.9
+Utah,Arizona,2018,1,114.3,108.9,105,98.2
+USC Upstate,Longwood,2018,0,92.9,111.4,96.3,106.6
+Longwood,USC Upstate,2018,1,96.3,106.6,92.9,111.4
+Wyoming,Colorado State,2018,0,95,108.7,107.5,108.7
+Colorado State,Wyoming,2018,1,107.5,108.7,95,108.7
+Stetson,Kennesaw State,2018,0,97.6,113.3,91.8,110.7
+Kennesaw State,Stetson,2018,1,91.8,110.7,97.6,113.3
+Little Rock,Georgia State,2018,0,99.8,104.8,108,102.4
+Georgia State,Little Rock,2018,1,108,102.4,99.8,104.8
+Louisiana Tech,FIU,2018,0,104.8,101.8,102,105.2
+FIU,Louisiana Tech,2018,1,102,105.2,104.8,101.8
+USC,Utah,2018,0,109.3,101.6,114.3,108.9
+Utah,USC,2018,1,114.3,108.9,109.3,101.6
+Butler,Providence,2018,0,110.8,101.1,105,95.8
+Providence,Butler,2018,1,105,95.8,110.8,101.1
+Grand Canyon,Seattle,2018,0,108.1,102,100.8,102.3
+Seattle,Grand Canyon,2018,1,100.8,102.3,108.1,102
+McNeese State,Lamar,2018,0,98.1,114.6,103.1,107.7
+Lamar,McNeese State,2018,1,103.1,107.7,98.1,114.6
+Tulane,Memphis,2018,0,96.6,107.4,109,97.7
+Memphis,Tulane,2018,1,109,97.7,96.6,107.4
+Southern,Alabama,2018,0,93.7,112.2,108.2,96.7
+Alabama,Southern,2018,1,108.2,96.7,93.7,112.2
+IUPUI,Xavier,2018,0,103.4,105.8,110.9,100.6
+Xavier,IUPUI,2018,1,110.9,100.6,103.4,105.8
+New Orleans,Northwestern,2018,0,97,104.7,103,93.5
+Northwestern,New Orleans,2018,1,103,93.5,97,104.7
+Portland,Hawaii,2018,0,94.3,110,103.6,106.6
+Hawaii,Portland,2018,1,103.6,106.6,94.3,110
+Columbia,Marist,2018,0,101.8,106.3,100.1,109.6
+Marist,Columbia,2018,1,100.1,109.6,101.8,106.3
+Cal Poly,Arizona,2018,0,96.9,114.6,105,98.2
+Arizona,Cal Poly,2018,1,105,98.2,96.9,114.6
+La Salle,Florida,2018,0,99.9,105.1,110.3,91.9
+Florida,La Salle,2018,1,110.3,91.9,99.9,105.1
+UTSA,Oklahoma State,2018,0,105.8,104.1,108.9,101.4
+Oklahoma State,UTSA,2018,1,108.9,101.4,105.8,104.1
+Cal Baptist,Tulsa,2018,0,106.7,109.3,104.7,100.5
+Tulsa,Cal Baptist,2018,1,104.7,100.5,106.7,109.3
+Binghamton,Northwestern,2018,0,95.9,112.7,103,93.5
+Northwestern,Binghamton,2018,1,103,93.5,95.9,112.7
+Sacred Heart,Brown,2018,0,104.2,110.7,98.7,96.9
+Brown,Sacred Heart,2018,1,98.7,96.9,104.2,110.7
+Denver,Seattle,2018,0,99.8,112.9,100.8,102.3
+Seattle,Denver,2018,1,100.8,102.3,99.8,112.9
+Evansville,Ball State,2018,0,99.4,104.7,102.4,98.3
+Ball State,Evansville,2018,1,102.4,98.3,99.4,104.7
+Savannah State,Liberty,2018,0,96.3,116,110.6,99.6
+Liberty,Savannah State,2018,1,110.6,99.6,96.3,116
+Michigan State,Louisville,2018,0,121.8,90.5,113.4,92.5
+Louisville,Michigan State,2018,1,113.4,92.5,121.8,90.5
+Morgan State,George Mason,2018,0,92.6,110.6,104.4,103.8
+George Mason,Morgan State,2018,1,104.4,103.8,92.6,110.6
+Robert Morris,Drexel,2018,0,95.9,104.2,105.5,112.9
+Drexel,Robert Morris,2018,1,105.5,112.9,95.9,104.2
+Arkansas State,Lehigh,2018,0,102.3,110,108.7,109.5
+Lehigh,Arkansas State,2018,1,108.7,109.5,102.3,110
+Air Force,Pacific,2018,0,100.5,107.4,99.8,104.3
+Pacific,Air Force,2018,1,99.8,104.3,100.5,107.4
+Loyola Marymount,UCLA,2018,0,103.6,100.3,108.5,102.6
+UCLA,Loyola Marymount,2018,1,108.5,102.6,103.6,100.3
+South Dakota,Colorado,2018,0,100.4,106.1,107,96.5
+Colorado,South Dakota,2018,1,107,96.5,100.4,106.1
+Ohio,Xavier,2018,0,98.7,100.2,110.9,100.6
+Xavier,Ohio,2018,1,110.9,100.6,98.7,100.2
+Bowling Green,Cleveland State,2018,0,108.3,102.1,101.6,111.6
+Cleveland State,Bowling Green,2018,1,101.6,111.6,108.3,102.1
+Coppin State,Richmond,2018,0,88.6,109.1,106.8,110.1
+Richmond,Coppin State,2018,1,106.8,110.1,88.6,109.1
+Dayton,Auburn,2018,0,111.9,100.6,119.7,96.3
+Auburn,Dayton,2018,1,119.7,96.3,111.9,100.6
+Sacred Heart,Dartmouth,2018,0,104.2,110.7,103.3,108
+Dartmouth,Sacred Heart,2018,1,103.3,108,104.2,110.7
+Columbia,Boston College,2018,0,101.8,106.3,107.6,102.4
+Boston College,Columbia,2018,1,107.6,102.4,101.8,106.3
+LSU,Houston,2018,0,118.6,97.5,114.2,91.8
+Houston,LSU,2018,1,114.2,91.8,118.6,97.5
+Marist,Colgate,2018,0,100.1,109.6,110.1,105.8
+Colgate,Marist,2018,1,110.1,105.8,100.1,109.6
+Abilene Christ.,Texas Tech,2018,0,103.7,101.6,112.8,86
+Texas Tech,Abilene Christ.,2018,1,112.8,86,103.7,101.6
+Pepperdine,Oregon State,2018,0,106.7,105.4,111.2,103.3
+Oregon State,Pepperdine,2018,1,111.2,103.3,106.7,105.4
+Tennessee State,Akron,2018,0,98.6,109.5,99.9,93.8
+Akron,Tennessee State,2018,1,99.9,93.8,98.6,109.5
+Niagara,Cleveland State,2018,0,101.6,115.2,101.6,111.6
+Cleveland State,Niagara,2018,1,101.6,111.6,101.6,115.2
+Arkansas State,Syracuse,2018,0,102.3,110,110.2,94
+Syracuse,Arkansas State,2018,1,110.2,94,102.3,110
+Davidson,UNC,2018,0,108,100.2,119.9,90.8
+UNC,Davidson,2018,1,119.9,90.8,108,100.2
+High Point,Ohio State,2018,0,99.2,104.7,109.3,94.3
+Ohio State,High Point,2018,1,109.3,94.3,99.2,104.7
+Drake,Evansville,2018,0,107.1,102.7,99.4,104.7
+Evansville,Drake,2018,1,99.4,104.7,107.1,102.7
+East Carolina,SMU,2018,0,98,107,112,106.8
+SMU,East Carolina,2018,1,112,106.8,98,107
+New Mexico St.,Cal Baptist,2018,0,112.7,99.1,106.7,109.3
+Cal Baptist,New Mexico St.,2018,1,106.7,109.3,112.7,99.1
+California,USC,2018,0,103,110.2,109.3,101.6
+USC,California,2018,1,109.3,101.6,103,110.2
+Ohio,Bowling Green,2018,0,98.7,100.2,108.3,102.1
+Bowling Green,Ohio,2018,1,108.3,102.1,98.7,100.2
+Vanderbilt,Georgia,2018,0,102.1,101.2,105.9,101.7
+Georgia,Vanderbilt,2018,1,105.9,101.7,102.1,101.2
+Auburn,Ole Miss,2018,0,119.7,96.3,112.9,97.7
+Ole Miss,Auburn,2018,1,112.9,97.7,119.7,96.3
+South Florida,Temple,2018,0,102.4,97.3,108.6,99.6
+Temple,South Florida,2018,1,108.6,99.6,102.4,97.3
+South Florida,Cincinnati,2018,0,102.4,97.3,111.7,94.6
+Cincinnati,South Florida,2018,1,111.7,94.6,102.4,97.3
+Oregon State,Arizona,2018,0,111.2,103.3,105,98.2
+Arizona,Oregon State,2018,1,105,98.2,111.2,103.3
+BYU,San Francisco,2018,0,111.7,104.1,111.8,101.9
+San Francisco,BYU,2018,1,111.8,101.9,111.7,104.1
+UNC Asheville,Gardner-Webb,2018,0,92.9,117,107.6,108.3
+Gardner-Webb,UNC Asheville,2018,1,107.6,108.3,92.9,117
+UNLV,Utah State,2018,0,105.9,106.1,113,96.4
+Utah State,UNLV,2018,1,113,96.4,105.9,106.1
+New Mexico,Fresno State,2018,0,104,105.6,108.3,98.6
+Fresno State,New Mexico,2018,1,108.3,98.6,104,105.6
+Kennesaw State,Jacksonville,2018,0,91.8,110.7,98.8,106.2
+Jacksonville,Kennesaw State,2018,1,98.8,106.2,91.8,110.7
+USC Upstate,Campbell,2018,0,92.9,111.4,107.8,109.9
+Campbell,USC Upstate,2018,1,107.8,109.9,92.9,111.4
+Columbia,Dartmouth,2018,0,101.8,106.3,103.3,108
+Dartmouth,Columbia,2018,1,103.3,108,101.8,106.3
+SMU,Temple,2018,0,112,106.8,108.6,99.6
+Temple,SMU,2018,1,108.6,99.6,112,106.8
+Dartmouth,Penn,2018,0,103.3,108,104,99.8
+Penn,Dartmouth,2018,1,104,99.8,103.3,108
+Detroit,Green Bay,2018,0,106.2,112.6,103,106.5
+Green Bay,Detroit,2018,1,103,106.5,106.2,112.6
+Stetson,NJIT,2018,0,97.6,113.3,102.2,103.1
+NJIT,Stetson,2018,1,102.2,103.1,97.6,113.3
+Tennessee,LSU,2018,0,122.6,95.6,118.6,97.5
+LSU,Tennessee,2018,1,118.6,97.5,122.6,95.6
+West Virginia,Baylor,2018,0,109.1,101.9,113.6,98.3
+Baylor,West Virginia,2018,1,113.6,98.3,109.1,101.9
+Georgetown,Creighton,2018,0,109.2,101.9,112.9,99.6
+Creighton,Georgetown,2018,1,112.9,99.6,109.2,101.9
+San Jose State,Air Force,2018,0,91.8,113.7,100.5,107.4
+Air Force,San Jose State,2018,1,100.5,107.4,91.8,113.7
+DePaul,Georgetown,2018,0,110.7,104.5,109.2,101.9
+Georgetown,DePaul,2018,1,109.2,101.9,110.7,104.5
+Nebraska,Michigan,2018,0,112.6,97.2,115.6,86.2
+Michigan,Nebraska,2018,1,115.6,86.2,112.6,97.2
+Grand Canyon,Utah Valley,2018,0,108.1,102,108.9,102.1
+Utah Valley,Grand Canyon,2018,1,108.9,102.1,108.1,102
+Alabama,Arkansas,2018,0,108.2,96.7,110.3,97.3
+Arkansas,Alabama,2018,1,110.3,97.3,108.2,96.7
+Alabama State,Jackson State,2018,0,94.6,111.1,89.8,104.7
+Jackson State,Alabama State,2018,1,89.8,104.7,94.6,111.1
+Delaware State,East Carolina,2018,0,84.3,113.9,98,107
+East Carolina,Delaware State,2018,1,98,107,84.3,113.9
+Colgate,NJIT,2018,0,110.1,105.8,102.2,103.1
+NJIT,Colgate,2018,1,102.2,103.1,110.1,105.8
+Florida,Florida State,2018,0,110.3,91.9,113,90.5
+Florida State,Florida,2018,1,113,90.5,110.3,91.9
+Georgia State,Montana,2018,0,108,102.4,107.5,103.9
+Montana,Georgia State,2018,1,107.5,103.9,108,102.4
+Campbell,Ohio,2018,0,107.8,109.9,98.7,100.2
+Ohio,Campbell,2018,1,98.7,100.2,107.8,109.9
+Norfolk State,South Carolina,2018,0,97.6,106,108,98.3
+South Carolina,Norfolk State,2018,1,108,98.3,97.6,106
+Georgia,Temple,2018,0,105.9,101.7,108.6,99.6
+Temple,Georgia,2018,1,108.6,99.6,105.9,101.7
+Montana State,Colorado State,2018,0,107.5,115.2,107.5,108.7
+Colorado State,Montana State,2018,1,107.5,108.7,107.5,115.2
+Drexel,Bowling Green,2018,0,105.5,112.9,108.3,102.1
+Bowling Green,Drexel,2018,1,108.3,102.1,105.5,112.9
+North Dakota,Montana State,2018,0,97.4,106.2,107.5,115.2
+Montana State,North Dakota,2018,1,107.5,115.2,97.4,106.2
+Pacific,Fresno State,2018,0,99.8,104.3,108.3,98.6
+Fresno State,Pacific,2018,1,108.3,98.6,99.8,104.3
+Sacred Heart,Boston College,2018,0,104.2,110.7,107.6,102.4
+Boston College,Sacred Heart,2018,1,107.6,102.4,104.2,110.7
+Coppin State,James Madison,2018,0,88.6,109.1,101,110.8
+James Madison,Coppin State,2018,1,101,110.8,88.6,109.1
+Florida A&M,North Florida,2018,0,89,103.3,103.8,104.6
+North Florida,Florida A&M,2018,1,103.8,104.6,89,103.3
+Jackson State,Santa Clara,2018,0,89.8,104.7,101.8,103.8
+Santa Clara,Jackson State,2018,1,101.8,103.8,89.8,104.7
+North Dakota St.,Iowa State,2018,0,106.7,109.8,119.1,97.3
+Iowa State,North Dakota St.,2018,1,119.1,97.3,106.7,109.8
+Washington,Gonzaga,2018,0,107,93.7,125.2,92.5
+Gonzaga,Washington,2018,1,125.2,92.5,107,93.7
+Tulane,South Alabama,2018,0,96.6,107.4,103.1,107.5
+South Alabama,Tulane,2018,1,103.1,107.5,96.6,107.4
+Norfolk State,Rider,2018,0,97.6,106,101.3,105.8
+Rider,Norfolk State,2018,1,101.3,105.8,97.6,106
+Kennesaw State,Gardner-Webb,2018,0,91.8,110.7,107.6,108.3
+Gardner-Webb,Kennesaw State,2018,1,107.6,108.3,91.8,110.7
+USC,Oklahoma,2018,0,109.3,101.6,109.5,94
+Oklahoma,USC,2018,1,109.5,94,109.3,101.6
+Arizona State,Vanderbilt,2018,0,109.9,98.6,102.1,101.2
+Vanderbilt,Arizona State,2018,1,102.1,101.2,109.9,98.6
+Oakland,Georgia,2018,0,107.4,109.5,105.9,101.7
+Georgia,Oakland,2018,1,105.9,101.7,107.4,109.5
+Incarnate Word,DePaul,2018,0,97.5,120.3,110.7,104.5
+DePaul,Incarnate Word,2018,1,110.7,104.5,97.5,120.3
+Presbyterian,Dayton,2018,0,109.1,111.1,111.9,100.6
+Dayton,Presbyterian,2018,1,111.9,100.6,109.1,111.1
+Cornell,SMU,2018,0,99.8,104.8,112,106.8
+SMU,Cornell,2018,1,112,106.8,99.8,104.8
+Notre Dame,Virginia Tech,2018,0,108.3,100.8,118.5,94.1
+Virginia Tech,Notre Dame,2018,1,118.5,94.1,108.3,100.8
+Northwestern,Michigan State,2018,0,103,93.5,121.8,90.5
+Michigan State,Northwestern,2018,1,121.8,90.5,103,93.5
+Houston Baptist,New Orleans,2018,0,102.9,112.6,97,104.7
+New Orleans,Houston Baptist,2018,1,97,104.7,102.9,112.6
+Morehead State,Austin Peay,2018,0,102.4,109.9,110.8,106.7
+Austin Peay,Morehead State,2018,1,110.8,106.7,102.4,109.9
+Georgetown,Xavier,2018,0,109.2,101.9,110.9,100.6
+Xavier,Georgetown,2018,1,110.9,100.6,109.2,101.9
+North Florida,Lipscomb,2018,0,103.8,104.6,111,97.2
+Lipscomb,North Florida,2018,1,111,97.2,103.8,104.6
+Harvard,Dartmouth,2018,0,104.8,100.4,103.3,108
+Dartmouth,Harvard,2018,1,103.3,108,104.8,100.4
+Hartford,Vermont,2018,0,108.4,110.6,108,99.3
+Vermont,Hartford,2018,1,108,99.3,108.4,110.6
+USC,Oregon,2018,0,109.3,101.6,107.8,92.6
+Oregon,USC,2018,1,107.8,92.6,109.3,101.6
+Virginia Tech,Virginia,2018,0,118.5,94.1,123.6,88.1
+Virginia,Virginia Tech,2018,1,123.6,88.1,118.5,94.1
+Texas A&M,Florida,2018,0,107,99.5,110.3,91.9
+Florida,Texas A&M,2018,1,110.3,91.9,107,99.5
+Evansville,Northern Iowa,2018,0,99.4,104.7,101.2,102.4
+Northern Iowa,Evansville,2018,1,101.2,102.4,99.4,104.7
+North Florida,Kennesaw State,2018,0,103.8,104.6,91.8,110.7
+Kennesaw State,North Florida,2018,1,91.8,110.7,103.8,104.6
+Troy,South Alabama,2018,0,102.9,110.3,103.1,107.5
+South Alabama,Troy,2018,1,103.1,107.5,102.9,110.3
+West Virginia,Texas Tech,2018,0,109.1,101.9,112.8,86
+Texas Tech,West Virginia,2018,1,112.8,86,109.1,101.9
+George Mason,Richmond,2018,0,104.4,103.8,106.8,110.1
+Richmond,George Mason,2018,1,106.8,110.1,104.4,103.8
+Wyoming,Air Force,2018,0,95,108.7,100.5,107.4
+Air Force,Wyoming,2018,1,100.5,107.4,95,108.7
+Denver,North Dakota St.,2018,0,99.8,112.9,106.7,109.8
+North Dakota St.,Denver,2018,1,106.7,109.8,99.8,112.9
+Nebraska,Purdue,2018,0,112.6,97.2,121.1,95.1
+Purdue,Nebraska,2018,1,121.1,95.1,112.6,97.2
+Alabama,Mississippi St.,2018,0,108.2,96.7,117.5,96.7
+Mississippi St.,Alabama,2018,1,117.5,96.7,108.2,96.7
+Maine,Hartford,2018,0,93.1,111.8,108.4,110.6
+Hartford,Maine,2018,1,108.4,110.6,93.1,111.8
+Richmond,VCU,2018,0,106.8,110.1,104.3,88.7
+VCU,Richmond,2018,1,104.3,88.7,106.8,110.1
+Monmouth,Rider,2018,0,93,103.9,101.3,105.8
+Rider,Monmouth,2018,1,101.3,105.8,93,103.9
+Northern Ky.,Wright State,2018,0,109.4,102.7,106.7,102
+Wright State,Northern Ky.,2018,1,106.7,102,109.4,102.7
+Sacred Heart,Fairl. Dickinson,2018,0,104.2,110.7,106.7,110.5
+Fairl. Dickinson,Sacred Heart,2018,1,106.7,110.5,104.2,110.7
+Denver,North Dakota,2018,0,99.8,112.9,97.4,106.2
+North Dakota,Denver,2018,1,97.4,106.2,99.8,112.9
+Incarnate Word,Stephen F. Austin,2018,0,97.5,120.3,95.4,108.2
+Stephen F. Austin,Incarnate Word,2018,1,95.4,108.2,97.5,120.3
+Maine,Stony Brook,2018,0,93.1,111.8,99.2,99.9
+Stony Brook,Maine,2018,1,99.2,99.9,93.1,111.8
+NJIT,Lipscomb,2018,0,102.2,103.1,111,97.2
+Lipscomb,NJIT,2018,1,111,97.2,102.2,103.1
+Temple,Memphis,2018,0,108.6,99.6,109,97.7
+Memphis,Temple,2018,1,109,97.7,108.6,99.6
+Georgia Tech,Virginia,2018,0,101.8,96,123.6,88.1
+Virginia,Georgia Tech,2018,1,123.6,88.1,101.8,96
+George Mason,Saint Louis,2018,0,104.4,103.8,102.5,96.4
+Saint Louis,George Mason,2018,1,102.5,96.4,104.4,103.8
+Stephen F. Austin,Lamar,2018,0,95.4,108.2,103.1,107.7
+Lamar,Stephen F. Austin,2018,1,103.1,107.7,95.4,108.2
+Nevada,Utah State,2018,0,114.1,95.2,113,96.4
+Utah State,Nevada,2018,1,113,96.4,114.1,95.2
+Boston College,Georgia Tech,2018,0,107.6,102.4,101.8,96
+Georgia Tech,Boston College,2018,1,101.8,96,107.6,102.4
+Northwestern,Illinois,2018,0,103,93.5,109.1,100.7
+Illinois,Northwestern,2018,1,109.1,100.7,103,93.5
+Kansas,Oklahoma,2018,0,112.8,92.1,109.5,94
+Oklahoma,Kansas,2018,1,109.5,94,112.8,92.1
+Oregon State,Washington,2018,0,111.2,103.3,107,93.7
+Washington,Oregon State,2018,1,107,93.7,111.2,103.3
+UTSA,Southern Miss,2018,0,105.8,104.1,106.6,100.2
+Southern Miss,UTSA,2018,1,106.6,100.2,105.8,104.1
+Incarnate Word,Abilene Christ.,2018,0,97.5,120.3,103.7,101.6
+Abilene Christ.,Incarnate Word,2018,1,103.7,101.6,97.5,120.3
+San Diego State,Nevada,2018,0,103.8,98.8,114.1,95.2
+Nevada,San Diego State,2018,1,114.1,95.2,103.8,98.8
+Alabama A&M,South Florida,2018,0,86.5,109.3,102.4,97.3
+South Florida,Alabama A&M,2018,1,102.4,97.3,86.5,109.3
+Montana State,Indiana,2018,0,107.5,115.2,110.2,95.1
+Indiana,Montana State,2018,1,110.2,95.1,107.5,115.2
+McNeese State,Arizona State,2018,0,98.1,114.6,109.9,98.6
+Arizona State,McNeese State,2018,1,109.9,98.6,98.1,114.6
+Southern,Baylor,2018,0,93.7,112.2,113.6,98.3
+Baylor,Southern,2018,1,113.6,98.3,93.7,112.2
+Hampton,California,2018,0,107.5,110.1,103,110.2
+California,Hampton,2018,1,103,110.2,107.5,110.1
+Seton Hall,Nebraska,2018,0,109.3,96.6,112.6,97.2
+Nebraska,Seton Hall,2018,1,112.6,97.2,109.3,96.6
+Hofstra,Maryland,2018,0,116.3,108.7,113.9,94
+Maryland,Hofstra,2018,1,113.9,94,116.3,108.7
+Presbyterian,UCLA,2018,0,109.1,111.1,108.5,102.6
+UCLA,Presbyterian,2018,1,108.5,102.6,109.1,111.1
+Incarnate Word,SIU Edwardsville,2018,0,97.5,120.3,96.6,113
+SIU Edwardsville,Incarnate Word,2018,1,96.6,113,97.5,120.3
+North Alabama,Toledo,2018,0,95.1,105.1,110.1,98.1
+Toledo,North Alabama,2018,1,110.1,98.1,95.1,105.1
+Hawaii,UCLA,2018,0,103.6,106.6,108.5,102.6
+UCLA,Hawaii,2018,1,108.5,102.6,103.6,106.6
+Cleveland State,Toledo,2018,0,101.6,111.6,110.1,98.1
+Toledo,Cleveland State,2018,1,110.1,98.1,101.6,111.6
+Charlotte,Wake Forest,2018,0,95.5,106.6,104.6,104.9
+Wake Forest,Charlotte,2018,1,104.6,104.9,95.5,106.6
+Utah Valley,Arizona,2018,0,108.9,102.1,105,98.2
+Arizona,Utah Valley,2018,1,105,98.2,108.9,102.1
+Oral Roberts,Missouri,2018,0,103.4,114.1,106.8,97
+Missouri,Oral Roberts,2018,1,106.8,97,103.4,114.1
+Wichita State,Oklahoma,2018,0,106,98.5,109.5,94
+Oklahoma,Wichita State,2018,1,109.5,94,106,98.5
+Longwood,Duquesne,2018,0,96.3,106.6,104.4,105.3
+Duquesne,Longwood,2018,1,104.4,105.3,96.3,106.6
+North Florida,Minnesota,2018,0,103.8,104.6,110.7,96.3
+Minnesota,North Florida,2018,1,110.7,96.3,103.8,104.6
+McNeese State,UMKC,2018,0,98.1,114.6,101,107.2
+UMKC,McNeese State,2018,1,101,107.2,98.1,114.6
+UNC Asheville,Stetson,2018,0,92.9,117,97.6,113.3
+Stetson,UNC Asheville,2018,1,97.6,113.3,92.9,117
+Texas Southern,Lamar,2018,0,104,108.6,103.1,107.7
+Lamar,Texas Southern,2018,1,103.1,107.7,104,108.6
+Green Bay,Evansville,2018,0,103,106.5,99.4,104.7
+Evansville,Green Bay,2018,1,99.4,104.7,103,106.5
+Kansas,Arizona State,2018,0,112.8,92.1,109.9,98.6
+Arizona State,Kansas,2018,1,109.9,98.6,112.8,92.1
+NJIT,Houston,2018,0,102.2,103.1,114.2,91.8
+Houston,NJIT,2018,1,114.2,91.8,102.2,103.1
+Chicago State,UMKC,2018,0,90.3,118.3,101,107.2
+UMKC,Chicago State,2018,1,101,107.2,90.3,118.3
+High Point,Winthrop,2018,0,99.2,104.7,106.4,107.7
+Winthrop,High Point,2018,1,106.4,107.7,99.2,104.7
+Samford,Chattanooga,2018,0,106.7,104.4,101.6,109.4
+Chattanooga,Samford,2018,1,101.6,109.4,106.7,104.4
+Santa Clara,BYU,2018,0,101.8,103.8,111.7,104.1
+BYU,Santa Clara,2018,1,111.7,104.1,101.8,103.8
+Fairfield,Quinnipiac,2018,0,95.8,107.3,105.3,111.5
+Quinnipiac,Fairfield,2018,1,105.3,111.5,95.8,107.3
+Northwestern,Michigan,2018,0,103,93.5,115.6,86.2
+Michigan,Northwestern,2018,1,115.6,86.2,103,93.5
+Texas,Kansas,2018,0,114.1,96.5,112.8,92.1
+Kansas,Texas,2018,1,112.8,92.1,114.1,96.5
+Boston College,Louisville,2018,0,107.6,102.4,113.4,92.5
+Louisville,Boston College,2018,1,113.4,92.5,107.6,102.4
+North Dakota St.,Denver,2018,0,106.7,109.8,99.8,112.9
+Denver,North Dakota St.,2018,1,99.8,112.9,106.7,109.8
+Little Rock,Texas State,2018,0,99.8,104.8,102.1,97.7
+Texas State,Little Rock,2018,1,102.1,97.7,99.8,104.8
+Chicago State,Grand Canyon,2018,0,90.3,118.3,108.1,102
+Grand Canyon,Chicago State,2018,1,108.1,102,90.3,118.3
+Stanford,Washington,2018,0,103.4,98.2,107,93.7
+Washington,Stanford,2018,1,107,93.7,103.4,98.2
+UCLA,USC,2018,0,108.5,102.6,109.3,101.6
+USC,UCLA,2018,1,109.3,101.6,108.5,102.6
+Auburn,South Carolina,2018,0,119.7,96.3,108,98.3
+South Carolina,Auburn,2018,1,108,98.3,119.7,96.3
+Monmouth,Canisius,2018,0,93,103.9,101.5,111.4
+Canisius,Monmouth,2018,1,101.5,111.4,93,103.9
+Idaho State,Montana,2018,0,101.9,118.2,107.5,103.9
+Montana,Idaho State,2018,1,107.5,103.9,101.9,118.2
+Arizona,USC,2018,0,105,98.2,109.3,101.6
+USC,Arizona,2018,1,109.3,101.6,105,98.2
+Detroit,IUPUI,2018,0,106.2,112.6,103.4,105.8
+IUPUI,Detroit,2018,1,103.4,105.8,106.2,112.6
+Delaware State,Howard,2018,0,84.3,113.9,101.9,114.3
+Howard,Delaware State,2018,1,101.9,114.3,84.3,113.9
+Longwood,USC Upstate,2018,0,96.3,106.6,92.9,111.4
+USC Upstate,Longwood,2018,1,92.9,111.4,96.3,106.6
+Chattanooga,Wofford,2018,0,101.6,109.4,118.5,97.7
+Wofford,Chattanooga,2018,1,118.5,97.7,101.6,109.4
+Iona,Fairfield,2018,0,106.5,109.7,95.8,107.3
+Fairfield,Iona,2018,1,95.8,107.3,106.5,109.7
+Seton Hall,Villanova,2018,0,109.3,96.6,116.9,98.4
+Villanova,Seton Hall,2018,1,116.9,98.4,109.3,96.6
+Xavier,Georgetown,2018,0,110.9,100.6,109.2,101.9
+Georgetown,Xavier,2018,1,109.2,101.9,110.9,100.6
+Penn,Cornell,2018,0,104,99.8,99.8,104.8
+Cornell,Penn,2018,1,99.8,104.8,104,99.8
+Rice,Old Dominion,2018,0,103,110.4,102,96.4
+Old Dominion,Rice,2018,1,102,96.4,103,110.4
+Boston College,Duke,2018,0,107.6,102.4,120.1,88.2
+Duke,Boston College,2018,1,120.1,88.2,107.6,102.4
+SIU Edwardsville,Austin Peay,2018,0,96.6,113,110.8,106.7
+Austin Peay,SIU Edwardsville,2018,1,110.8,106.7,96.6,113
+Louisville,Florida State,2018,0,113.4,92.5,113,90.5
+Florida State,Louisville,2018,1,113,90.5,113.4,92.5
+Northwestern,Iowa,2018,0,103,93.5,117.2,101.3
+Iowa,Northwestern,2018,1,117.2,101.3,103,93.5
+Kennesaw State,North Florida,2018,0,91.8,110.7,103.8,104.6
+North Florida,Kennesaw State,2018,1,103.8,104.6,91.8,110.7
+Chattanooga,Samford,2018,0,101.6,109.4,106.7,104.4
+Samford,Chattanooga,2018,1,106.7,104.4,101.6,109.4
+UNC Greensboro,Wofford,2018,0,106.6,97.9,118.5,97.7
+Wofford,UNC Greensboro,2018,1,118.5,97.7,106.6,97.9
+Stanford,Arizona State,2018,0,103.4,98.2,109.9,98.6
+Arizona State,Stanford,2018,1,109.9,98.6,103.4,98.2
+Kent State,Buffalo,2018,0,109.7,106.8,115,94.6
+Buffalo,Kent State,2018,1,115,94.6,109.7,106.8
+Auburn,Kentucky,2018,0,119.7,96.3,118.3,90.9
+Kentucky,Auburn,2018,1,118.3,90.9,119.7,96.3
+George Washington,Rhode Island,2018,0,95.2,106,103.7,101.2
+Rhode Island,George Washington,2018,1,103.7,101.2,95.2,106
+Indiana State,Drake,2018,0,101.1,105.2,107.1,102.7
+Drake,Indiana State,2018,1,107.1,102.7,101.1,105.2
+Tulane,Temple,2018,0,96.6,107.4,108.6,99.6
+Temple,Tulane,2018,1,108.6,99.6,96.6,107.4
+Air Force,Boise State,2018,0,100.5,107.4,107.2,104
+Boise State,Air Force,2018,1,107.2,104,100.5,107.4
+Vanderbilt,LSU,2018,0,102.1,101.2,118.6,97.5
+LSU,Vanderbilt,2018,1,118.6,97.5,102.1,101.2
+Navy,Colgate,2018,0,97.2,107.1,110.1,105.8
+Colgate,Navy,2018,1,110.1,105.8,97.2,107.1
+Southern,Texas Southern,2018,0,93.7,112.2,104,108.6
+Texas Southern,Southern,2018,1,104,108.6,93.7,112.2
+Alabama State,Iowa State,2018,0,94.6,111.1,119.1,97.3
+Iowa State,Alabama State,2018,1,119.1,97.3,94.6,111.1
+High Point,William & Mary,2018,0,99.2,104.7,103.4,108.1
+William & Mary,High Point,2018,1,103.4,108.1,99.2,104.7
+Dartmouth,Davidson,2018,0,103.3,108,108,100.2
+Davidson,Dartmouth,2018,1,108,100.2,103.3,108
+Oral Roberts,TCU,2018,0,103.4,114.1,110.4,96.3
+TCU,Oral Roberts,2018,1,110.4,96.3,103.4,114.1
+UTEP,Arizona,2018,0,89.9,101.2,105,98.2
+Arizona,UTEP,2018,1,105,98.2,89.9,101.2
+Rice,Houston,2018,0,103,110.4,114.2,91.8
+Houston,Rice,2018,1,114.2,91.8,103,110.4
+East Carolina,Georgia Tech,2018,0,98,107,101.8,96
+Georgia Tech,East Carolina,2018,1,101.8,96,98,107
+Alcorn State,Vanderbilt,2018,0,88.8,113.5,102.1,101.2
+Vanderbilt,Alcorn State,2018,1,102.1,101.2,88.8,113.5
+Alcorn State,Kent State,2018,0,88.8,113.5,109.7,106.8
+Kent State,Alcorn State,2018,1,109.7,106.8,88.8,113.5
+Liberty,Vanderbilt,2018,0,110.6,99.6,102.1,101.2
+Vanderbilt,Liberty,2018,1,102.1,101.2,110.6,99.6
+Yale,Vermont,2018,0,111.7,103.2,108,99.3
+Vermont,Yale,2018,1,108,99.3,111.7,103.2
+Lamar,SMU,2018,0,103.1,107.7,112,106.8
+SMU,Lamar,2018,1,112,106.8,103.1,107.7
+Portland State,Stanford,2018,0,101.6,112,103.4,98.2
+Stanford,Portland State,2018,1,103.4,98.2,101.6,112
+Oral Roberts,SMU,2018,0,103.4,114.1,112,106.8
+SMU,Oral Roberts,2018,1,112,106.8,103.4,114.1
+Minnesota,Ohio State,2018,0,110.7,96.3,109.3,94.3
+Ohio State,Minnesota,2018,1,109.3,94.3,110.7,96.3
+Lamar,Houston,2018,0,103.1,107.7,114.2,91.8
+Houston,Lamar,2018,1,114.2,91.8,103.1,107.7
+Fairfield,Old Dominion,2018,0,95.8,107.3,102,96.4
+Old Dominion,Fairfield,2018,1,102,96.4,95.8,107.3
+SIU Edwardsville,Drake,2018,0,96.6,113,107.1,102.7
+Drake,SIU Edwardsville,2018,1,107.1,102.7,96.6,113
+Alabama A&M,South Alabama,2018,0,86.5,109.3,103.1,107.5
+South Alabama,Alabama A&M,2018,1,103.1,107.5,86.5,109.3
+James Madison,William & Mary,2018,0,101,110.8,103.4,108.1
+William & Mary,James Madison,2018,1,103.4,108.1,101,110.8
+USC Upstate,Georgia Tech,2018,0,92.9,111.4,101.8,96
+Georgia Tech,USC Upstate,2018,1,101.8,96,92.9,111.4
+Wright State,Detroit,2018,0,106.7,102,106.2,112.6
+Detroit,Wright State,2018,1,106.2,112.6,106.7,102
+Elon,Drexel,2018,0,99,111.1,105.5,112.9
+Drexel,Elon,2018,1,105.5,112.9,99,111.1
+Tennessee Tech,Belmont,2018,0,89.6,104.6,115,101.3
+Belmont,Tennessee Tech,2018,1,115,101.3,89.6,104.6
+Air Force,Utah State,2018,0,100.5,107.4,113,96.4
+Utah State,Air Force,2018,1,113,96.4,100.5,107.4
+Portland,BYU,2018,0,94.3,110,111.7,104.1
+BYU,Portland,2018,1,111.7,104.1,94.3,110
+USC,Oregon State,2018,0,109.3,101.6,111.2,103.3
+Oregon State,USC,2018,1,111.2,103.3,109.3,101.6
+Presbyterian,Radford,2018,0,109.1,111.1,108.7,104.3
+Radford,Presbyterian,2018,1,108.7,104.3,109.1,111.1
+McNeese State,New Orleans,2018,0,98.1,114.6,97,104.7
+New Orleans,McNeese State,2018,1,97,104.7,98.1,114.6
+Wichita State,Houston,2018,0,106,98.5,114.2,91.8
+Houston,Wichita State,2018,1,114.2,91.8,106,98.5
+UCLA,Oregon State,2018,0,108.5,102.6,111.2,103.3
+Oregon State,UCLA,2018,1,111.2,103.3,108.5,102.6
+Ball State,Bowling Green,2018,0,102.4,98.3,108.3,102.1
+Bowling Green,Ball State,2018,1,108.3,102.1,102.4,98.3
+Providence,Marquette,2018,0,105,95.8,114.1,95.9
+Marquette,Providence,2018,1,114.1,95.9,105,95.8
+DePaul,Marquette,2018,0,110.7,104.5,114.1,95.9
+Marquette,DePaul,2018,1,114.1,95.9,110.7,104.5
